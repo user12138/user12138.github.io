@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
-{% include nav-head.html %}
+{% include nav/head.html %}
 <!-- hack iOS CSS :active style -->
 <body ontouchstart="">
     {{ content }}
     {% if page.ads %}
-    {% include nav/promotion.html %}
+    {% include nav/content/promotion.html %}
     {% endif %}
 </body>
 </html>
