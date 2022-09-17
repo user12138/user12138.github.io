@@ -1,9 +1,8 @@
 ---
 layout: nav-default
 title: "书签导航"
-permalink: /nav/
 ads: false
-track: false
+track: true
 noindex: true
 ---
 

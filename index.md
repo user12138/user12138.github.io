@@ -1,7 +1,6 @@
 ---
 layout: nav-default
 title: "书签导航 v20220916"
-permalink: /index.html
 ads: true
 track: true
 ---

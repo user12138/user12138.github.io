@@ -1,7 +1,6 @@
 ---
 layout: article-default
 title: "文章集合"
-permalink: /article/
 ---
 
 <article>
