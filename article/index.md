@@ -36,12 +36,16 @@ title: "文章集合"
     <h3>视频</h3>
     <h4>【B站】</h4>
     <a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1vW411h7iz?p=37">171210 IU Concert in Seoul[Full]</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV11v41157rj/">英韩中日4门语言| 切换语言=切换人格？</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1dt4y1176i/">相遇橘子洲头？【IU/SUGA】Eight中文填词翻唱 来8</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1tV411k7Su/">【神级填词】IU feat. SUGA霸榜神曲《Eight》粤语翻唱【雪霏岚岚/魔术肥】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1Zs411A7GC/">这个客人应该是和IU玩得最好的了吧-丹利&知恩cut-孝利家民宿</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV14L4y1T7kE/">恋爱循环英文版cover～！</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1VT411M7nr/">半开麦翻唱IU《星期五见面》，周五的快乐是IU给的</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV11q4y1G7y4/">【金秋老歌《被遗忘的季节》李龙 】钢琴演奏 附谱 BGM</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV177411n76u/">“她懂我，让我觉得悲伤”</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1AA4y197Kp/">如何成为一个心理意义上情绪成熟的人？【深度心理科普】</a>
-    <br>主题曲好听，颜值在线的女主 --> <a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1Kf4y1C7MP">高分喜剧《今生是第一次》全集解说【朔涵君】</a>
+    <br>主题曲好听，颜值在线的女主 --> <a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1Kf4y1C7MP/">高分喜剧《今生是第一次》全集解说【朔涵君】</a>
     <h4>【Youtube】</h4>
     <a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=wDfqXR_5yyQ">[4K][Special]Kiling Voice IU合集</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=BdwfiToXEio">[4K][Special]Kiling Voice Jannabi合集</a>
