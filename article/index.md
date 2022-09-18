@@ -25,6 +25,8 @@ title: "文章集合"
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.ichr.me/post/for-erjiu/">接纳自己——《二舅》讲了个故事而已</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://apps.apple.com/cn/story/id1623129570">《《小宇宙》团队：播客入坑指南》：App Store 故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://liyafu.com/2022-07-31-sqlite-untold-story/">SQLite 背后的故事</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://shunyu.wang/2021/content-farms-solved/">清理「内容农场」，让 Google 中文搜索再次伟大 by Shy Wang</a>
+    <br>张老师关于考研未来以及心态上的一点经验分享 --> <a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/663455.html"> 张雪峰：2023年，考研人数将突破500万？</a>
     <h4>【知识】</h4>
     <a target="_blank" rel="noopener nofollow" href="https://daily.zhihu.com/story/9731850">现代人都变得有头部前倾的的倾向了吗？应如何预防？</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bmpi.dev/money/">投资理财与被动收入系列文章 · 构建我的被动收入</a>
