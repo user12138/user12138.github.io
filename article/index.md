@@ -28,12 +28,17 @@ title: "文章集合"
     <h4>【知识】</h4>
     <a target="_blank" rel="noopener nofollow" href="https://daily.zhihu.com/story/9731850">现代人都变得有头部前倾的的倾向了吗？应如何预防？</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bmpi.dev/money/">投资理财与被动收入系列文章 · 构建我的被动收入</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://youzhiyouxing.cn/materials/1315">E54 个人养老金账户有必要开吗？太有了｜养老那些事儿 02</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAH1w1JLoeiUlxfKDZlcM4FO2PmUzQHwBmAfuXII4XoYs/?wid=1663401237477">ETF拯救世界头条号</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://three-recorder-52a.notion.site/Solidity-0023ac7df203454db730467dea62aad2">Solidity 极简入门</a>
     <h3>视频</h3>
     <h4>【B站】</h4>
     <a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1vW411h7iz?p=37">171210 IU Concert in Seoul[Full]</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV14L4y1T7kE/">恋爱循环英文版cover～！</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1VT411M7nr/">半开麦翻唱IU《星期五见面》，周五的快乐是IU给的</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV11q4y1G7y4/">【金秋老歌《被遗忘的季节》李龙 】钢琴演奏 附谱 BGM</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV177411n76u/">“她懂我，让我觉得悲伤”</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1AA4y197Kp/">如何成为一个心理意义上情绪成熟的人？【深度心理科普】</a>
     <br>主题曲好听，颜值在线的女主 --> <a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1Kf4y1C7MP">高分喜剧《今生是第一次》全集解说【朔涵君】</a>
     <h4>【Youtube】</h4>
     <a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=wDfqXR_5yyQ">[4K][Special]Kiling Voice IU合集</a>
