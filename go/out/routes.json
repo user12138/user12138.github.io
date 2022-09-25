@@ -19,6 +19,7 @@
     "firefox-sftp": "https://ftp.mozilla.org/pub/firefox/releases/",
     "firefox-official": "https://www.mozilla.org/zh-CN/firefox/new/",
     "firefox-all": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
+    "firefox-theme": "https://addons.mozilla.org/zh-CN/firefox/themes/",
     "firefox-desktop": "https://www.mozilla.org/zh-CN/firefox/channel/desktop/",
     "firefox-mobile": "https://www.mozilla.org/zh-CN/firefox/channel/desktop/",
     "firefox-archive": "https://archive.mozilla.org/pub/firefox/releases/",
@@ -29,5 +30,6 @@
     "firefox-developer": "https://www.mozilla.org/zh-CN/firefox/developer/",
     "firefox-calendar": "https://wiki.mozilla.org/Release_Management/Calendar",
     "nicothin-space": "https://addons.mozilla.org/zh-CN/firefox/addon/nicothin-space/",
-    "privacytests": "https://privacytests.org/"
+    "privacytests": "https://privacytests.org/",
+    "shades-of-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/shades-of-firefox/"
 }
