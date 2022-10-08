@@ -5,7 +5,7 @@ title: "文章集合"
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2022 年 9 月 21 日
+    最后更新时间：2022 年 10 月 08 日
     <br>此处主要是收集整理平时所遇到的文章等网页，当作书签积累写作素材以便后续翻阅。持续整理中，不保证任何实效性。
     <h3>文章</h3>
     <h4>【故事/经历/资讯】</h4>
@@ -23,6 +23,8 @@ title: "文章集合"
     <br>7.注重复利型的积累机会/8.讲原则与结善缘/9.要获得帮助的时候，多想想如何对等/10.避免高估自己的专业或者职业/11.找到一些机会，往往是概率事件
     <br><a target="_blank" rel="noopener nofollow" href="https://daily.zhihu.com/story/9710545">职场上有些事，别等人到中年才醒悟</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1915989367037700">如何利用下班后的“黄金时间”？这里有10种方法</a>
+    <br>2. 老板并不关心你的职业发展/3. 对公司保持忠诚是愚蠢的——换工作的报酬更高/11. 得到最好工作的人是最会搞关系的人
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1873060227517058">11条残酷但真实的职场箴言</a>
     
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.ichr.me/post/for-erjiu/">接纳自己——《二舅》讲了个故事而已</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://apps.apple.com/cn/story/id1623129570">《《小宇宙》团队：播客入坑指南》：App Store 故事</a>
