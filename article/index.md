@@ -25,7 +25,6 @@ title: "文章集合"
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1915989367037700">如何利用下班后的“黄金时间”？这里有10种方法</a>
     <br>2. 老板并不关心你的职业发展/3. 对公司保持忠诚是愚蠢的——换工作的报酬更高/11. 得到最好工作的人是最会搞关系的人
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1873060227517058">11条残酷但真实的职场箴言</a>
-    
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.ichr.me/post/for-erjiu/">接纳自己——《二舅》讲了个故事而已</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://apps.apple.com/cn/story/id1623129570">《《小宇宙》团队：播客入坑指南》：App Store 故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://liyafu.com/2022-07-31-sqlite-untold-story/">SQLite 背后的故事</a>
@@ -62,4 +61,8 @@ title: "文章集合"
     <br><a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=aApBs8kXNTA">잔나비(JANNABI) - 가을밤에 든 생각(A thought on an autumn night) COVER by BRMY Boramiyu</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=sszN4CTriF8">MBTI Inside ISFP 황혜선의 제주도 여행. J들은.. 싫어할 영상..(하트) vlog</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=rFV7wdEX-Mo">经济机器是怎样运行的 (时长30分钟) Ray Dalio - YouTube</a>
+    <h4>【其他】</h4>
+    <a target="_blank" rel="noopener nofollow" href="https://baike.baidu.com/item/%E7%A5%9E%E6%8E%A2%E5%A8%81%E5%A8%81%E7%8C%AB/7253382">神探威威猫
+</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://baike.baidu.com/item/%E9%AD%94%E7%A5%9E%E8%8B%B1%E9%9B%84%E4%BC%A0/3555024">神龙斗士</a>
 </article>
