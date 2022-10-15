@@ -10,6 +10,8 @@
     "multi-account-containers-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/",
     "vivaldifox-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/",
     "sidebery-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/sidebery/",
+    "floorp-official":"https://floorp.ablaze.one/en/",
+    "floorp-windows-lastest":"https://github.com/Floorp-Projects/Floorp/releases/download/v10.6.0/floorp-win64.installer.exe",
     "librewolf-windows-lastest": "https://gitlab.com/librewolf-community/browser/windows/uploads/aa7b2648ca6bb3d8ed4edbee845cf9ba/librewolf-105.0.1-1.en-US.win64-setup.exe",
     "librewolf-windows-updater": "https://addons.mozilla.org/zh-CN/firefox/addon/librewolf-updater/",
     "librewolf-official": "https://librewolf.net/",
