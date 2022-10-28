@@ -1,6 +1,7 @@
 ---
 layout: article-default
 title: "文章集合"
+noindex: true
 ---
 
 <article>
