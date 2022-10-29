@@ -14,3 +14,4 @@ noindex: true
 {% include nav/content/finance.html %}
 {% include nav/content/fund.html %}
 {% include nav/content/movie.html %}
+{% include nav/content/mine.html %}

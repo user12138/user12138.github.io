@@ -14,5 +14,3 @@ track: true
 {% include nav/content/software.html %}
 {% include nav/content/tools.html %}
 {% include nav/content/privacy.html %}
-
-<img src="/img/CA3.jpg" alt="eight" width="100">
