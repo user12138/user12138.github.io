@@ -3,6 +3,7 @@ layout: nav-default
 title: "书签导航 v20221030"
 ads: true
 track: true
+copyright: true
 ---
 
 {% include nav/content/search.html %}

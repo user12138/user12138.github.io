@@ -1,6 +1,6 @@
 ---
 layout: article-default
-title: "文章集合"
+title: "文章收藏"
 noindex: false
 ---
 

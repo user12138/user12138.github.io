@@ -4,6 +4,7 @@ title: "书签导航"
 ads: false
 track: true
 noindex: true
+copyright: true
 ---
 
 {% include nav/content/search.html %}
