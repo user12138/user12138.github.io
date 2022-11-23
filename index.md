@@ -1,6 +1,6 @@
 ---
 layout: nav-default
-title: "书签导航 v20221120"
+title: "书签导航 | 提高效率、分享优质信息与资源的简洁启动页（最后更新于2022.11.24）"
 ads: true
 track: true
 copyright: true
