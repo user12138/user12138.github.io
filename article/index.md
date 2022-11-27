@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2022 年 10 月 29 日
+    最后更新时间：2022 年 11 月 27 日
     <br>此处主要是收集整理平时所遇到的文章等网页，当作书签积累写作素材以便后续翻阅。持续整理中，不保证任何实效性。
     <h3>文章</h3>
     <h4>【故事/经历/资讯】</h4>
@@ -26,20 +26,23 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1915989367037700">如何利用下班后的“黄金时间”？这里有10种方法</a>
     <br>2. 老板并不关心你的职业发展/3. 对公司保持忠诚是愚蠢的——换工作的报酬更高/11. 得到最好工作的人是最会搞关系的人
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1873060227517058">11条残酷但真实的职场箴言</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.hitzhangjie.pro/blog/2022-10-01-%E8%A3%81%E5%91%98%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/">20221001 裁员带给我的思考</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/686781.html">20221015 我缺的不是陌生人社交，而是社交</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1969608171506566">20221023 职场不接受Gap Year</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/qs63zUvGKuSi2rHQnvM1Wg">20221024 这届年轻人的“上岸学”，看得我头大</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/699342.html">20221030 刘润年度演讲2022：把确定性传递给每一个人</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/EVJYvAGYRBTldv8_YEYsMQ">20221102 逃离北上广，我却挤不进小县城</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/701750.html">20221102  第一批开始怀念大厂的年轻人</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.ichr.me/post/for-erjiu/">接纳自己——《二舅》讲了个故事而已</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://apps.apple.com/cn/story/id1623129570">《《小宇宙》团队：播客入坑指南》：App Store 故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://liyafu.com/2022-07-31-sqlite-untold-story/">SQLite 背后的故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://shunyu.wang/2021/content-farms-solved/">清理「内容农场」，让 Google 中文搜索再次伟大 by Shy Wang</a>
-    <br>张老师关于考研未来以及心态上的一点经验分享 --> <a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/663455.html"> 张雪峰：2023年，考研人数将突破500万？</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/663455.html"> 张雪峰：2023年，考研人数将突破500万？</a> <-- 关于考研未来以及心态上的一点经验分享
     <h4>【小说】</h4>
     <a target="_blank" rel="noopener nofollow" href="https://zhuanlan.zhihu.com/p/491084622">《飞马牌汽车》全文</a>
     <h4>【知识】</h4>
     <a target="_blank" rel="noopener nofollow" href="https://daily.zhihu.com/story/9731850">现代人都变得有头部前倾的的倾向了吗？应如何预防？</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://www.bmpi.dev/money/">投资理财与被动收入系列文章 · 构建我的被动收入</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://youzhiyouxing.cn/materials/1315">E54 个人养老金账户有必要开吗？太有了｜养老那些事儿 02</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/TKL6k3Hokvqxd807Pfqvpg">日本老龄化投资启示录：养老企业拖后腿，制造、消费牛股多</a>
-    <!-- <br><a target="_blank" rel="noopener nofollow" href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAH1w1JLoeiUlxfKDZlcM4FO2PmUzQHwBmAfuXII4XoYs/?wid=1663401237477">ETF拯救世界头条号</a> -->
     <br><a target="_blank" rel="noopener nofollow" href="https://three-recorder-52a.notion.site/Solidity-0023ac7df203454db730467dea62aad2">Solidity 极简入门</a>
     <h4>【其他】</h4>
     <a target="_blank" rel="noopener nofollow" href="https://baike.baidu.com/item/%E7%A5%9E%E6%8E%A2%E5%A8%81%E5%A8%81%E7%8C%AB/7253382">神探威威猫

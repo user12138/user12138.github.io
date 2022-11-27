@@ -6,7 +6,7 @@ noindex: true
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2022 年 10 月 29 日
+    最后更新时间：2022 年 11 月 27 日
     <br>此处主要是收集平时刷到的视频合集，作为视频备份用。不构成任何安利推荐。
     <h3>视频</h3>
     <h4>【B站】</h4>
@@ -36,4 +36,6 @@ noindex: true
     <br><a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=aApBs8kXNTA">잔나비(JANNABI) - 가을밤에 든 생각(A thought on an autumn night) COVER by BRMY Boramiyu</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=sszN4CTriF8">MBTI Inside ISFP 황혜선의 제주도 여행. J들은.. 싫어할 영상..(하트) vlog</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=rFV7wdEX-Mo">经济机器是怎样运行的 (时长30分钟) Ray Dalio - YouTube</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=K-q165MhMIE"> 📞庞博脱口秀高光时刻！再现脱口秀神段子，猜到了好笑没猜到这么好笑！《脱口秀大会S5 Rock & Roast》 </a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.youtube.com/watch?v=3Z3J1KKqApg"> 📞“人体喷壶”呼兰！我干的越狠，老板甘的越爽！四灯炸场，爆笑停不下！《脱口秀大会S5 Rock & Roast》 </a>
 </article>

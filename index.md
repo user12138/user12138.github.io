@@ -1,6 +1,6 @@
 ---
 layout: nav-default
-title: "书签导航 | 提高效率、分享优质信息与资源的简洁启动页（最后更新于2022.11.24）"
+title: "书签导航 | 提高效率、分享优质信息与资源的简洁启动页（最后更新于2022.11.27）"
 ads: true
 track: true
 copyright: true
@@ -14,4 +14,6 @@ copyright: true
 {% include nav/content/blogs.html %}
 {% include nav/content/software.html %}
 {% include nav/content/tools.html %}
+{% include nav/content/program.html %}
 {% include nav/content/privacy.html %}
+{% include nav/content/finance.html %}
