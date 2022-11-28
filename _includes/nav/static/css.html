@@ -40,25 +40,27 @@
     }
 
 
-    .nav-item {
-        display: flex;
+    @media screen and (min-width:1000px) {
+        .nav-item {
+            display: flex;
+        }
+
+        .nav-content-ads {
+            display: grid;
+            grid-template-columns: 35% 45%;
+            grid-template-rows: 35% 45%;
+        }
+        .nav-content {
+            display: grid;
+            grid-template-columns: 50% 50%;
+            grid-template-rows: 50% 50%;
+        }
+
+        .nav-ads {}
     }
 
-    .nav-content {
-        display: flex;
-        flex-grow: 3;
-    }
 
-    .nav-ads {
-        flex-grow: 1;
-    }
-
-    .nax-content-item {
-        display: flex;
-        flex-direction: column;
-    }
-
-    @media screen and (max-width:1000px) {
+    @media screen and (max-width:800px) {
         .nav-ads {
             display: none;
         }
