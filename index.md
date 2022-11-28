@@ -8,13 +8,15 @@ copyright: true
 
 
 <div class="nav-item">
-    <div class="nav-content-ads">
-        {% include nav/content/search.html %}
-        {% include nav/content/hot.html %}
-        {% include nav/content/comms.html %}
-        {% include nav/content/movie.html %}
-        {% include nav/content/shopping.html %}
-        {% include nav/content/program.html %}
+    <div class="nav-ad-left">
+        <div class="nav-content">
+            {% include nav/content/search.html %}
+            {% include nav/content/hot.html %}
+            {% include nav/content/comms.html %}
+            {% include nav/content/movie.html %}
+            {% include nav/content/shopping.html %}
+            {% include nav/content/program.html %}
+        </div>
     </div>
     <div class="nav-ads">
         {% include nav/content/ads.html %}
