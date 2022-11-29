@@ -6,7 +6,7 @@ track: true
 copyright: true
 ---
 
-
+{% include nav/content/horizontal-ads.html %}
 <div class="nav-item">
     <div class="nav-ad-content">
         <div class="nav-content">
@@ -22,7 +22,7 @@ copyright: true
             {% include nav/content/tools.html %}
         </div>
     </div>
-    <div class="nav-ads">
+    <div>
         {% include nav/content/ads.html %}
     </div>
 </div>
