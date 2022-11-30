@@ -14,9 +14,6 @@ copyright: true
     {% include nav/content/shopping.html %}
     {% include nav/content/program.html %}
 </div>
-{% if page.ads %}
-{% include nav/content/promotion.html %}
-{% endif %}
 <div class="nav-content">
     {% include nav/content/blogs.html %}
     {% include nav/content/software.html %}
@@ -26,6 +23,9 @@ copyright: true
     {% include nav/content/tools.html %}
     {% include nav/content/privacy.html %}
 </div>
+{% if page.ads %}
+{% include nav/content/promotion.html %}
+{% endif %}
 {% include nav/content/finance.html %}
 {% include nav/content/fund.html %}
 
