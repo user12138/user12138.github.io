@@ -19,13 +19,13 @@ copyright: true
     {% include nav/content/software.html %}
 </div>
 {% include nav/content/entertain.html %}
+{% if page.ads %}
+{% include nav/content/promotion.html %}
+{% endif %}
 <div class="nav-content">
     {% include nav/content/tools.html %}
     {% include nav/content/privacy.html %}
 </div>
-{% if page.ads %}
-{% include nav/content/promotion.html %}
-{% endif %}
 {% include nav/content/finance.html %}
 {% include nav/content/fund.html %}
 
