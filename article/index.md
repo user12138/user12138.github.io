@@ -11,7 +11,7 @@ noindex: false
     <h3>文章</h3>
     <h4>【故事/经历/资讯】</h4>
     注重积累
-    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/332032.html">一个26岁概览</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/332032.html">20191219 一个26岁概览</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/560254.html">20220520 大学生期望工资6295元，要多了吗？</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/581281.html">20220614 首批裁员的大厂们，春季丰收了</a>
     <br>1.不愁好工作的时代结束了/2.主业赚钱养家，副业貌美如花/3.跳进人才/创业市场，才知自己几斤几两/4.降低欲望以退为进也是一种智慧
@@ -26,14 +26,16 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1915989367037700">如何利用下班后的“黄金时间”？这里有10种方法</a>
     <br>2. 老板并不关心你的职业发展/3. 对公司保持忠诚是愚蠢的——换工作的报酬更高/11. 得到最好工作的人是最会搞关系的人
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1873060227517058">11条残酷但真实的职场箴言</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://starfury.tech/archives/563">20220625 2022晋升季随笔</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://blog.ichr.me/post/for-erjiu/">20220728 接纳自己——《二舅》讲了个故事而已</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.hitzhangjie.pro/blog/2022-10-01-%E8%A3%81%E5%91%98%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/">20221001 裁员带给我的思考</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/686781.html">20221015 我缺的不是陌生人社交，而是社交</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://geekplux.com/posts/meet-strangers">20221019 与人聊天的美好</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1969608171506566">20221023 职场不接受Gap Year</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/qs63zUvGKuSi2rHQnvM1Wg">20221024 这届年轻人的“上岸学”，看得我头大</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/699342.html">20221030 刘润年度演讲2022：把确定性传递给每一个人</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/EVJYvAGYRBTldv8_YEYsMQ">20221102 逃离北上广，我却挤不进小县城</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/701750.html">20221102  第一批开始怀念大厂的年轻人</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://blog.ichr.me/post/for-erjiu/">接纳自己——《二舅》讲了个故事而已</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://apps.apple.com/cn/story/id1623129570">《《小宇宙》团队：播客入坑指南》：App Store 故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://liyafu.com/2022-07-31-sqlite-untold-story/">SQLite 背后的故事</a>
