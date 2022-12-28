@@ -1,0 +1,28 @@
+<script>
+    var searchEngineData = new Map(
+        [
+            ["bing", "https://www.bing.com/search?form=MOZLBR&pc=MOZI&q="],
+            ["ddg", "https://duckduckgo.com/?t=ffab&q="],
+            ["ecosia", "https://www.ecosia.org/search?method=index&q="],
+            ["fsou", "https://fsoufsou.com/search?tbn=all&q="],
+            ["google", "https://www.google.com/search?client=firefox-b-d&q="],
+            ["qwant", "https://www.qwant.com/?q="],
+            ["sogou", "https://www.sogou.com/web?query="],
+        ]
+    )
+
+    function toSearchPage() {
+        var searchEngine = document.getElementById("search-engine").value;
+        var searchContent = document.getElementById("search-content").value;
+        if (searchContent == "") {
+            console.log("没有搜索内容")
+            return;
+        }
+        var searchEnginePrefix = searchEngineData.get(searchEngine);
+        if (searchEnginePrefix == "")
+            searchEnginePrefix = searchEngineData.get("fsou");
+        var searchEngineUrl = searchEnginePrefix + searchContent;
+        console.log("即将访问 ", searchEngineUrl)
+        window.open(searchEngineUrl, '_blank');
+    }
+</script>
