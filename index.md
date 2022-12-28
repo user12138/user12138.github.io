@@ -6,8 +6,8 @@ track: true
 copyright: true
 ---
 
-{% include nav/content/search-bar.html %}
 {% include nav/content/horizontal-ads.html %}
+{% include nav/content/search-bar.html %}
 <div class="nav-content">
     {% include nav/content/search.html %}
     {% include nav/content/hot.html %}
