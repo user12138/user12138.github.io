@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2022 年 12 月 31 日
+    最后更新时间：2023 年 01 月 11 日
     <br>此处主要是收集整理平时所遇到的文章等网页，当作书签积累写作素材以便后续翻阅。持续整理中，不保证任何实效性。
     <h3>文章</h3>
     <h4>【故事/经历/资讯】</h4>
@@ -35,8 +35,9 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/qs63zUvGKuSi2rHQnvM1Wg">20221024 这届年轻人的“上岸学”，看得我头大</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/699342.html">20221030 刘润年度演讲2022：把确定性传递给每一个人</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/EVJYvAGYRBTldv8_YEYsMQ">20221102 逃离北上广，我却挤不进小县城</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/701750.html">20221102  第一批开始怀念大厂的年轻人</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/757583.html">20221231  2023，就业市场会好吗？</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/701750.html">20221102 第一批开始怀念大厂的年轻人</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/757583.html">20221231 2023，就业市场会好吗？</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.myzaker.com/article/63b13fea7f780b7c06000000">20221231 无论和谁相处，记住这 12 条忠告 -ZAKER新闻</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://apps.apple.com/cn/story/id1623129570">《《小宇宙》团队：播客入坑指南》：App Store 故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://liyafu.com/2022-07-31-sqlite-untold-story/">SQLite 背后的故事</a>
