@@ -36,6 +36,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/699342.html">20221030 刘润年度演讲2022：把确定性传递给每一个人</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/EVJYvAGYRBTldv8_YEYsMQ">20221102 逃离北上广，我却挤不进小县城</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/701750.html">20221102 第一批开始怀念大厂的年轻人</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/745542.html">20221218 独居的我，阳了</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/757583.html">20221231 2023，就业市场会好吗？</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.myzaker.com/article/63b13fea7f780b7c06000000">20221231 无论和谁相处，记住这 12 条忠告 -ZAKER新闻</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>

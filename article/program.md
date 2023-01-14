@@ -15,6 +15,8 @@ noindex: false
     <br>下载所有旧版本 Chromium 的教程 <a target="_blank" rel="noopener nofollow" href="https://github.com/Bugazelle/chromium-all-old-stable-versions">点击访问</a>
     <br>Uber Go 语言编码规范 <a target="_blank" rel="noopener nofollow" href="https://github.com/uber-go/guide">「多语言版」</a> <a target="_blank" rel="noopener nofollow" href="https://github.com/xxjwxc/uber_go_guide_cn">「中文版」</a>
     <h3>系统性学习地址</h3>
-    <a target="_blank" rel="noopener nofollow" href="https://pdai.tech/md/java/basic/java-basic-oop.html">Java 全栈知识体系</a>
+    Java 和 Spring 的基础知识<a target="_blank" rel="noopener nofollow" href="https://pdai.tech/md/java/basic/java-basic-oop.html">Java 全栈知识体系</a>
+    <br>Go 语言常见问题<a target="_blank" rel="noopener nofollow" href="https://golang.design/go-questions/">Go 程序员面试笔试宝典</a>
+    <br>Redis 基础知识整理<a target="_blank" rel="noopener nofollow" href="https://www.cnblogs.com/crazymakercircle/p/13900198.html">Redis 面试题 - 收藏版</a>
     <!-- <br> <a target="_blank" rel="noopener nofollow" href=""></a> -->
 </article>
