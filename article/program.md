@@ -16,7 +16,12 @@ noindex: false
     <br>Uber Go 语言编码规范 <a target="_blank" rel="noopener nofollow" href="https://github.com/uber-go/guide">「多语言版」</a> <a target="_blank" rel="noopener nofollow" href="https://github.com/xxjwxc/uber_go_guide_cn">「中文版」</a>
     <h3>系统性学习地址</h3>
     Java 和 Spring 的基础知识<a target="_blank" rel="noopener nofollow" href="https://pdai.tech/md/java/basic/java-basic-oop.html">Java 全栈知识体系</a>
-    <br>Go 语言常见问题<a target="_blank" rel="noopener nofollow" href="https://golang.design/go-questions/">Go 程序员面试笔试宝典</a>
-    <br>Redis 基础知识整理<a target="_blank" rel="noopener nofollow" href="https://www.cnblogs.com/crazymakercircle/p/13900198.html">Redis 面试题 - 收藏版</a>
+    <br>Spring 教程 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/5/83">[专辑：Spring教程_-Java充电社【公众号：Java充电社】]</a>
+    <br>分布式事务 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/7/160">[专辑：分布式事务专题_-Java充电社【公众号：Java充电社】]</a>
+    <br>Go 语言常见问题 <a target="_blank" rel="noopener nofollow" href="https://golang.design/go-questions/">[ Go 程序员面试笔试宝典 ]</a>
+    <br>Go 性能编程学习 <a target="_blank" rel="noopener nofollow" href="https://geektutu.com/post/high-performance-go.html">[ Go 语言高性能编程 ]</a>
+    <br>Redis 基础知识整理 <a target="_blank" rel="noopener nofollow" href="https://www.cnblogs.com/crazymakercircle/p/13900198.html">[ Redis 面试题 - 收藏版 ]</a>
+    <br>Redis 命令解释 <a target="_blank" rel="noopener nofollow" href="http://doc.redisfans.com/">[ Redis 命令参考 ]</a>
+    <br>Redis 原理<a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/hdclil/">[ Redis 设计与实现（第二版）]</a>
     <!-- <br> <a target="_blank" rel="noopener nofollow" href=""></a> -->
 </article>

@@ -17,6 +17,8 @@ noindex: true
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1Zs411A7GC/">这个客人应该是和IU玩得最好的了吧-丹利&知恩cut-孝利家民宿</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV14L4y1T7kE/">恋爱循环英文版cover～！</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1mt4y1a7r9/">一比一还原的谁，你们说吧</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1km4y1X7Jn/">唐可可官方纯正中文自我介绍【Liyuu】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1zG411A7iJ/">日式英语但是好听</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1JX4y1G7vx/">情侣粤语无厘头对话，男生被气哭了</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV14L4y1T7kE/">恋爱循环英文版cover～！</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1VT411M7nr/">半开麦翻唱IU《星期五见面》，周五的快乐是IU给的</a>
