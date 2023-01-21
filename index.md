@@ -7,7 +7,7 @@ copyright: true
 ---
 
 <div>
-    祝各位 2023 年新年快乐！万事如意！平安顺遂！
+    <center>祝各位 2023 年新年快乐！万事如意！平安顺遂！</center>
 </div>
 {% include nav/content/horizontal-ads.html %}
 {% include nav/content/search-bar.html %}
@@ -26,10 +26,10 @@ copyright: true
     {% include nav/content/tools.html %}
     {% include nav/content/privacy.html %}
 </div>
-{% include nav/content/finance.html %}
-{% include nav/content/fund.html %}
 {% if page.ads %}
 {% include nav/content/promotion.html %}
 {% endif %}
+{% include nav/content/finance.html %}
+{% include nav/content/fund.html %}
 
 
