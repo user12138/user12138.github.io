@@ -1,11 +1,14 @@
 ---
 layout: nav-default
-title: "混沌书签 v20230101 | 提高效率、分享优质信息与资源收藏的简洁导航"
+title: "混沌书签 v20230121（新春版） | 提高效率、分享优质信息与资源收藏的简洁导航"
 ads: true
 track: true
 copyright: true
 ---
 
+<div>
+    祝各位 2023 年新年快乐！万事如意！平安顺遂！
+</div>
 {% include nav/content/horizontal-ads.html %}
 {% include nav/content/search-bar.html %}
 <div class="nav-content">

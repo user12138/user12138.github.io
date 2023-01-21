@@ -26,6 +26,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1915989367037700">如何利用下班后的“黄金时间”？这里有10种方法</a>
     <br>2. 老板并不关心你的职业发展/3. 对公司保持忠诚是愚蠢的——换工作的报酬更高/11. 得到最好工作的人是最会搞关系的人
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1873060227517058">11条残酷但真实的职场箴言</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://darmau.design/article/you-will-never-become-szr-1/">20220411 来了不是深圳人(1)：拜拜了深圳</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://starfury.tech/archives/563">20220625 2022晋升季随笔</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.ichr.me/post/for-erjiu/">20220728 接纳自己——《二舅》讲了个故事而已</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.hitzhangjie.pro/blog/2022-10-01-%E8%A3%81%E5%91%98%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/">20221001 裁员带给我的思考</a>
@@ -42,6 +43,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/770718.html">20230115 说好的年终奖，没了</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.devtang.com/2016/07/07/the-dictators-handbook-summary/">永远的致胜联盟</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://blog.mboker.cn/archives/176.html">谈谈精致的利己主义者与功利教育</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://apps.apple.com/cn/story/id1623129570">《《小宇宙》团队：播客入坑指南》：App Store 故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://liyafu.com/2022-07-31-sqlite-untold-story/">SQLite 背后的故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://shunyu.wang/2021/content-farms-solved/">清理「内容农场」，让 Google 中文搜索再次伟大 by Shy Wang</a>
