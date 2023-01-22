@@ -22,7 +22,6 @@ copyright: true
     {% include nav/content/program.html %}
 </div>
 {% include nav/content/entertain.html %}
-{% include nav/content/horizontal-ads.html %}
 <div class="nav-content">
     {% include nav/content/tools.html %}
     {% include nav/content/privacy.html %}
