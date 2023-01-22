@@ -22,14 +22,15 @@ copyright: true
     {% include nav/content/program.html %}
 </div>
 {% include nav/content/entertain.html %}
+{% include nav/content/horizontal-ads.html %}
 <div class="nav-content">
     {% include nav/content/tools.html %}
     {% include nav/content/privacy.html %}
 </div>
+{% include nav/content/finance.html %}
+{% include nav/content/fund.html %}
 {% if page.ads %}
 {% include nav/content/promotion.html %}
 {% endif %}
-{% include nav/content/finance.html %}
-{% include nav/content/fund.html %}
 
 
