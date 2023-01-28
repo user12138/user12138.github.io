@@ -49,6 +49,9 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://liyafu.com/2022-07-31-sqlite-untold-story/">SQLite 背后的故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://shunyu.wang/2021/content-farms-solved/">清理「内容农场」，让 Google 中文搜索再次伟大 by Shy Wang</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/663455.html"> 张雪峰：2023年，考研人数将突破500万？</a> <-- 关于考研未来以及心态上的一点经验分享
+    <br>离婚时对于孩子财产以及各种责任如何分割/婚姻是性行为发生的前提条件吗/如何处理出轨/对性频率的期待是否一致/是否准备生小孩/准备谁来带小孩/彩礼和首付，日常消费的态度/你们对双父母的距离要求一致吗/对家庭财务的要求一致吗/家庭分工上是否有分歧/生活舒适度是否足够匹配
+    <br>个人额外补充：对真诚、尊重、理解、偏爱、合理期望、相对平等的理解与态度/是否追求长久/对契约关系和道德上个人约束的看法/工作生活家庭父母的看法/是否能在非原则性问题上尊重理解对方的态度，并在需要的时候有限度地迁就对方/自己是否已经有足够的能力做自己、降低父母和原生家庭的影响、维持双方关系
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV14Y411Q7oY/?t=440">20230127 婚前必谈的 10 个问题，谈不拢别结婚【全嘻嘻】</a> <-- 备忘
     <h4>【小说】</h4>
     <a target="_blank" rel="noopener nofollow" href="https://zhuanlan.zhihu.com/p/491084622">《飞马牌汽车》全文</a>
     <h4>【知识】</h4>
