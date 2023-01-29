@@ -3,6 +3,7 @@
 	"addons-firefox": "https://addons.mozilla.org/zh-CN/firefox/",
 	"adnauseam-crxsoso": "https://www.crxsoso.com/firefox/detail/adnauseam",
 	"adnauseam-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/adnauseam/",
+	"centbrowser-lastest": "https://static.centbrowser.cn/win_stable/5.0.1002.295/centbrowser_5.0.1002.295.exe",
 	"clearurls-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/",
 	"fennec": "https://f-droid.org/en/packages/org.mozilla.fennec_fdroid",
 	"firefox-all": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
@@ -59,5 +60,6 @@
 	"ublock-origin-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/",
 	"ublock-origin-official": "https://ublockorigin.com/",
 	"user-agent-switcher-revived": "https://addons.mozilla.org/zh-CN/firefox/addon/user-agent-switcher-revived/",
+	"vivaldi-lastest": "https://downloads.vivaldi.com/stable/Vivaldi.5.6.2867.62.x64.exe",
 	"vivaldifox-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/"
 }
