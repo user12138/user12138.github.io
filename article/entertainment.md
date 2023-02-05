@@ -1,7 +1,7 @@
 ---
 layout: article-default
 title: "娱乐视频收藏"
-noindex: true
+noindex: false
 ---
 
 <article>

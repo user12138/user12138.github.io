@@ -6,9 +6,10 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2023 年 01 月 11 日
+    最后更新时间：2023 年 02 月 05 日
     <h3>学习文章备份</h3>
     C++ 项目编译优化  <a target="_blank" rel="noopener nofollow" href="https://bot-man-jl.github.io/articles/?post=2022/Cpp-Project-Compile-Optimization">《C++ 项目编译优化 | BOT Man JL》</a>
+    <br>为什么游戏行业喜欢用PolarDB  <a target="_blank" rel="noopener nofollow" href="http://baotiao.github.io/2022/07/19/polardb-game.html">《为什么游戏行业喜欢用PolarDB | 做有积累的事情》</a>
     <h3>编程相关信息收藏</h3>
     极简问答形式的知识社区开源软件 <a target="_blank" rel="noopener nofollow" href="https://github.com/answerdev/answer">AnswerDev</a>
     <br>开源的跨平台文件管理器 <a target="_blank" rel="noopener nofollow" href="https://github.com/spacedriveapp/spacedrive">SpaceDrive</a>
