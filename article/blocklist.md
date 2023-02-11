@@ -6,10 +6,35 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2023 年 01 月 14 日
+        最后更新时间：2023 年 02 月 11 日
     <h3>屏蔽域名</h3>
         个人使用的屏蔽分析、跟踪请求、不需要功能的相关域名列表，配合其他如 [EasyPrivacy] [WindowsSpyBlocker (Spy)] 等广告过滤规则使用更佳。
         <br>添加前按需添加规则，部分配置会印象功能的正常使用，切勿一键导入。将某个域名拉黑将自动拉黑它所有的子域名。
+        <br>mum.hzchengdun.com
+        <br>adserver.yidianzixun.com
+        <br>in.appcenter.ms
+        <br>pfga0.market.xiaomi.com
+        <br>updateinfo.market.xiaomi.com
+        <br>tz.sec.xiaomi.com
+        <br>httpdns.kg.qq.com
+        <br>mob.com
+        <br>optimizationguide-pa.googleapis.com
+        <br>httpdns.meituan.com
+        <br>api.neixin.cn
+        <br>snowflake.qq.com
+        <br>a0.app.xiaomi.com
+        <br>ad.mh.163.com
+        <br>data.game.xiaomi.com
+        <br>trace.youzhiyouxing.cn
+        <br>q-app.market.xiaomi.com
+        <br>q-nileapi.market.xiaomi.com
+        <br>srv.sec.miui.com
+        <br>janapi.jd.com
+        <br>dg.k.jd.com
+        <br>dsp-x.jd.com
+        <br>dgstatic.jd.com
+        <br>advert.58.com
+        <br>adukwai.com
         <br>10046.mi.com
         <br>8zhuayu.cc
         <br>ab.qq.com
@@ -98,5 +123,4 @@ noindex: false
         <br>xfinfr.com
         <br>xycdn.com
         <br>sdk.51.la
-
 </article>
