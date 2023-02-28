@@ -42,6 +42,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.myzaker.com/article/63b13fea7f780b7c06000000">20221231 无论和谁相处，记住这 12 条忠告 -ZAKER新闻</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/770718.html">20230115 说好的年终奖，没了</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/776543.html">20230123 新的一年，五步法理清个人职业发展方向</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/804598.html">20230127 上岸，及其受害者</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.devtang.com/2016/07/07/the-dictators-handbook-summary/">永远的致胜联盟</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.mboker.cn/archives/176.html">谈谈精致的利己主义者与功利教育</a>
