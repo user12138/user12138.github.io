@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2023 年 01 月 11 日
+    最后更新时间：2023 年 03 月 10 日
     <br>此处主要是收集整理平时所遇到的文章等网页，当作书签积累写作素材以便后续翻阅。持续整理中，不保证任何实效性。
     <h3>文章</h3>
     <h4>【故事/经历/资讯】</h4>
@@ -43,6 +43,8 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/770718.html">20230115 说好的年终奖，没了</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/776543.html">20230123 新的一年，五步法理清个人职业发展方向</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/804598.html">20230127 上岸，及其受害者</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/814854.html">20230308 小镇贵妇：赢在起跑线，不去北上广</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/814113.html">20230308 我资助了八年的女生，选择去做家庭主妇</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.devtang.com/2016/07/07/the-dictators-handbook-summary/">永远的致胜联盟</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.mboker.cn/archives/176.html">谈谈精致的利己主义者与功利教育</a>
