@@ -1,12 +1,12 @@
 ---
 layout: article-default
-title: "财经、投资相关的文章和言论收藏"
+title: "财经、投资相关的文章和观点收集"
 noindex: false
 ---
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2023 年 01 月 11 日
+    最后更新时间：2023 年 03 月 10 日
     <hr>
     <h3>财经文章收藏</h3>
     <a target="_blank" rel="noopener nofollow" href="https://www.yicai.com/news/101571807.html">社论：积极做好风险资产价值重估的准备</a>
@@ -20,6 +20,8 @@ noindex: false
     <br>相关讨论 2022.11.27 结论：建议观望
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/469069">关于养老金投资那些事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/469022">你会缴纳个人养老金吗？</a>
+    <br>富达国际“退休储蓄黄金法则”：在30岁的时候建议存够相当于当时年薪1倍的储蓄用于养老；到40岁，存够4倍；50岁时，存够6倍，退休时，则要存够当年年薪的9倍。要实现这一目标，如果从25岁开始储蓄，则要拨出年收入的19%用于养老，一直存到62岁的理想退休年龄，而如果越晚开始，每年需要存的越多。
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/815353.html">你会缴纳个人养老金吗？</a>
     <hr>
     <h3>历年投资展望记录收集</h3>
     <h4>2023年</h4>
