@@ -26,6 +26,8 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1915989367037700">如何利用下班后的“黄金时间”？这里有10种方法</a>
     <br>2. 老板并不关心你的职业发展/3. 对公司保持忠诚是愚蠢的——换工作的报酬更高/11. 得到最好工作的人是最会搞关系的人
     <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/1873060227517058">11条残酷但真实的职场箴言</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://yishi.io/safe-internet-surfing-and-protect-your-privacy/">安全上网指南</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://yishi.io/guide-to-safe-access-internet/">安全上网指南 2</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://darmau.design/article/you-will-never-become-szr-1/">20220411 来了不是深圳人(1)：拜拜了深圳</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://starfury.tech/archives/563">20220625 2022晋升季随笔</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.ichr.me/post/for-erjiu/">20220728 接纳自己——《二舅》讲了个故事而已</a>
