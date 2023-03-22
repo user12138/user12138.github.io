@@ -1,12 +1,11 @@
 ---
 layout: nav-default
-title: "混沌书签导航 v230315 | 提高效率、分享优质信息与资源收藏的简洁导航"
+title: "混沌书签导航 v230322 | 提高效率、分享优质信息与资源收藏的简洁导航"
 ads: true
 track: true
 copyright: true
 ---
 
-{% include nav/content/horizontal-ads.html %}
 {% include nav/content/search-bar.html %}
 <div class="nav-content">
     {% include nav/content/search.html %}
@@ -23,6 +22,7 @@ copyright: true
     {% include nav/content/tools.html %}
     {% include nav/content/privacy.html %}
 </div>
+{% include nav/content/horizontal-ads.html %}
 {% include nav/content/finance.html %}
 {% if page.ads %}
 {% include nav/content/promotion.html %}
