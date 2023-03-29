@@ -45,8 +45,10 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/770718.html">20230115 说好的年终奖，没了</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/776543.html">20230123 新的一年，五步法理清个人职业发展方向</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/804598.html">20230127 上岸，及其受害者</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.36kr.com/p/2128165442432006">20230212 严查考勤，“逼疯”互联网人</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/814854.html">20230308 小镇贵妇：赢在起跑线，不去北上广</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/814113.html">20230308 我资助了八年的女生，选择去做家庭主妇</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/851818.html">20230319 大厂中年，被裁后没有网上那么洒脱</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.devtang.com/2016/07/07/the-dictators-handbook-summary/">永远的致胜联盟</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.mboker.cn/archives/176.html">谈谈精致的利己主义者与功利教育</a>

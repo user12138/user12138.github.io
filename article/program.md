@@ -17,14 +17,21 @@ noindex: false
     <br>开源的跨平台文件管理器 <a target="_blank" rel="noopener nofollow" href="https://github.com/spacedriveapp/spacedrive">SpaceDrive</a>
     <br>下载所有旧版本 Chromium 的教程 <a target="_blank" rel="noopener nofollow" href="https://github.com/Bugazelle/chromium-all-old-stable-versions">点击访问</a>
     <br>Uber Go 语言编码规范 <a target="_blank" rel="noopener nofollow" href="https://github.com/uber-go/guide">「多语言版」</a>/<a target="_blank" rel="noopener nofollow" href="https://github.com/xxjwxc/uber_go_guide_cn">「中文版」</a>
+    <br>libmill 一个基于linux c语言开发的go风格协程库 <a target="_blank" rel="noopener nofollow" href="https://www.hitzhangjie.pro/libmill-book/">libmill 序言 · GitBook</a>
     <h3>系统性学习地址</h3>
-    Java 和 Spring 的基础知识<a target="_blank" rel="noopener nofollow" href="https://pdai.tech/md/java/basic/java-basic-oop.html">Java 全栈知识体系</a>
-    <br>Spring 教程 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/5/83">[专辑：Spring教程_-Java充电社【公众号：Java充电社】]</a>
-    <br>分布式事务 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/7/160">[专辑：分布式事务专题_-Java充电社【公众号：Java充电社】]</a>
     <br>Go 语言常见问题 <a target="_blank" rel="noopener nofollow" href="https://golang.design/go-questions/">[ Go 程序员面试笔试宝典 ]</a>
     <br>Go 性能编程学习 <a target="_blank" rel="noopener nofollow" href="https://geektutu.com/post/high-performance-go.html">[ Go 语言高性能编程 ]</a>
+    <br>Go 标准库 <a target="_blank" rel="noopener nofollow" href="https://books.studygolang.com/The-Golang-Standard-Library-by-Example/">[ 简介 · Go语言标准库 ]</a>
+    <br>Java 和 Spring 的基础知识<a target="_blank" rel="noopener nofollow" href="https://pdai.tech/md/java/basic/java-basic-oop.html">Java 全栈知识体系</a>
+    <br>Spring 教程 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/5/83">[ 专辑：Spring教程_-Java充电社【公众号：Java充电社】]</a>
+    <br>分布式事务 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/7/160">[ 专辑：分布式事务专题_-Java充电社【公众号：Java充电社】]</a>
     <br>Redis 基础知识整理 <a target="_blank" rel="noopener nofollow" href="https://www.cnblogs.com/crazymakercircle/p/13900198.html">[ Redis 面试题 - 收藏版 ]</a>
     <br>Redis 命令解释 <a target="_blank" rel="noopener nofollow" href="http://doc.redisfans.com/">[ Redis 命令参考 ]</a>
     <br>Redis 原理<a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/hdclil/">[ Redis 设计与实现（第二版）]</a>
+    <br>算法 <a target="_blank" rel="noopener nofollow" href="https://labuladong.gitee.io/algo/">[ labuladong 的算法小抄 :: labuladong的算法小抄 ]</a>
+    <br>计算机网络 <a target="_blank" rel="noopener nofollow" href="https://xiaolincoding.com/network/">[ 图解网络介绍 | 小林coding ]</a>
+    <br>系统设计入门 <a target="_blank" rel="noopener nofollow" href="https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md">[ system-design-primer/README-zh-Hans.md ]</a>
+    <br>架构设计 <a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html">[ 架构 秒杀系统优化思路_w3cschool ]</a>
+    <br>工作习惯和意识 <a target="_blank" rel="noopener nofollow" href="https://github.com/cdk8s/cdk8s-team-style">[ cdk8s/cdk8s-team-style: 寻找志同道合的人，引发自身的思考 ]</a>
     <!-- <br> <a target="_blank" rel="noopener nofollow" href=""></a> -->
 </article>

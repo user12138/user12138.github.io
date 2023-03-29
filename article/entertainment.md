@@ -14,6 +14,8 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV11v41157rj/">英韩中日4门语言| 切换语言=切换人格？</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1dt4y1176i/">相遇橘子洲头？【IU/SUGA】Eight中文填词翻唱 来8</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1tV411k7Su/">【神级填词】IU feat. SUGA霸榜神曲《Eight》粤语翻唱【雪霏岚岚/魔术肥】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/av77978860/">【粤语】穷富翁大作战 第一季【全集】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/bangumi/play/ss39707">中国奇谭-国创</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1Zs411A7GC/">这个客人应该是和IU玩得最好的了吧-丹利&知恩cut-孝利家民宿</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV14L4y1T7kE/">恋爱循环英文版cover～！</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1mt4y1a7r9/">一比一还原的谁，你们说吧</a>
