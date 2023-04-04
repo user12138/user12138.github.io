@@ -61,6 +61,8 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/970185.html">招商资管核心优势混合C</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/014330.html">中融优势产业混合C</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/920923.html">中金新锐股票C</a>
+    <br>====2302观察====
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/011145.html">华安汇宏精选混合C</a>
     <br>====基金经理====
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30411926.html">王海峰</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30532811.html">杨嘉文</a>
