@@ -1,12 +1,12 @@
 ---
 layout: article-default
-title: "实用油猴脚本列表"
+title: "实用脚本插件列表"
 noindex: false
 ---
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2023 年 03 月 19 日
+        最后更新时间：2023 年 04 月 05 日
     <h3>油猴安装</h3>
         下载 --> <a target="_blank" rel="noopener nofollow" href="https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/">Tampermonkey</a>
     <h3>脚本列表</h3>
@@ -20,4 +20,8 @@ noindex: false
     <h4>Washbaidu</h4>
     提升百度搜索体验的插件
     <br>下载 --> <a target="_blank" rel="noopener nofollow" href="https://toast.pub/washbaidu/install.html">Washbaidu</a>
+    <h4>uBlacklist</h4>
+    在搜索引擎结果里折叠不好内容的插件
+    <br>下载 --> <a target="_blank" rel="noopener nofollow" href="https://iorate.github.io/ublacklist/">uBlacklist</a>
+    <br>订阅规则 --> https://git.io/ublacklist
 </article>
