@@ -31,6 +31,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://darmau.design/article/you-will-never-become-szr-1/">20220411 来了不是深圳人(1)：拜拜了深圳</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://starfury.tech/archives/563">20220625 2022晋升季随笔</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.ichr.me/post/for-erjiu/">20220728 接纳自己——《二舅》讲了个故事而已</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://rohit.blog/care/">20220808 No one cares</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.hitzhangjie.pro/blog/2022-10-01-%E8%A3%81%E5%91%98%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/">20221001 裁员带给我的思考</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/686781.html">20221015 我缺的不是陌生人社交，而是社交</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://geekplux.com/posts/meet-strangers">20221019 与人聊天的美好</a>
