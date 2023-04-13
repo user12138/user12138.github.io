@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2023 年 03 月 10 日
+    最后更新时间：2023 年 04 月 13 日
     <br>此处主要是收集整理平时所遇到的文章等网页，当作书签积累写作素材以便后续翻阅。持续整理中，不保证任何实效性。
     <h3>文章</h3>
     <h4>【故事/经历/资讯】</h4>
@@ -32,6 +32,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://starfury.tech/archives/563">20220625 2022晋升季随笔</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.ichr.me/post/for-erjiu/">20220728 接纳自己——《二舅》讲了个故事而已</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://rohit.blog/care/">20220808 No one cares</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://blog.localvar.cn/archives/working-at-megaease">20220901 在 MegaEase 工作是一种怎样的体验</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.hitzhangjie.pro/blog/2022-10-01-%E8%A3%81%E5%91%98%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/">20221001 裁员带给我的思考</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/686781.html">20221015 我缺的不是陌生人社交，而是社交</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://geekplux.com/posts/meet-strangers">20221019 与人聊天的美好</a>
@@ -50,6 +51,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/814854.html">20230308 小镇贵妇：赢在起跑线，不去北上广</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/814113.html">20230308 我资助了八年的女生，选择去做家庭主妇</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/851818.html">20230319 大厂中年，被裁后没有网上那么洒脱</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/930962.html">20230326 AI真的快让我失业了</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.devtang.com/2016/07/07/the-dictators-handbook-summary/">永远的致胜联盟</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.mboker.cn/archives/176.html">谈谈精致的利己主义者与功利教育</a>

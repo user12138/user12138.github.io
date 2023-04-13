@@ -32,6 +32,7 @@ noindex: false
     <br>计算机网络 <a target="_blank" rel="noopener nofollow" href="https://xiaolincoding.com/network/">[ 图解网络介绍 | 小林coding ]</a>
     <br>系统设计入门 <a target="_blank" rel="noopener nofollow" href="https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md">[ system-design-primer/README-zh-Hans.md ]</a>
     <br>架构设计 <a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html">[ 架构 秒杀系统优化思路_w3cschool ]</a>
-    <br>工作习惯和意识 <a target="_blank" rel="noopener nofollow" href="https://github.com/cdk8s/cdk8s-team-style">[ cdk8s/cdk8s-team-style: 寻找志同道合的人，引发自身的思考 ]</a>
+    <br>工作习惯和意识 <a target="_blank" rel="noopener nofollow" href="https://github.com/cdk8s/cdk8s-team-style">[ GitHub - cdk8s/cdk8s-team-style: 寻找志同道合的人，引发自身的思考 ]</a>
+    <br>反向面试 <a target="_blank" rel="noopener nofollow" href="https://github.com/yifeikong/reverse-interview-zh">[ GitHub - yifeikong/reverse-interview-zh: 技术面试最后反问面试官的话 ]</a>
     <!-- <br> <a target="_blank" rel="noopener nofollow" href=""></a> -->
 </article>
