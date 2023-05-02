@@ -10,7 +10,8 @@ noindex: false
 <a href="/article/entertainment.html">Entertainment</a>
 <a href="/article/finance.html">Finance</a>
 <a href="/article/fund.html">Fund</a>
+<a href="/article/newsletter.html">Newsletter</a>
 <a href="/article/program.html">Program</a>
+<a href="/article/podcast.html">Podcast</a>
 <a href="/article/psychology.html">Psychology</a>
 <a href="/article/scriptlist.html">ScriptList</a>
-<a href="/article/newsletter.html">Newsletter</a>
