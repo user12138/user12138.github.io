@@ -52,6 +52,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/814113.html">20230308 我资助了八年的女生，选择去做家庭主妇</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/851818.html">20230319 大厂中年，被裁后没有网上那么洒脱</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/930962.html">20230326 AI真的快让我失业了</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/1219588.html">20230418 离开大厂的打工人，他们流向了哪里？</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.devtang.com/2016/07/07/the-dictators-handbook-summary/">永远的致胜联盟</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.mboker.cn/archives/176.html">谈谈精致的利己主义者与功利教育</a>
