@@ -53,13 +53,17 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/851818.html">20230319 大厂中年，被裁后没有网上那么洒脱</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/930962.html">20230326 AI真的快让我失业了</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/1219588.html">20230418 离开大厂的打工人，他们流向了哪里？</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/1591833.html">20230523 月薪2万，吃不起中式快餐</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/1592299.html">20230523 10块钱解决两餐饭，年轻人爱上“剩菜盲盒”</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/jtAWkUu_u0k3nuzrPUPrNw">20230531 身边割肉的人越来越多了”</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.yicai.com/news/101774802.html">20230605 实地探访深圳白芒村：业主签约率仅12.5%，城中村“统租”如何推进？”</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.devtang.com/2016/07/07/the-dictators-handbook-summary/">永远的致胜联盟</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.mboker.cn/archives/176.html">谈谈精致的利己主义者与功利教育</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://apps.apple.com/cn/story/id1623129570">《《小宇宙》团队：播客入坑指南》：App Store 故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://liyafu.com/2022-07-31-sqlite-untold-story/">SQLite 背后的故事</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://shunyu.wang/2021/content-farms-solved/">清理「内容农场」，让 Google 中文搜索再次伟大 by Shy Wang</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/663455.html"> 张雪峰：2023年，考研人数将突破500万？</a> <-- 关于考研未来以及心态上的一点经验分享
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/663455.html">张雪峰：2023年，考研人数将突破500万？</a> <-- 关于考研未来以及心态上的一点经验分享
     <br>离婚时对于孩子财产以及各种责任如何分割/婚姻是性行为发生的前提条件吗/如何处理出轨/对性频率的期待是否一致/是否准备生小孩/准备谁来带小孩/彩礼和首付，日常消费的态度/你们对双父母的距离要求一致吗/对家庭财务的要求一致吗/家庭分工上是否有分歧/生活舒适度是否足够匹配
     <br>个人额外补充：对真诚、尊重、理解、偏爱、合理期望、相对平等的理解与态度/是否追求长久/对契约关系和道德上个人约束的看法/工作生活家庭父母的看法/是否能在非原则性问题上尊重理解对方的态度，并在需要的时候有限度地迁就对方/自己是否已经有足够的能力做自己、降低父母和原生家庭的影响、维持双方关系
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV14Y411Q7oY/?t=440">20230127 婚前必谈的 10 个问题，谈不拢别结婚【全嘻嘻】</a> <-- 备忘
