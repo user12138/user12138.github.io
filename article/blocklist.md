@@ -6,121 +6,159 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2023 年 02 月 11 日
+        最后更新时间：2023 年 06 月 24 日
     <h3>屏蔽域名</h3>
         个人使用的屏蔽分析、跟踪请求、不需要功能的相关域名列表，配合其他如 [EasyPrivacy] [WindowsSpyBlocker (Spy)] 等广告过滤规则使用更佳。
         <br>添加前按需添加规则，部分配置会印象功能的正常使用，切勿一键导入。将某个域名拉黑将自动拉黑它所有的子域名。
-        <br>mum.hzchengdun.com
-        <br>adserver.yidianzixun.com
-        <br>in.appcenter.ms
-        <br>pfga0.market.xiaomi.com
-        <br>updateinfo.market.xiaomi.com
-        <br>tz.sec.xiaomi.com
-        <br>httpdns.kg.qq.com
-        <br>mob.com
-        <br>optimizationguide-pa.googleapis.com
-        <br>httpdns.meituan.com
-        <br>api.neixin.cn
-        <br>snowflake.qq.com
-        <br>a0.app.xiaomi.com
-        <br>ad.mh.163.com
-        <br>data.game.xiaomi.com
-        <br>trace.youzhiyouxing.cn
-        <br>q-app.market.xiaomi.com
-        <br>q-nileapi.market.xiaomi.com
-        <br>srv.sec.miui.com
-        <br>janapi.jd.com
-        <br>dg.k.jd.com
-        <br>dsp-x.jd.com
-        <br>dgstatic.jd.com
-        <br>advert.58.com
-        <br>adukwai.com
         <br>10046.mi.com
         <br>8zhuayu.cc
+        <br>a0.app.xiaomi.com
         <br>ab.qq.com
+        <br>ad.mh.163.com
+        <br>ad.us.sinaimg.cn
+        <br>adserver.yidianzixun.com
+        <br>adstrategy.biz.weibo.com
+        <br>adukwai.com
+        <br>advert.58.com
         <br>ai.xiaomi.com
+        <br>aispeech.com
+        <br>amonsul.douban.com
         <br>analytics.10010.com
+        <br>analytics.srvnw.com
+        <br>analyticspixel.microsoft.com
         <br>api-sensors.yingmi.cn
+        <br>api.installer.xiaomi.com
         <br>api.kingdata.ksyun.com
+        <br>api.neixin.cn
+        <br>app.cauly.co.kr
         <br>app.link
         <br>auth.wosms.cn
         <br>avast.com
         <br>b23.tv
+        <br>beacon-api.aliyuncs.com
+        <br>beacon.cdn.qq.com
+        <br>biz.weibo.com
         <br>centertime.ksyun.com
         <br>checkappexec.microsoft.com
         <br>cm.bilibili.com
         <br>cmpassport.com
         <br>cn.app.chat.xiaomi.net
+        <br>collect.bz.mgtv.com
         <br>connect.rom.miui.com
+        <br>content-autofill.googleapis.com
         <br>contile.services.mozilla.com
+        <br>cpatrk.net
         <br>data.bilibili.com
+        <br>data.game.xiaomi.com
+        <br>data.osdknw.com
+        <br>datacollection.uve.weibo.com
         <br>datacollector-drcn.dt.hicloud.com
-        <br>dataflow.biliapi.com
+        <br>dg.k.jd.com
+        <br>dgstatic.jd.com
+        <br>dns.google
         <br>dns.pub
         <br>dns.weixin.qq.com.cn
+        <br>dsp-x.jd.com
+        <br>edge.microsoft.com
         <br>example.com
         <br>experiment.xiaomi.com
         <br>firevent.jd.com
+        <br>flash.sec.miui.com
         <br>fxltsbl.com
         <br>getui.com
-        <br>graph.facebook.com
         <br>grs.dbankcloud.com
         <br>health.comm.miui.com
+        <br>hotfix-api.aliyuncs.com
         <br>hpplay.cn
+        <br>httpdns.kg.qq.com
+        <br>httpdns.meituan.com
         <br>huoyanio.com
         <br>id6.me
+        <br>iflysec.com
         <br>ifread.com
+        <br>in.appcenter.ms
+        <br>infoc2.duba.net
         <br>io.mi.com
         <br>iot.mi.com
-        <br>jianjie.2345.com
+        <br>janapi.jd.com
         <br>jr.mi.com
         <br>jupiter.sys.miui.com
+        <br>kadmimage.biz.weibo.com
         <br>kookong.com
         <br>lenovo.com
         <br>lenovo.com.cn
         <br>lenovomm.com
+        <br>lf1-cdn-tos.bytegoofy.com
         <br>liveupdate7.drivergenius.com
         <br>location.services.mozilla.com
         <br>log.iflytek.com
+        <br>logcollection.ronghub.com
+        <br>logcollector.haohaozhu.cn
         <br>mapi.m.jd.com
         <br>metric.gstatic.com
+        <br>microsoftedge.microsoft.com
         <br>miui-fxcse.avlyun.com
         <br>miwifi.com
+        <br>mob.com
         <br>mobileservice.cn
+        <br>mum.hzchengdun.com
         <br>nisgd1.10010.com
+        <br>norma-external-collect.meizu.com
         <br>onethingpcs.com
         <br>open.e.189.cn
         <br>openspeech.cn
+        <br>optimizationguide-pa.googleapis.com
         <br>p2cdn.com
         <br>pandora.xiaomi.com
-        <br>qnchrome.com
+        <br>pangolin-sdk-toutiao-b.com
+        <br>pangolin-sdk-toutiao.com
+        <br>pangolin-sdk-toutiao1.com
+        <br>ping.cloud.tencent.com
+        <br>port.sec.miui.com
+        <br>q-app.market.xiaomi.com
+        <br>q-nileapi.market.xiaomi.com
+        <br>qsb.browser.miui.srv
         <br>rmonitor.qq.com
         <br>safebrowsing.googleapis.com
+        <br>sandai.net
+        <br>sdk.51.la
         <br>sensors-focus.yingmi.com
+        <br>sensors.cloud.tencent.com
         <br>sensorsdata.cn
         <br>sentry-android.mm.taou.com
         <br>sentry.music.163.com
+        <br>sentry.xiaoyuzhoufm.com
         <br>sharetrace.com
         <br>slb-p2p.vcloud.ks-live.com
+        <br>snowflake.qq.com
         <br>splash.unity.cn
+        <br>store.assistant.miui.com
         <br>sysdk.cl2009.com
+        <br>t2.a.market.xiaomi.com
         <br>tbsrecovery.imtt.qq.com
         <br>telemetry-in.battlenet.com.cn
         <br>tpns.tencent.com
         <br>tpstelemetry.tencent.com
+        <br>tr.xiaoyuzhoufm.com
+        <br>trace.youzhiyouxing.cn
+        <br>tracert.alipay.com
         <br>track-js.kefenxi.com
         <br>track.mm.taou.com
+        <br>tz.sec.xiaomi.com
         <br>update.miui.com
         <br>update.wps.cn
         <br>uplog.qbox.me
         <br>userlink.alicdn.com
+        <br>uve.weibo.com
         <br>voicecloud.cn
+        <br>volceapplog.com
+        <br>wanproxy-hz.127.net
         <br>weatherapi.market.xiaomi.com
         <br>whoami.adguard-vpn.online
         <br>whoami.akamai.net
         <br>wlog.gifshow.com
         <br>wostore.cn
         <br>xfinfr.com
+        <br>xlog.jd.com
         <br>xycdn.com
-        <br>sdk.51.la
 </article>
