@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2023 年 01 月 11 日
+    最后更新时间：2023 年 07 月 13 日
     <hr>
     <h3>基金观察池</h3>
     <br>个人用基金观察池，非基金从业人员，不构成投资建议。投资有风险，入市需谨慎。
@@ -58,11 +58,15 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/006527.html">富国优质发展混合A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/005001.html">交银持续成长主题混合</a>
     <br>====2302观察====
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/970185.html">招商资管核心优势混合C</a>
+    <br><del><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/970185.html">招商资管核心优势混合C</a></del>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/014330.html">中融优势产业混合C</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/920923.html">中金新锐股票C</a>
     <br>====2302观察====
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/011145.html">华安汇宏精选混合C</a>
+    <br><del><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/011145.html">华安汇宏精选混合C</a></del>
+    <br>====2307观察====
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/008923.html">建信医疗健康行业股票A</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/012159.html">财通资管健康产业混合A</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/004075.html">交银医药创新股票A</a>
     <br>====基金经理====
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30411926.html">王海峰</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30532811.html">杨嘉文</a>
