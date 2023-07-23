@@ -55,8 +55,11 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/1219588.html">20230418 离开大厂的打工人，他们流向了哪里？</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/1591833.html">20230523 月薪2万，吃不起中式快餐</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/1592299.html">20230523 10块钱解决两餐饭，年轻人爱上“剩菜盲盒”</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/jtAWkUu_u0k3nuzrPUPrNw">20230531 身边割肉的人越来越多了”</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/jtAWkUu_u0k3nuzrPUPrNw">20230531 身边割肉的人越来越多了</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.yicai.com/news/101774802.html">20230605 实地探访深圳白芒村：业主签约率仅12.5%，城中村“统租”如何推进？”</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.huxiu.com/article/1762812.html">23230705 老板验人，全靠团建？</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://lxm9.notion.site/30-_-0f6f7b7e21b748c793d933323f27a5f9">20230705 进城打工30多年，最后好像和一直在村里的人也没什么差别_凤凰网”</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://web.archive.org/web/20230705052921/https://news.ifeng.com/c/8RAMu2pBJjH">20230705 进城打工30多年，最后好像和一直在村里的人也没什么差别_凤凰网”</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.devtang.com/2016/07/07/the-dictators-handbook-summary/">永远的致胜联盟</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.mboker.cn/archives/176.html">谈谈精致的利己主义者与功利教育</a>
