@@ -16,16 +16,14 @@ copyright: true
     {% include nav/content/blogs.html %}
     {% include nav/content/software.html %}
 </div>
-{% include nav/content/entertain.html %}
-<div class="nav-content">
-    {% include nav/content/movie.html %}
-    {% include nav/content/shopping.html %}
-</div>
-{% include nav/content/finance.html %}
+{% include nav/content/movie.html %}
+{% include nav/content/entertain.html %}    
 <div class="nav-content">
     {% include nav/content/tools.html %}
     {% include nav/content/privacy.html %}
 </div>
+{% include nav/content/finance.html %}
+{% include nav/content/maintainer.html %}
 {% if page.ads %}
 {% include nav/content/promotion.html %}
 {% endif %}
