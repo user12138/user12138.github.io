@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2023 年 07 月 23 日
+    最后更新时间：2023 年 08 月 22 日
     <hr>
     <h3>基金观察池</h3>
     <br>个人用基金观察池，非基金从业人员，不构成投资建议。投资有风险，入市需谨慎。
@@ -30,13 +30,18 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/163406">兴全合润混合(LOF)</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/013426">贝莱德中国新视野混合A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/014412">招商核心竞争力混合A</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/018555">交银启嘉混合C</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/018485">财通资管医疗保健混合C</a>
     <br>====指数型====
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/017937">易方达中证医疗ETF联接发起式A</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/001180">广发医药卫生联接A</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/162412">华宝医疗ETF联接A</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/012323">华宝医疗ETF联接C</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/007379">易方达上证50ETF联接A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/110020">易方达沪深300ETF联接A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/007028">易方达中证500ETF联接A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/002656">南方创业板ETF联接A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/000942">广发信息技术联接A</a>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/001180">广发医药卫生联接A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/100032">富国中证红利指数增强A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/000478">建信中证500指数增强A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://funddb.cn/site/fund_details/000968">广发养老指数A</a>
