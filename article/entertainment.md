@@ -1,6 +1,6 @@
 ---
 layout: article-default
-title: "娱乐视频收藏"
+title: "娱乐视频收藏 | 混沌书签导航 | 提升效率 分享优质信息 资源收藏"
 noindex: false
 ---
 

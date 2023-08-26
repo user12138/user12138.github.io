@@ -1,6 +1,6 @@
 ---
 layout: article-default
-title: "广告过滤域名屏蔽列表"
+title: "广告过滤域名屏蔽列表 | 混沌书签导航 | 提升效率 分享优质信息 资源收藏"
 noindex: false
 ---
 
