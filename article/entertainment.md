@@ -14,6 +14,18 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV11v41157rj/">英韩中日4门语言| 切换语言=切换人格？</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1dt4y1176i/">相遇橘子洲头？【IU/SUGA】Eight中文填词翻唱 来8</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1tV411k7Su/">【神级填词】IU feat. SUGA霸榜神曲《Eight》粤语翻唱【雪霏岚岚/魔术肥】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1u84y177Ab/">万人血书《合拍》—— 恋爱瘾在这首歌里达到巅峰！【窦胖胖ss】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1e541127AE/">无声卡许嵩《素颜》——谁的DNA动了，我不说(*´∀｀*)【窦胖胖ss】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1ex4y1M73w/">死去的青春突然袭击我！ 《微博控》—— 你是可以什么都不做，但不可以什么都不说！【窦胖胖ss】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1ex4y1M73w/">《星座书上》 Cover 许嵩【春游去动物园】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1VT411M7nr/">半开麦翻唱IU《星期五见面》，周五的快乐是IU给的【鱼丸粗面木有木有碗】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1cg411377u/">在KTV点IU！唱完失声！七首连唱我的最爱曲【南韩顶流李知恩】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1dK4y1X7cL/">南韩顶流！在KTV十首连唱IU经典！【结尾有up三段高能】【Yuk千吉_Jemima】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1ap4y1G7an/">【翻唱】群青/YOASOBI【Yuk千吉_Jemima】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1ap4y1G7an/">【翻唱】Mystery of Love-Sufjan Stevens【廖泽蓝_】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1ap4y1G7an/">【翻唱】Photograph - Ed Sheeran【廖泽蓝_】</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV11q4y1G7y4/">【金秋老歌《被遗忘的季节》李龙 】钢琴演奏 附谱 BGM</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1Ao4y1j7oG/">终于明白你已变成回忆｜《melody》cover陶喆 - 徐且慢</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/av77978860/">【粤语】穷富翁大作战 第一季【全集】</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1fE41177hx/">【EBS】韩国高考纪录片：学习的背叛 全3集 韩语中字 (2016)</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/bangumi/play/ss39707">中国奇谭-国创</a>
@@ -24,8 +36,6 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1zG411A7iJ/">日式英语但是好听</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1JX4y1G7vx/">情侣粤语无厘头对话，男生被气哭了</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV14L4y1T7kE/">恋爱循环英文版cover～！</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1VT411M7nr/">半开麦翻唱IU《星期五见面》，周五的快乐是IU给的</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV11q4y1G7y4/">【金秋老歌《被遗忘的季节》李龙 】钢琴演奏 附谱 BGM</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV177411n76u/">“她懂我，让我觉得悲伤”</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1AA4y197Kp/">如何成为一个心理意义上情绪成熟的人？【深度心理科普】</a>
     <br>主题曲好听，颜值在线的女主 --> <a target="_blank" rel="noopener nofollow" href="https://www.bilibili.com/video/BV1Kf4y1C7MP/">高分喜剧《今生是第一次》全集解说【朔涵君】</a>
