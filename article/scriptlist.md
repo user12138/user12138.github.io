@@ -24,5 +24,4 @@ noindex: false
     在搜索引擎结果里折叠不好内容的插件
     <br>下载 --> <a target="_blank" rel="noopener nofollow" href="https://iorate.github.io/ublacklist/">uBlacklist</a>
     <br>订阅规则 --> https://git.io/ublacklist
-    <br>订阅规则 --> https://git.io/ublacklist
 </article>
