@@ -1,6 +1,6 @@
 ---
 layout: nav-default
-title: "混沌书签导航 v2023.10.04 | 提升效率、分享优质信息与资源收藏 的简洁导航"
+title: "混沌书签导航 v2023.10.06 | 提升效率、分享优质信息与资源收藏 的简洁导航"
 ads: true
 track: true
 copyright: true
@@ -20,7 +20,6 @@ copyright: true
 {% include nav/content/entertain.html %}
 {% include nav/content/tools.html %}
 {% include nav/content/finance.html %}
-{% include nav/content/privacy.html %}
 {% include nav/content/maintainer.html %}
 {% if page.ads %}
 {% include nav/content/promotion.html %}

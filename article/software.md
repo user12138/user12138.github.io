@@ -8,6 +8,7 @@ noindex: false
     <h3>说明</h3>
         最后更新时间：2023 年 09 月 29 日
     <h3>软件列表</h3>
+    列举常用的实用工具软件合集，点击链接跳转到官网页面。
     <br><a target="_blank" rel="noopener nofollow" href="https://www.fluentsearch.net/">Fluent Search</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.listary.com/">Listary</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://cryptomator.org/downloads/">Cryptormator</a>
