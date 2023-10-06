@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2023 年 02 月 05 日
+    最后更新时间：2023 年 10 月 06 日
     <h3>学习文章备份</h3>
     C++ 项目编译优化  <a target="_blank" rel="noopener nofollow" href="https://bot-man-jl.github.io/articles/?post=2022/Cpp-Project-Compile-Optimization">《C++ 项目编译优化 | BOT Man JL》</a>
     <br>为什么游戏行业喜欢用PolarDB  <a target="_blank" rel="noopener nofollow" href="http://baotiao.github.io/2022/07/19/polardb-game.html">《为什么游戏行业喜欢用PolarDB | 做有积累的事情》</a>
@@ -32,6 +32,7 @@ noindex: false
     <br>计算机网络 <a target="_blank" rel="noopener nofollow" href="https://xiaolincoding.com/network/">[ 图解网络介绍 | 小林coding ]</a>
     <br>系统设计入门 <a target="_blank" rel="noopener nofollow" href="https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md">[ system-design-primer/README-zh-Hans.md ]</a>
     <br>架构设计 <a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html">[ 架构 秒杀系统优化思路_w3cschool ]</a>
+    <br>云原生DevOps理解 <a target="_blank" rel="noopener nofollow" href="https://www.thebyte.com.cn/">[ 深入架构原理与实践 ]</a>
     <br>工作习惯和意识 <a target="_blank" rel="noopener nofollow" href="https://github.com/cdk8s/cdk8s-team-style">[ GitHub - cdk8s/cdk8s-team-style: 寻找志同道合的人，引发自身的思考 ]</a>
     <br>反向面试 <a target="_blank" rel="noopener nofollow" href="https://github.com/yifeikong/reverse-interview-zh">[ GitHub - yifeikong/reverse-interview-zh: 技术面试最后反问面试官的话 ]</a>
     <!-- <br> <a target="_blank" rel="noopener nofollow" href=""></a> -->
