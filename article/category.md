@@ -11,8 +11,9 @@ noindex: false
 <br><a href="/article/finance.html">金融</a>
 <br><a href="/article/fund.html">基金</a>
 <br><a href="/article/newsletter.html">Newsletter通讯</a>
-<br><a href="/article/program.html">编程</a>
+<br><a href="/article/program.html">编程资源</a>
 <br><a href="/article/podcast.html">Podcast播客</a>
 <br><a href="/article/privacy.html">网络安全</a>
 <br><a href="/article/psychology.html">Psychology心理学</a>
 <br><a href="/article/scriptlist.html">脚本插件</a>
+<br><a href="/article/software.html">常用软件</a>
