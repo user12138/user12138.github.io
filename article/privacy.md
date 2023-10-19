@@ -45,6 +45,7 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://dns.console.aliyun.com/#/pdns/dashboard">阿里云公共DNS</a>
     <a target="_blank" rel="noopener nofollow" href="http://nstool.netease.com/info.html">网易DNS检测工具</a>
     <a target="_blank" rel="noopener nofollow" href="https://whoer.net/zh/dns-leak-test">DNS泄露测试</a>
+    <a target="_blank" rel="noopener nofollow" href="https://github.com/curl/curl/wiki/DNS-over-HTTPS">DNS over HTTPS 列表大全</a>
     <br>【DNS记录查询】<br>
     <a target="_blank" rel="noopener nofollow" href="https://www.gdnspc.com/">Global DNS Propagation Checker</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.nslookuptool.com">Global DNS Propagation Checker - Nslookup Tool</a>
