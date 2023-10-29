@@ -15,7 +15,6 @@ noindex: false
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/1447361032/video">船长说金融</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/23326926/video">柳行长</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/432597324/video">蓝白argentina</a>
-    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/510856133/video">吟游诗人基德</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/520819684/video">小Lin说</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/628122353/video">毯叔盘钱</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/67738074/video">月风投资笔记</a>
@@ -35,6 +34,7 @@ noindex: false
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/486287787/video">IC实验室</a>        
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/495224316/video">一只萧包子</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/490494088/video">动动枪DongDongGun</a>
+    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/510856133/video">吟游诗人基德</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/517937049/video">师兄李一</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/598464467/video">苏星河牛通</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/516314798/video">小西设计所</a>
