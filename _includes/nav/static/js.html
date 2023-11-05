@@ -2,8 +2,8 @@
     var searchEngineData = new Map(
         [
             ["baidu", "https://www.baidu.com/baidu?tn=monline_7_dg&ie=utf-8&wd="],
-            ["bing", "https://www.bing.com/search?form=MOZLBR&pc=MOZI&q="],
-            ["ddg", "https://duckduckgo.com/?t=ffab&q="],
+            ["bing", "https://www.bing.com/search?form=MOZLBR&pc=MOZR&q="],
+            ["ddg", "https://duckduckgo.com/?t=ftsa&q="],
             ["ecosia", "https://www.ecosia.org/search?method=index&q="],
             ["fsou", "https://fsoufsou.com/search?tbn=all&q="],
             ["google", "https://www.google.com/search?client=firefox-b-d&q="],
@@ -16,14 +16,14 @@
         var searchEngine = document.getElementById("search-engine").value;
         var searchContent = document.getElementById("search-content").value;
         if (searchContent == "") {
-            console.log("没有搜索内容")
+            console.log("no search content... ")
             return;
         }
         var searchEnginePrefix = searchEngineData.get(searchEngine);
         if (searchEnginePrefix == "")
-            searchEnginePrefix = searchEngineData.get("fsou");
+            searchEnginePrefix = searchEngineData.get("ecosia");
         var searchEngineUrl = searchEnginePrefix + searchContent;
-        console.log("即将访问 ", searchEngineUrl)
+        console.log("visiting... ", searchEngineUrl)
         window.open(searchEngineUrl, '_blank');
     }
 </script>

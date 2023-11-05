@@ -1,6 +1,6 @@
 ---
 layout: nav-default
-title: "混沌书签导航 v2023.11.05 | 提升效率、分享优质信息与资源收藏 的简洁导航"
+title: "混沌书签导航 v2023.11.05 | 找网站/工具更容易 | 提升效率、分享优质信息与资源收藏的简洁导航"
 ads: true
 track: true
 copyright: true
