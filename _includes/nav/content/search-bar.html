@@ -12,7 +12,7 @@
                     <option value="qwant">QWant</option>
                     <option value="ecosia">Ecosia</option>
                 </select>
-                <input style="height: 30px;width: 500px;" type="text" id="search-content" placeholder="输入搜索内容">
+                <input style="height: 30px;width: 500px;" type="text" id="search-content" placeholder="输入搜索内容" onkeydown="if(event.keyCode==13){toSearchPage()}">
                 <button style="height: 30px;width: 100px;" onclick="toSearchPage()" type="button"> 搜索 </button>
             </form>
         </div>
