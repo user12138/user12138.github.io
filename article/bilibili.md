@@ -102,6 +102,7 @@ noindex: false
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/95515699/video">粤知一二</a>
     <br>【音乐】<br>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/11775980/video">仙人掌味的二狗</a>
+    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/120245588/video">胖超说艺考V</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/1272878753/video">郑晟河_SunghaJung</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/20489665/video">晴昕Jelly</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/301973730/video">糖糖YuzeTang</a>

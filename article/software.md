@@ -44,6 +44,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.ticktick.com/">TickTick Todo</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://github.com/zhongyang219/TrafficMonitor/">TrafficMonitor</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://s3browser.com/">S3 Browser</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://dbeaver.io/">DBeaver Community</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://cosbrowser.cloud.tencent.com/">CosBrowser - COS 客户端</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://wpd.app/">WPD | Privacy dashboard for Windows</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://astrofox.io/">Astrofox</a>
