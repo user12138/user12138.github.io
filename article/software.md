@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2023 年 11 月 05 日
+        最后更新时间：2023 年 11 月 26 日
     <h3>软件列表</h3>
     列举常用的实用工具软件合集，点击链接跳转到官网页面。
     <br><a target="_blank" rel="noopener nofollow" href="https://www.fluentsearch.net/">Fluent Search</a>
@@ -43,6 +43,9 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://sandboxie-plus.com/downloads/">Sandboxie-Plus</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.ticktick.com/">TickTick Todo</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://github.com/zhongyang219/TrafficMonitor/">TrafficMonitor</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://s3browser.com/">S3 Browser</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://cosbrowser.cloud.tencent.com/">CosBrowser - COS 客户端</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://wpd.app/">WPD | Privacy dashboard for Windows</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://astrofox.io/">Astrofox</a>
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://www.bandisoft.com/bandizip/">BindZip</a>
