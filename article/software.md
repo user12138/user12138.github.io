@@ -40,6 +40,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://raindrop.io">Raindrop.io</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://motrix.app/zh-CN/download">Motrix</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://zh-cn.libreoffice.org/">LibreOffice</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://platform.wps.cn/">WPS Office</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.bleachbit.org/">Bleachbit</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://sandboxie-plus.com/downloads/">Sandboxie-Plus</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.ticktick.com/">TickTick Todo</a>
