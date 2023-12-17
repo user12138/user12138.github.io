@@ -6,13 +6,18 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2023 年 11 月 26 日
+        最后更新时间：2023 年 12 月 27 日
     <h3>软件列表</h3>
     列举常用的实用工具软件合集，点击链接跳转到官网页面。
     <br><a target="_blank" rel="noopener nofollow" href="https://www.fluentsearch.net/">Fluent Search</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.listary.com/">Listary</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://cryptomator.org/downloads/">Cryptormator</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://zh.snipaste.com/">Snipaste截图</a>
+    <br>
+        <a target="_blank" rel="noopener nofollow" href="https://pixpinapp.com/">PixPin截图</a>
+        <sup>
+            具备截图、贴图、长截图、OCR文字识别、标注等功能，开发者积极维护更新中
+        </sup>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jianguoyun.com/">坚果云网盘</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.weiyun.com/">腾讯微云</a>
     <br>
