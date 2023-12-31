@@ -1,6 +1,4 @@
 {
-    "firefox":"https://blog.ypingcn.com/special/firefox/resource/",
-    "librewolf":"https://blog.ypingcn.com/special/firefox/librewolf/",
-    "blog":"https://blog.ypingcn.com/",
-    "about":"https://blog.ypingcn.com/wiki/about/"
+    "cv-blog":"https://blog.ypingcn.com/?utm_source=cv",
+    "cv-github":"https://github.com/ypingcn?utm_source=cv"
 }
