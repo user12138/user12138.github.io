@@ -15,8 +15,8 @@
 	"firefox-desktop": "https://www.mozilla.org/zh-CN/firefox/channel/desktop/",
 	"firefox-developer": "https://www.mozilla.org/zh-CN/firefox/developer/",
 	"firefox-language": "https://addons.mozilla.org/zh-CN/firefox/language-tools",
-	"firefox-esr-zhcn": "https://archive.mozilla.org/pub/firefox/releases/115.5.0esr/win64/zh-CN/Firefox%20Setup%20115.5.0esr.exe",
-	"firefox-lastest-zhcn": "https://archive.mozilla.org/pub/firefox/releases/120.0/win64/zh-CN/Firefox%20Setup%20120.0.exe",
+	"firefox-esr-zhcn": "https://archive.mozilla.org/pub/firefox/releases/115.6.0esr/win64/zh-CN/Firefox%20Setup%20115.6.0esr.exe",
+	"firefox-lastest-zhcn": "https://archive.mozilla.org/pub/firefox/releases/121.0.1/win64/zh-CN/Firefox%20Setup%20121.0.1.exe",
 	"firefox-mobile": "https://www.mozilla.org/zh-CN/firefox/browsers/mobile/",
 	"firefox-official": "https://www.mozilla.org/zh-CN/firefox/new/",
 	"firefox-sftp": "https://ftp.mozilla.org/pub/firefox/releases/",
@@ -45,7 +45,7 @@
 	"librewolf-macos": "https://librewolf.net/installation/macos/",
 	"librewolf-official": "https://librewolf.net/",
 	"librewolf-windows": "https://librewolf.net/installation/windows/",
-	"librewolf-windows-lastest": "https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/120.0-2/librewolf-120.0-2-windows-x86_64-setup.exe",
+	"librewolf-windows-lastest": "https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/121.0-1/librewolf-121.0-1-windows-x86_64-setup.exe",
 	"librewolf-windows-updater": "https://addons.mozilla.org/zh-CN/firefox/addon/librewolf-updater/",
 	"multi-account-containers-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/",
 	"nextdns": "https://nextdns.io/?from=qyq6n8p5",
@@ -64,6 +64,6 @@
 	"ublock-origin-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/",
 	"ublock-origin-official": "https://ublockorigin.com/",
 	"user-agent-switcher-revived": "https://addons.mozilla.org/zh-CN/firefox/addon/user-agent-switcher-revived/",
-	"vivaldi-lastest": "https://downloads.vivaldi.com/stable/Vivaldi.6.4.3160.44.x64.exe",
+	"vivaldi-lastest": "https://downloads.vivaldi.com/stable/Vivaldi.6.5.3206.53.x64.exe",
 	"vivaldifox-firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/vivaldifox/"
 }
