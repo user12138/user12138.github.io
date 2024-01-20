@@ -6,11 +6,14 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2023 年 10 月 06 日
+        最后更新时间：2024 年 01 月 20 日
     <h3>软件列表</h3>
     网络安全工具合集
     <br><a target="_blank" rel="noopener nofollow" href="https://www.kaspersky.com.cn/free-antivirus">卡巴斯基杀毒</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huorong.cn/">火绒安全</a>
+    <br>【密码生成器】<br>
+    <a target="_blank" rel="noopener nofollow" href="https://www.lastpass.com/features/password-generator">Lastpass</a>
+    <a target="_blank" rel="noopener nofollow" href="https://www.f-secure.com/en/password-generator">F-Secure</a>
     <br>【可疑文件扫描】<br>
     <a target="_blank" rel="noopener nofollow" href="https://www.virustotal.com/gui/home/upload">VirusTotal</a>
     <a target="_blank" rel="noopener nofollow" href="https://virusscan.jotti.org/zh-CN/scan-file">Jotti</a>
@@ -22,6 +25,7 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://ata.360.net/detection">360沙箱云</a>
     <a target="_blank" rel="noopener nofollow" href="https://sandbox.ti.qianxin.com/sandbox/page">奇安信沙箱</a>
     <br>【信息安全】<br>
+    <a target="_blank" rel="noopener nofollow" href="https://mixim.cyandev.app/">Mixim | Remix your images with some secret data</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.privacytools.io/secure-password-manager/">密码安全软件</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.privacytools.io/windows/">Windows隐私工具</a>
     <a target="_blank" rel="noopener nofollow" href="https://statistics.securelist.com/">SecureList安全数据</a>
@@ -31,7 +35,9 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://ipdb.me/">ipdb.me</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.cloudflare.com/cdn-cgi/trace">Cloudflare CGI IP</a>
     <a target="_blank" rel="noopener nofollow" href="https://radar.cloudflare.com/ip">Cloudflare Radar IP</a>
+    <a target="_blank" rel="noopener nofollow" href="https://ipcheck.ing/">Check My IP Address and Geolocation | Check WebRTC Connection IP | DNS Leak Test | Speed Test</a>
     <br>【浏览器指纹检测】<br>
+    <a target="_blank" rel="noopener nofollow" href="https://www.ghxi.com/llq">果核浏览器检测</a>
     <a target="_blank" rel="noopener nofollow" href="https://coveryourtracks.eff.org/">Cover Your Tracks</a>
     <a target="_blank" rel="noopener nofollow" href="https://fingerprint.com/demo/">Fingerprint</a>
     <a target="_blank" rel="noopener nofollow" href="https://amiunique.org/">Am I unique?</a>

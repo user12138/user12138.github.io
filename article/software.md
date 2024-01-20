@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2023 年 12 月 31 日
+        最后更新时间：2024 年 01 月 20 日
     <h3>软件列表</h3>
     列举常用的实用工具软件合集，点击链接跳转到官网页面。
     <br>
@@ -76,6 +76,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://cosbrowser.cloud.tencent.com/">CosBrowser - COS 客户端</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://wpd.app/">WPD | Privacy dashboard for Windows</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://astrofox.io/">Astrofox</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.ventoy.net/cn/index.html">Ventoy</a>
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://www.bandisoft.com/bandizip/">BindZip</a>
         <sup>
