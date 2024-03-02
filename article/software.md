@@ -64,6 +64,9 @@ noindex: false
             <a target="_blank" rel="noopener nofollow" title="获取 VNote 最新版本" href="https://github.com/vnotex/vnote/releases">[最新版]</a>
         </sup>
     <br><a target="_blank" rel="noopener nofollow" href="https://raindrop.io">Raindrop.io</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://sms-activate.org/cn">SMS Active</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://cloudflarewarp.com/zh-Hans/">Cloudflare Warp</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://mirrors.sjtug.sjtu.edu.cn/docs/flathubzh-Hans/">Flathub SJTU 上海交通大学 Linux 用户组 软件源镜像服务</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://motrix.app/zh-CN/download">Motrix</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://zh-cn.libreoffice.org/">LibreOffice</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://platform.wps.cn/">WPS Office</a>
