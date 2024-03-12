@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2024 年 01 月 20 日
+        最后更新时间：2024 年 03 月 12 日
     <h3>软件列表</h3>
     网络安全工具合集
     <br><a target="_blank" rel="noopener nofollow" href="https://www.kaspersky.com.cn/free-antivirus">卡巴斯基杀毒</a>
@@ -44,6 +44,7 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://www.nothingprivate.ml/">Are you anonymous?</a>
     <a target="_blank" rel="noopener nofollow" href="https://browserleaks.com/">BrowserLeaks</a>
     <a target="_blank" rel="noopener nofollow" href="https://browseraudit.com">BrowserAudit</a>
+    <a target="_blank" rel="noopener nofollow" href="https://fingerprint.com/demo/">Fingerprint demo</a>
     <br>【DNS】<br>
     <a target="_blank" rel="noopener nofollow" href="https://nextdns.io/?from=qyq6n8p5">NextDNS</a>
     <a target="_blank" rel="noopener nofollow" href="https://adguard-dns.io/">AdGuard DNS</a>
