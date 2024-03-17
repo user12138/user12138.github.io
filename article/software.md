@@ -30,6 +30,7 @@ noindex: false
         <sup>
             具备截图、贴图、长截图、OCR文字识别、标注等功能，开发者积极维护更新中
         </sup>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.mintimate.cc/zh/">oh-my-rime 输入法 | 薄荷输入法</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jianguoyun.com/">坚果云网盘</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.weiyun.com/">腾讯微云</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.alipan.com/">阿里云盘</a>
