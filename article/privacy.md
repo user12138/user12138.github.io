@@ -11,6 +11,8 @@ noindex: false
     网络安全工具合集
     <br><a target="_blank" rel="noopener nofollow" href="https://www.kaspersky.com.cn/free-antivirus">卡巴斯基杀毒</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.huorong.cn/">火绒安全</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.netify.ai/resources/applications">应用排名</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.netify.ai/resources/platforms">云平台排名</a>
     <br>【密码生成器】<br>
     <a target="_blank" rel="noopener nofollow" href="https://www.lastpass.com/features/password-generator">Lastpass</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.f-secure.com/en/password-generator">F-Secure</a>
@@ -39,12 +41,11 @@ noindex: false
     <br>【浏览器指纹检测】<br>
     <a target="_blank" rel="noopener nofollow" href="https://www.ghxi.com/llq">果核浏览器检测</a>
     <a target="_blank" rel="noopener nofollow" href="https://coveryourtracks.eff.org/">Cover Your Tracks</a>
-    <a target="_blank" rel="noopener nofollow" href="https://fingerprint.com/demo/">Fingerprint</a>
+    <a target="_blank" rel="noopener nofollow" href="https://fingerprint.com/demo/">Fingerprint Demo</a>
     <a target="_blank" rel="noopener nofollow" href="https://amiunique.org/">Am I unique?</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.nothingprivate.ml/">Are you anonymous?</a>
     <a target="_blank" rel="noopener nofollow" href="https://browserleaks.com/">BrowserLeaks</a>
     <a target="_blank" rel="noopener nofollow" href="https://browseraudit.com">BrowserAudit</a>
-    <a target="_blank" rel="noopener nofollow" href="https://fingerprint.com/demo/">Fingerprint demo</a>
     <br>【DNS】<br>
     <a target="_blank" rel="noopener nofollow" href="https://nextdns.io/?from=qyq6n8p5">NextDNS</a>
     <a target="_blank" rel="noopener nofollow" href="https://adguard-dns.io/">AdGuard DNS</a>
