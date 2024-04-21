@@ -6,7 +6,7 @@ noindex: false
 
 《人际关系的真相：别把别人的话当真》
 
-来自: <a href="https://www.douban.com/group/topic/302922938/">硬核甜心</a>
+来自: <a target="_blank" rel="noopener nofollow" href="https://www.douban.com/group/topic/302922938/">硬核甜心</a>
 
 2024-03-09 22:32:24 广东
 

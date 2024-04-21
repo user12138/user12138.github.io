@@ -6,7 +6,7 @@ noindex: false
 
 《在社交中不要被道德感支配》
 
-来自: <a href="https://www.douban.com/group/topic/303609780/">Zshltd</a>
+来自: <a target="_blank" rel="noopener nofollow" href="https://www.douban.com/group/topic/303609780/">Zshltd</a>
 
 2024-03-24 15:00:22 陕西
 
