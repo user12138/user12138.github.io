@@ -8,6 +8,8 @@ noindex: false
 
 来自: <a href="https://rohit.blog/care/">Rohit Kumar</a>
 
+2022年8月8日
+
 The transition from childhood to adult life is hard.
 从童年到成年的过渡是艰难的。
 
