@@ -8,7 +8,7 @@ copyright: true
 
 {% include nav/content/horizontal-ads.html %}
 {% include nav/content/search-bar.html %}
-{% include nav/content/browser.html %}
+<!-- {% include nav/content/browser.html %} -->
 <div class="nav-content">
     {% include nav/content/search.html %}
     {% include nav/content/hot.html %}
