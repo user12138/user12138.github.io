@@ -62,6 +62,7 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://www.privacyguides.org/tools/">PrivacyGuides</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.privacytools.io/">PrivacyTools</a>
     <a target="_blank" rel="noopener nofollow" href="https://cybermagicsec.github.io/privacytools-zh/">隐私工具</a>
+    <a target="_blank" rel="noopener nofollow" href="https://www.browserscan.net/zh/">BrowserScan 指纹检测工具</a>
     <a target="_blank" rel="noopener nofollow" href="https://trackthis.link/">Track This</a>
     <a target="_blank" rel="noopener nofollow" href="https://whotracks.me/">WhoTracksMe</a>
     <a target="_blank" rel="noopener nofollow" href="https://spyware.neocities.org/articles/librewolf.html">Spyware Article</a>

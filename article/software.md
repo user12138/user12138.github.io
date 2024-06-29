@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2024 年 01 月 20 日
+        最后更新时间：2024 年 06 月 30 日
     <h3>软件列表</h3>
     列举常用的实用工具软件合集，点击链接跳转到官网页面。
     <br>
@@ -88,6 +88,7 @@ noindex: false
             <a target="_blank" rel="noopener nofollow" href="https://www.bandisoft.com/bandizip/old/6/">无广告版本 Bandizip 6.xx</a>
         </sup>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jam-software.com/treesize_free">TreeSizeFree</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.adspower.net/">AdsPower指纹浏览器</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.xsecantivirus.com/product.aspx">X-Sec Malware Scanner</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe">Kaspersky® Virus Removal Tool</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.kaspersky.com/anti-ransomware-tool">Kaspersky® Anti-Ransomware Tool</a>
