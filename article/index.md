@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2023 年 04 月 13 日
+    最后更新时间：2024 年 07 月 13 日
     <br>此处主要是收集整理平时所遇到的文章等网页，当作书签积累写作素材以便后续翻阅。持续整理中，不保证任何实效性。
     <h3>文章</h3>
     <h4>【故事/经历/资讯】</h4>
@@ -61,6 +61,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://lxm9.notion.site/30-_-0f6f7b7e21b748c793d933323f27a5f9">20230705 进城打工30多年，最后好像和一直在村里的人也没什么差别_凤凰网”</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://web.archive.org/web/20230705052921/https://news.ifeng.com/c/8RAMu2pBJjH">20230705 进城打工30多年，最后好像和一直在村里的人也没什么差别_凤凰网”</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.douban.com/group/topic/303129823/">20240314 下班后的小小宇宙🪐</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/VncJiM-qb0_Q3wpnct-4-Q">20240617 熟人之间，不能犯的10大忌 </a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.devtang.com/2016/07/07/the-dictators-handbook-summary/">永远的致胜联盟</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jisilu.cn/question/465210">识人的艺术</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://blog.mboker.cn/archives/176.html">谈谈精致的利己主义者与功利教育</a>
