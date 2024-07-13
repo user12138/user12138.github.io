@@ -193,3 +193,14 @@
 ||xfinfr.com^$important
 ||xlog.jd.com^$important
 ||xycdn.com^$important
+||remoteprovisioning.googleapis.com^$important
+||ttxyajs.data.kuiniuca.com^$important
+||vip.zeus.top^$important
+||update.miui.com^$important
+||dns.qq.com^$important
+||msedge.net^$important
+||feelgood.cn^$important
+@@||zijieapi.com^$important
+@@||snssdk.com^$important
+@@||bytedance.com^$important
+@@||passport.biligame.com^$important
