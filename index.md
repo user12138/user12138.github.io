@@ -1,6 +1,6 @@
 ---
 layout: nav-default
-title: "混沌书签导航 v2024.08.04 | 提升效率、分享优质信息与资源收藏的简洁导航"
+title: "混沌书签导航 v2024.08.18 | 提升效率、分享优质信息与资源收藏的简洁导航"
 ads: true
 track: true
 copyright: true
