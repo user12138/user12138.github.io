@@ -29,6 +29,7 @@ noindex: false
     <br>Redis 命令解释 <a target="_blank" rel="noopener nofollow" href="http://doc.redisfans.com/">[ Redis 命令参考 ]</a>
     <br>Redis 原理<a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/hdclil/">[ Redis 设计与实现（第二版）]</a>
     <br>算法 <a target="_blank" rel="noopener nofollow" href="https://labuladong.gitee.io/algo/">[ labuladong 的算法小抄 :: labuladong的算法小抄 ]</a>
+    <br>常见数据结构和算法 <a target="_blank" rel="noopener nofollow" href="https://oi-wiki.org/">[ OI wiki ]</a>
     <br>计算机网络 <a target="_blank" rel="noopener nofollow" href="https://xiaolincoding.com/network/">[ 图解网络介绍 | 小林coding ]</a>
     <br>系统设计入门 <a target="_blank" rel="noopener nofollow" href="https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md">[ system-design-primer/README-zh-Hans.md ]</a>
     <br>架构设计 <a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html">[ 架构 秒杀系统优化思路_w3cschool ]</a>
