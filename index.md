@@ -21,7 +21,6 @@ copyright: true
 </div>
 {% include nav/content/blogs.html %}
 {% include nav/content/tools.html %}
-<!-- {% include nav/content/finance.html %} -->
 {% include nav/content/maintainer.html %}
 {% if page.ads %}
 {% include nav/content/promotion.html %}
