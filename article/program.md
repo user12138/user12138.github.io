@@ -6,10 +6,12 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2023 年 10 月 06 日
+    最后更新时间：2024 年 10 月 28 日
     <h3>学习文章备份</h3>
     C++ 项目编译优化  <a target="_blank" rel="noopener nofollow" href="https://bot-man-jl.github.io/articles/?post=2022/Cpp-Project-Compile-Optimization">《C++ 项目编译优化 | BOT Man JL》</a>
     <br>为什么游戏行业喜欢用PolarDB  <a target="_blank" rel="noopener nofollow" href="http://baotiao.github.io/2022/07/19/polardb-game.html">《为什么游戏行业喜欢用PolarDB | 做有积累的事情》</a>
+    <br>BadgerDB 简介 <a target="_blank" rel="noopener nofollow" href="http://note.iawen.com/note/graph/badger_base">《badger 简介 | Iawen's Blog 》</a>
+    <br>热点检测治理 <a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/C8CI-1DDiQ4BC_LaMaeDBg">《热点检测治理 | 哔哩哔哩技术》</a>
     <h3>开源项目</h3>
     熔断降级组件实现 <a target="_blank" rel="noopener nofollow" href="https://github.com/afex/hystrix-go">hystrix-go</a>
     <h3>编程相关信息收藏</h3>
@@ -27,10 +29,14 @@ noindex: false
     <br>分布式事务 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/7/160">[ 专辑：分布式事务专题_-Java充电社【公众号：Java充电社】]</a>
     <br>Redis 基础知识整理 <a target="_blank" rel="noopener nofollow" href="https://www.cnblogs.com/crazymakercircle/p/13900198.html">[ Redis 面试题 - 收藏版 ]</a>
     <br>Redis 命令解释 <a target="_blank" rel="noopener nofollow" href="http://doc.redisfans.com/">[ Redis 命令参考 ]</a>
+    <br>MySQL 命令查询 <a target="_blank" rel="noopener nofollow" href="https://www.sjkjc.com/mysql/getting-started/">[ MySQL 起步 ]</a>
     <br>Redis 原理<a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/hdclil/">[ Redis 设计与实现（第二版）]</a>
     <br>算法 <a target="_blank" rel="noopener nofollow" href="https://labuladong.gitee.io/algo/">[ labuladong 的算法小抄 :: labuladong的算法小抄 ]</a>
     <br>常见数据结构和算法 <a target="_blank" rel="noopener nofollow" href="https://oi-wiki.org/">[ OI wiki ]</a>
-    <br>计算机网络 <a target="_blank" rel="noopener nofollow" href="https://xiaolincoding.com/network/">[ 图解网络介绍 | 小林coding ]</a>
+    <br>图解网络介绍 <a target="_blank" rel="noopener nofollow" href="https://xiaolincoding.com/network/">[ 图解网络介绍 | 小林coding ]</a>
+    <br>图解系统介绍 <a target="_blank" rel="noopener nofollow" href="https://xiaolincoding.com/os/">[ 图解系统介绍 | 小林coding ]</a>
+    <br>图解MySQL介绍 <a target="_blank" rel="noopener nofollow" href="https://xiaolincoding.com/mysql/">[ 图解MySQL介绍 | 小林coding ]</a>
+    <br>图解Redis介绍 <a target="_blank" rel="noopener nofollow" href="https://xiaolincoding.com/redis/">[ 图解Redis介绍 | 小林coding ]</a>
     <br>系统设计入门 <a target="_blank" rel="noopener nofollow" href="https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md">[ system-design-primer/README-zh-Hans.md ]</a>
     <br>架构设计 <a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html">[ 架构 秒杀系统优化思路_w3cschool ]</a>
     <br>云原生DevOps理解 <a target="_blank" rel="noopener nofollow" href="https://www.thebyte.com.cn/">[ 深入架构原理与实践 ]</a>

@@ -211,3 +211,13 @@
 ||graph.facebook.com^$important
 ||event-tracking.lbkrs.com^$important
 ||data-sdk-uuid-log.d.meituan.net^$important
+||motd.ubuntu.com^$important
+||yximgs.com^$important
+||etoote.com^$important
+||mediadata.api.weibo.com^$important
+||cvws.icloud-content.com^$important
+||card.e.189.cn^$important
+||msv6.wosms.cn^$important
+||log.cece.com^$important
+||applog-bd.feishu.cn^$important
+||sdkconfig.xiaomi.com^$important
