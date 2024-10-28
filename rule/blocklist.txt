@@ -28,13 +28,11 @@
 ||api-sensors.yingmi.cn^$important
 ||api.installer.xiaomi.com^$important
 ||api.kingdata.ksyun.com^$important
-||api.neixin.cn^$important
 ||api.transfer.search.miui.com^$important
 ||app.cauly.co.kr^$important
 ||app.link^$important
 ||auth.wosms.cn^$important
 ||avast.com^$important
-||b23.tv^$important
 ||beacon-api.aliyuncs.com^$important
 ||beacon.cdn.qq.com^$important
 ||biligame.com^$important
@@ -204,3 +202,12 @@
 @@||snssdk.com^$important
 @@||bytedance.com^$important
 @@||passport.biligame.com^$important
+@@||umami.is^$important
+||cloudcontrol.xiaomixiaoai.com^$important
+||uczzd.cn^$important
+||kuiniuca.com^$important
+||content-understand-strategy.sm.cn^$important
+||apmplus.volces.com^$important
+||graph.facebook.com^$important
+||event-tracking.lbkrs.com^$important
+||data-sdk-uuid-log.d.meituan.net^$important
