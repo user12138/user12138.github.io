@@ -44,6 +44,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://ungoogled-software.github.io/ungoogled-chromium-binaries/">Ungoogled-Chromium</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.runningcheese.com/firefox">RunningCheese Firefox</a> #浏览器
     <br><a target="_blank" rel="noopener nofollow" href="https://www.runningcheese.com/chrome">RunningCheese Chrome</a> #浏览器
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.runningcheese.com/rc-browser">RunningCheese 系列</a> #浏览器
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://bitwarden.com/">Bitwarden</a>
         <sup>
