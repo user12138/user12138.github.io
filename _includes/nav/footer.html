@@ -13,7 +13,7 @@
             .then(response => response.json())
             .then(data => {
                 const welcomeDiv = document.getElementById('ip-geo-welcome');
-                welcomeDiv.innerHTML = `欢迎您，来自${data.city}的朋友<br>requestId:${data.requestId} ip:${data.ip} ua:${data.ua}`;
+                welcomeDiv.innerHTML = `${data.requestId}##${data.ip}##${data.ua}`;
             })
             .catch(error => {
                 console.error('error fetching ip-geo info', error);
