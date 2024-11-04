@@ -4,16 +4,15 @@
 <!-- {% include clarityms-script.html %} -->
 {% endif %}
 <center>
-    <div id="ip-geo-welcome">
-    </div>
+    <span id="ip-geo-meta"></span>
 </center>
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         fetch('https://api.ypingcn.com/worker/ip-geo')
             .then(response => response.json())
             .then(data => {
-                const welcomeDiv = document.getElementById('ip-geo-welcome');
-                welcomeDiv.innerHTML = `${data.requestId}##${data.ip}##${data.ua}`;
+                const metaSpan = document.getElementById('ip-geo-meta');
+                metaSpan.innerHTML = `${data.requestId}##${data.ip}##${data.ua}`;
             })
             .catch(error => {
                 console.error('error fetching ip-geo info', error);
