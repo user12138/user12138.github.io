@@ -23,7 +23,7 @@ noindex: false
     <h3>系统性学习地址</h3>
     Go 语言常见问题 <a target="_blank" rel="noopener nofollow" href="https://golang.design/go-questions/">[ Go 程序员面试笔试宝典 ]</a>
     <br>Go 性能编程学习 <a target="_blank" rel="noopener nofollow" href="https://geektutu.com/post/high-performance-go.html">[ Go 语言高性能编程 ]</a>
-    <br>Go 标准库 <a target="_blank" rel="noopener nofollow" href="https://books.studygolang.com/The-Golang-Standard-Library-by-Example/">[ 简介 · Go语言标准库 ]</a>
+    <br>Go 标准库 <a target="_blank" rel="noopener nofollow" href="https://docs.studygolang.com/The-Golang-Standard-Library-by-Example/">[ 简介 · Go语言标准库 ]</a>
     <br>Java 和 Spring 的基础知识<a target="_blank" rel="noopener nofollow" href="https://pdai.tech/md/java/basic/java-basic-oop.html">Java 全栈知识体系</a>
     <br>Spring 教程 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/5/83">[ 专辑：Spring教程_-Java充电社【公众号：Java充电社】]</a>
     <br>分布式事务 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/7/160">[ 专辑：分布式事务专题_-Java充电社【公众号：Java充电社】]</a>
@@ -42,5 +42,6 @@ noindex: false
     <br>云原生DevOps理解 <a target="_blank" rel="noopener nofollow" href="https://www.thebyte.com.cn/">[ 深入架构原理与实践 ]</a>
     <br>工作习惯和意识 <a target="_blank" rel="noopener nofollow" href="https://github.com/cdk8s/cdk8s-team-style">[ GitHub - cdk8s/cdk8s-team-style: 寻找志同道合的人，引发自身的思考 ]</a>
     <br>反向面试 <a target="_blank" rel="noopener nofollow" href="https://github.com/yifeikong/reverse-interview-zh">[ GitHub - yifeikong/reverse-interview-zh: 技术面试最后反问面试官的话 ]</a>
+    <!-- <br>oneCoupon牛券 <a target="_blank" rel="noopener nofollow" href="https://nageoffer.com/onecoupon/">[ 什么是oneCoupon牛券？ | 拿个offer-开源&项目实战 ]</a> -->
     <!-- <br> <a target="_blank" rel="noopener nofollow" href=""></a> -->
 </article>
