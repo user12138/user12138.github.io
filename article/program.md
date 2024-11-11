@@ -25,9 +25,10 @@ noindex: false
     <br>Go 性能编程学习 <a target="_blank" rel="noopener nofollow" href="https://geektutu.com/post/high-performance-go.html">[ Go 语言高性能编程 ]</a>
     <br>Go 标准库 <a target="_blank" rel="noopener nofollow" href="https://docs.studygolang.com/The-Golang-Standard-Library-by-Example/">[ 简介 · Go语言标准库 ]</a>
     <br>Java 和 Spring 的基础知识<a target="_blank" rel="noopener nofollow" href="https://pdai.tech/md/java/basic/java-basic-oop.html">Java 全栈知识体系</a>
+    <br>C++ 基础知识 <a target="_blank" rel="noopener nofollow" href="https://c.biancheng.net/cplus/">[ C++入门教程，C++基础教程（更新完毕）]</a>
     <br>Spring 教程 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/5/83">[ 专辑：Spring教程_-Java充电社【公众号：Java充电社】]</a>
     <br>分布式事务 <a target="_blank" rel="noopener nofollow" href="http://www.itsoku.com/course/7/160">[ 专辑：分布式事务专题_-Java充电社【公众号：Java充电社】]</a>
-    <br>Redis 基础知识整理 <a target="_blank" rel="noopener nofollow" href="https://www.cnblogs.com/crazymakercircle/p/13900198.html">[ Redis 面试题 - 收藏版 ]</a>
+    <br>Redis 基础知识 <a target="_blank" rel="noopener nofollow" href="https://www.cnblogs.com/crazymakercircle/p/13900198.html">[ Redis 面试题 - 收藏版 ]</a>
     <br>Redis 命令解释 <a target="_blank" rel="noopener nofollow" href="http://doc.redisfans.com/">[ Redis 命令参考 ]</a>
     <br>MySQL 命令查询 <a target="_blank" rel="noopener nofollow" href="https://www.sjkjc.com/mysql/getting-started/">[ MySQL 起步 ]</a>
     <br>Redis 原理<a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/hdclil/">[ Redis 设计与实现（第二版）]</a>
