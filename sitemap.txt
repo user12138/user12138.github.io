@@ -1,5 +1,6 @@
 https://ypingcn.com/
 https://ypingcn.com/article/
+https://ypingcn.com/article/bilibili.html
 https://ypingcn.com/article/blocklist.html
 https://ypingcn.com/article/category.html
 https://ypingcn.com/article/entertainment.html
@@ -7,6 +8,7 @@ https://ypingcn.com/article/finance.html
 https://ypingcn.com/article/fund.html
 https://ypingcn.com/article/newsletter.html
 https://ypingcn.com/article/podcast.html
+https://ypingcn.com/article/privacy.html
 https://ypingcn.com/article/program.html
 https://ypingcn.com/article/psychology.html
 https://ypingcn.com/article/scriptlist.html

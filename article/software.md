@@ -37,7 +37,7 @@ noindex: false
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://www.centbrowser.cn/">CentBrowser</a>
         <sup>
-            <a target="_blank" rel="noopener nofollow" title="快速下载最新 CentBrowser 浏览器" href="https://ypingcn.com/go/out?r=centbrowser-lastest">[最新版]</a>
+            <a target="_blank" rel="noopener nofollow" title="快速下载最新 CentBrowser 浏览器" href="/go/out?r=centbrowser-lastest">[最新版]</a>
         </sup>
     <!-- <br><a target="_blank" rel="noopener nofollow" href="https://www.catsxp.com/zh-hans">CatsxpBrowser</a> -->
     <!-- <br><a target="_blank" rel="noopener nofollow" href="https://www.srware.net/iron/">SRWare Iron</a> -->

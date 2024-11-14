@@ -39,6 +39,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://radar.cloudflare.com/ip">Cloudflare Radar IP</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://ipcheck.ing/#/">IPCheck.ing</a>
     <br>【浏览器指纹检测】<br>
+    <a target="_blank" rel="noopener nofollow" href="https://privacytests.org/">浏览器保护功能对比</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.ghxi.com/llq">果核浏览器检测</a>
     <a target="_blank" rel="noopener nofollow" href="https://browserleaks.com/">BrowserLeaks</a>
     <a target="_blank" rel="noopener nofollow" href="https://browseraudit.com">BrowserAudit</a>
