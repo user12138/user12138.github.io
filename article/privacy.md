@@ -61,6 +61,7 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://www.gdnspc.com/">Global DNS Propagation Checker</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.nslookuptool.com">Global DNS Propagation Checker - Nslookup Tool</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.whatsmydns.net">DNS Propagation Checker - Global DNS Testing Tool</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://dnsmid.com/">DNS Checker - Global DNS Propagation Tool</a>
     <br>【其他工具】<br>
     <a target="_blank" rel="noopener nofollow" href="https://www.privacyguides.org/tools/">PrivacyGuides</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.privacytools.io/">PrivacyTools</a>
