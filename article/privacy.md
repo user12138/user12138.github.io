@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2024 年 08 月 18 日
+        最后更新时间：2024 年 12 月 01 日
     <h3>软件列表</h3>
     网络安全工具合集
     <br><a target="_blank" rel="noopener nofollow" href="https://www.kaspersky.com.cn/free-antivirus">卡巴斯基杀毒</a>
@@ -22,7 +22,7 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://metadefender.opswat.com/">MetaDefender</a>
     <a target="_blank" rel="noopener nofollow" href="https://opentip.kaspersky.com/">Kaspersky Threat Intelligence</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://mogua.co/">摸瓜|可疑APP分析</a>
-    <a target="_blank" rel="noopener nofollow" href="https://s.threatbook.cn/">微步在线云沙箱</a>
+    <a target="_blank" rel="noopener nofollow" href="https://s.threatbook.com/">微步在线云沙箱</a>
     <a target="_blank" rel="noopener nofollow" href="https://sandbox.freebuf.com/detect">大圣云沙箱检测系统</a>
     <a target="_blank" rel="noopener nofollow" href="https://ata.360.net/detection">360沙箱云</a>
     <a target="_blank" rel="noopener nofollow" href="https://sandbox.ti.qianxin.com/sandbox/page">奇安信沙箱</a>
@@ -75,6 +75,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://search.censys.io/">Censys Search</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://fofa.info/">FOFA网络空间测绘系统</a>
     <br>【威胁情报系统】<br>
+    <a target="_blank" rel="noopener nofollow" href="https://x.threatbook.com/">微步X情报社区</a>
     <a target="_blank" rel="noopener nofollow" href="https://ti.360.net/#/homepage">360</a>
     <a target="_blank" rel="noopener nofollow" href="https://ti.dbappsecurity.com.cn/">安恒</a>
     <a target="_blank" rel="noopener nofollow" href="https://ti.duba.net/">鹰眼</a>
@@ -84,5 +85,4 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://tix.qq.com/">腾讯</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.antiycloud.com/#/antiy/index">安天</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.venuseye.com.cn/">启明</a>
-    <a target="_blank" rel="noopener nofollow" href="https://x.threatbook.com/">微步</a>
 </article>

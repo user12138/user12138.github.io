@@ -42,7 +42,8 @@ noindex: false
     <br>架构设计 <a target="_blank" rel="noopener nofollow" href="https://www.w3cschool.cn/architectroad/architectroad-optimization-of-seckilling-system.html">[ 架构 秒杀系统优化思路_w3cschool ]</a>
     <br>云原生DevOps理解 <a target="_blank" rel="noopener nofollow" href="https://www.thebyte.com.cn/">[ 深入架构原理与实践 ]</a>
     <br>工作习惯和意识 <a target="_blank" rel="noopener nofollow" href="https://github.com/cdk8s/cdk8s-team-style">[ GitHub - cdk8s/cdk8s-team-style: 寻找志同道合的人，引发自身的思考 ]</a>
+    <br>Top Interview Questions <a target="_blank" rel="noopener nofollow" href="https://leetcode.com/problem-list/wpwgkgt/">[ Problems - LeetCode - Top Interview Questions ]</a>
     <br>反向面试 <a target="_blank" rel="noopener nofollow" href="https://github.com/yifeikong/reverse-interview-zh">[ GitHub - yifeikong/reverse-interview-zh: 技术面试最后反问面试官的话 ]</a>
-    <!-- <br>oneCoupon牛券 <a target="_blank" rel="noopener nofollow" href="https://nageoffer.com/onecoupon/">[ 什么是oneCoupon牛券？ | 拿个offer-开源&项目实战 ]</a> -->
+    <br>oneCoupon牛券 <a target="_blank" rel="noopener nofollow" href="https://nageoffer.com/onecoupon/">[ 什么是oneCoupon牛券？ | 拿个offer-开源&项目实战 ]</a>
     <!-- <br> <a target="_blank" rel="noopener nofollow" href=""></a> -->
 </article>
