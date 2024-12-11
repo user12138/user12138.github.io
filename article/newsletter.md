@@ -38,6 +38,5 @@ noindex: false
     <br>独立产品灵感周刊，主要是产品创意和运营的分享。
     <br>推荐阅读：<a target="_blank" rel="noopener nofollow" href="https://decohack.zhubai.love/posts/2148293986190659584">《独立产品灵感周刊 DecoHack #017 - 互联网真有趣》</a>
     <hr>
-    <br>8.<a target="_blank" rel="noopener nofollow" href="https://geekplux.zhubai.love/">【GeekPlux Lab】</a>
-    <br>推荐阅读：<a target="_blank" rel="noopener nofollow" href="https://geekplux.zhubai.love/posts/2089594064939798528">《如何不努力也能财富自由 -#2》</a>
+    <br>8.<a target="_blank" rel="noopener nofollow" href="https://letters.geekplux.com/">【GeekPlux Letters】</a>
 </article>

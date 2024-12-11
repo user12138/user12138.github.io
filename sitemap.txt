@@ -3,6 +3,7 @@ https://ypingcn.com/article/
 https://ypingcn.com/article/bilibili.html
 https://ypingcn.com/article/blocklist.html
 https://ypingcn.com/article/category.html
+https://ypingcn.com/article/douban.html
 https://ypingcn.com/article/entertainment.html
 https://ypingcn.com/article/finance.html
 https://ypingcn.com/article/fund.html
