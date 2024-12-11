@@ -1,6 +1,6 @@
 ---
 layout: article-default
-title: "编程相关信息收藏 | 混沌书签导航，找网站/工具更容易 | 提升效率 分享优质信息 资源收藏"
+title: "编程相关信息收藏 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
 noindex: false
 ---
 
@@ -9,8 +9,8 @@ noindex: false
     最后更新时间：2024 年 10 月 28 日
     <h3>学习文章备份</h3>
     C++ 项目编译优化  <a target="_blank" rel="noopener nofollow" href="https://bot-man-jl.github.io/articles/?post=2022/Cpp-Project-Compile-Optimization">《C++ 项目编译优化 | BOT Man JL》</a>
-    <br>为什么游戏行业喜欢用PolarDB  <a target="_blank" rel="noopener nofollow" href="http://baotiao.github.io/2022/07/19/polardb-game.html">《为什么游戏行业喜欢用PolarDB | 做有积累的事情》</a>
-    <br>BadgerDB 简介 <a target="_blank" rel="noopener nofollow" href="http://note.iawen.com/note/graph/badger_base">《badger 简介 | Iawen's Blog 》</a>
+    <br>为什么游戏行业喜欢用PolarDB  <a target="_blank" rel="noopener nofollow" href="https://baotiao.github.io/2022/07/19/polardb-game.html">《为什么游戏行业喜欢用PolarDB | 做有积累的事情》</a>
+    <br>BadgerDB 简介 <a target="_blank" rel="noopener nofollow" href="https://note.iawen.com/note/graph/badger_base">《badger 简介 | Iawen's Blog 》</a>
     <br>热点检测治理 <a target="_blank" rel="noopener nofollow" href="https://mp.weixin.qq.com/s/C8CI-1DDiQ4BC_LaMaeDBg">《热点检测治理 | 哔哩哔哩技术》</a>
     <h3>开源项目</h3>
     熔断降级组件实现 <a target="_blank" rel="noopener nofollow" href="https://github.com/afex/hystrix-go">hystrix-go</a>

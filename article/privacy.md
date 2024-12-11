@@ -1,6 +1,6 @@
 ---
 layout: article-default
-title: "网络安全工具合集 | 混沌书签导航，找网站/工具更容易 | 提升效率 分享优质信息 资源收藏"
+title: "网络安全工具合集 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
 noindex: false
 ---
 
@@ -38,6 +38,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://www.cloudflare.com/cdn-cgi/trace">Cloudflare CGI IP</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://radar.cloudflare.com/ip">Cloudflare Radar IP</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://ipcheck.ing/#/">IPCheck.ing</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.ip.network/">IPCheck.ing</a>
     <br>【浏览器指纹检测】<br>
     <a target="_blank" rel="noopener nofollow" href="https://privacytests.org/">浏览器保护功能对比</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.ghxi.com/llq">果核浏览器检测</a>
@@ -54,11 +55,12 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://adguard-dns.io/">AdGuardDNS</a>
     <a target="_blank" rel="noopener nofollow" href="https://console.dnspod.cn/publicdns/config">Dnspod公共DNS</a>
     <a target="_blank" rel="noopener nofollow" href="https://dns.console.aliyun.com/#/pdns/dashboard">阿里云公共DNS</a>
-    <a target="_blank" rel="noopener nofollow" href="http://nstool.netease.com/info.html">网易DNS检测工具</a>
+    <a target="_blank" rel="noopener nofollow" href="https://nstool.netease.com/info.html">网易DNS检测工具</a>
     <a target="_blank" rel="noopener nofollow" href="https://whoer.net/zh/dns-leak-test">DNS泄露测试</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://github.com/curl/curl/wiki/DNS-over-HTTPS">DNS over HTTPS 列表大全</a>
     <br>【DNS记录查询】<br>
-    <a target="_blank" rel="noopener nofollow" href="https://www.gdnspc.com/">Global DNS Propagation Checker</a>
+    <a target="_blank" rel="noopener nofollow" href="https://dns.fish/">DNS.fish</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.gdnspc.com/">Global DNS Propagation Checker</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.nslookuptool.com">Global DNS Propagation Checker - Nslookup Tool</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.whatsmydns.net">DNS Propagation Checker - Global DNS Testing Tool</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://dnsmid.com/">DNS Checker - Global DNS Propagation Tool</a>

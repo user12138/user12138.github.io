@@ -3,10 +3,10 @@
 {% include nav/head.html %}
 <!-- hack iOS CSS :active style -->
 <body ontouchstart="">
-    {{ content }}
-    {% if page.copyright %}
-    {% include nav/content/copyright.html %}
-    {% endif %}
-</body>
+{{ content }}
+{% if page.copyright %}
+{% include nav/content/copyright.html %}
+{% endif %}
 {% include nav/footer.html %}
+</body>
 </html>
