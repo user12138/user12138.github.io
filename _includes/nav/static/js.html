@@ -9,6 +9,7 @@
             ["google", "https://www.google.com/search?client=firefox-b-d&q="],
             ["qwant", "https://www.qwant.com/?q="],
             ["sogou", "https://www.sogou.com/web?query="],
+            ["iplark", "https://iplark.com/"],
         ]
     )
 
@@ -20,8 +21,11 @@
             return;
         }
         var searchEnginePrefix = searchEngineData.get(searchEngine);
-        if (searchEnginePrefix == "")
-            searchEnginePrefix = searchEngineData.get("ecosia");
+        if (searchEnginePrefix == "") {
+            // searchEnginePrefix = searchEngineData.get("baidu");
+            console.log("invaild search engine... ")
+            return;
+        }
         var searchEngineUrl = searchEnginePrefix + searchContent;
         console.log("visiting... ", searchEngineUrl)
         window.open(searchEngineUrl, '_blank');
