@@ -9,7 +9,7 @@ noindex: false
     最后更新时间：2023 年 08 月 22 日
     <hr>
     <h3>基金观察池</h3>
-    <br>个人用基金观察池，非基金从业人员，不构成投资建议。投资有风险，入市需谨慎。
+    <br>个人用基金观察池，不构成投资建议。投资有风险，入市需谨慎。
     <br>====平衡型====
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/110012.html">易方达科汇灵活配置混合</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/002087.html">国富新机遇混合A</a>
@@ -32,7 +32,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/163406.html">兴全合润混合(LOF)</a>
     <br><del><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/013426.html">贝莱德中国新视野混合A</a></del>
     <br><del><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/014412.html">招商核心竞争力混合A</a></del>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/018555.html">交银启嘉混合C</a>
+    <br><del><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/018555.html">交银启嘉混合C</a></del>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/018485.html">财通资管医疗保健混合C</a>
     <br>====指数型====
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/017937.html">易方达中证医疗ETF联接发起式A</a>
@@ -76,13 +76,4 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/008923.html">建信医疗健康行业股票A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/012159.html">财通资管健康产业混合A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/004075.html">交银医药创新股票A</a>
-    <br>====基金经理====
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30411926.html">王海峰</a>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30532811.html">杨嘉文</a>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30075384.html">张清华</a>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30132431.html">沈楠</a>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30072863.html">朱红裕</a>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30342561.html">莫海波</a>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30679359.html">徐慕浩</a>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/manager/30690184.html">王博</a>
 </article>
