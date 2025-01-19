@@ -4,15 +4,15 @@
         <div>
             <form action="" onsubmit="return false">
                 <select id="search-engine" style="height: 30px;width: 100px;">
-                    <option value="baidu">百度搜索</option>
                     <option value="bing">必应搜索</option>
+                    <option value="google">Google搜索</option>
+                    <option value="baidu">百度搜索</option>
+                    <option value="iplark">IP搜索</option>
                     <option value="brave">Brave</option>
                     <option value="ecosia">Ecosia</option>
                     <option value="sogou">搜狗搜索</option>
-                    <option value="google">Google搜索</option>
                     <option value="ddg">DuckDuckGo</option>
                     <option value="qwant">QWant</option>
-                    <option value="iplark">IP搜索</option>
                 </select>
                 <input style="height: 30px;width: 500px;" type="text" id="search-content" placeholder="输入搜索内容" onkeydown="if(event.keyCode==13){toSearchPage()}">
                 <button style="height: 30px;width: 100px;" onclick="toSearchPage()" type="button"> 搜索 </button>
