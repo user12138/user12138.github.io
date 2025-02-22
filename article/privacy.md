@@ -76,8 +76,8 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://github.com/curl/curl/wiki/DNS-over-HTTPS">DNS over HTTPS 列表大全</a>
     <br>【DNS记录查询】<br>
     <a target="_blank" rel="noopener nofollow" href="https://dns.fish/">DNS.fish</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://www.gdnspc.com/">Global DNS Propagation Checker</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://www.nslookuptool.com">Global DNS Propagation Checker - Nslookup Tool</a>
+    <!-- <br><a target="_blank" rel="noopener nofollow" href="https://www.gdnspc.com/">Global DNS Propagation Checker</a> -->
+    <!-- <br><a target="_blank" rel="noopener nofollow" href="https://www.nslookuptool.com">Global DNS Propagation Checker - Nslookup Tool</a> -->
     <br><a target="_blank" rel="noopener nofollow" href="https://dnsmid.com/">DNS Checker - Global DNS Propagation Tool</a>
     <br>【其他工具】<br>
     <a target="_blank" rel="noopener nofollow" href="https://www.privacyguides.org/tools/">PrivacyGuides</a>
