@@ -1,6 +1,6 @@
 !!自用过滤屏蔽域名
-@@||2345.cn^$important
-@@||2345.com^$important
+!!||io.mi.com^$important
+!!||iot.mi.com^$important
 ||10046.mi.com^$important
 ||8zhuayu.cc^$important
 ||a0.app.xiaomi.com^$important
@@ -85,8 +85,6 @@
 ||ifread.com^$important
 ||in.appcenter.ms^$important
 ||infoc2.duba.net^$important
-||io.mi.com^$important
-||iot.mi.com^$important
 ||janapi.jd.com^$important
 ||jiaoliuqu.com^$important
 ||jr.mi.com^$important
@@ -110,6 +108,7 @@
 ||mall.bilibili.com^$important
 ||mapi.m.jd.com^$important
 ||mcc.inf.miui.com^$important
+||merino.services.mozilla.com^$important
 ||metric.gstatic.com^$important
 ||microsoftedge.microsoft.com^$important
 ||miui-fxcse.avlyun.com^$important
@@ -198,11 +197,6 @@
 ||dns.qq.com^$important
 ||msedge.net^$important
 ||feelgood.cn^$important
-@@||zijieapi.com^$important
-@@||snssdk.com^$important
-@@||bytedance.com^$important
-@@||passport.biligame.com^$important
-@@||umami.is^$important
 ||cloudcontrol.xiaomixiaoai.com^$important
 ||uczzd.cn^$important
 ||kuiniuca.com^$important
@@ -221,3 +215,13 @@
 ||log.cece.com^$important
 ||applog-bd.feishu.cn^$important
 ||sdkconfig.xiaomi.com^$important
+||ctt-er.hnzkclouds.com^$important
+||hyperos.developer.xiaomi.com^$important
+@@||2345.cn^$important
+@@||2345.com^$important
+@@||mcdn.bilivideo.cn^$important
+@@||zijieapi.com^$important
+@@||snssdk.com^$important
+@@||bytedance.com^$important
+@@||passport.biligame.com^$important
+@@||umami.is^$important

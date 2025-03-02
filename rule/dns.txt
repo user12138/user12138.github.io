@@ -3,13 +3,9 @@
 #180.76.76.76
 #119.29.29.29
 #114.114.114.114
-https://doh.onedns.net/dns-query
-#https://doh.pub/dns-query
+https://doh.pub/dns-query
 https://dns.alidns.com/dns-query
-[/douyincdn.com/]https://doh.onedns.net/dns-query
-[/douyinvod.com/]https://doh.onedns.net/dns-query
-[/douyinliving.com/]https://doh.onedns.net/dns-query
-[/douyinpic.com/]https://doh.onedns.net/dns-query
+https://doh.onedns.net/dns-query
 [/kaspersky-labs.com/]https://doh.onedns.net/dns-query
 #[/v2ex.com/]https://dns.adguard-dns.com/dns-query
 #[/github.io/]https://dns.adguard-dns.com/dns-query
@@ -25,7 +21,6 @@ https://dns.alidns.com/dns-query
 #[/kde.org/]https://dns.adguard-dns.com/dns-query
 #[/ecosia.org/]https://dns.adguard-dns.com/dns-query
 #[/steampowered.com/]https://dns.adguard-dns.com/dns-query
-#[/ypingcn.com/]https://dns.adguard-dns.com/dns-query
 #[/mozilla.org/]https://dns.adguard-dns.com/dns-query
 #[/mozilla.net/]https://dns.adguard-dns.com/dns-query
 #[/mozilla.com/]https://dns.adguard-dns.com/dns-query
