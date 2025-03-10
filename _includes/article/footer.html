@@ -1,6 +1,6 @@
 <footer>
     <center>
-        <span id="ip-geo-meta"></span>
+        <span id="page-meta"></span>
     </center>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -8,7 +8,7 @@
             fetch(url)
                 .then(response => response.json())
                 .then(data => {
-                    const metaSpan = document.getElementById('ip-geo-meta');
+                    const metaSpan = document.getElementById('page-meta');
                     metaSpan.innerHTML = `${data.requestId}##${data.ip}##${data.ua}`;
                 })
                 .catch(error => {
