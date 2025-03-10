@@ -7,11 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex">
     <title>Redirecting</title>
+    <script type="text/javascript" src="/go/js/jump.js"></script>
+    <script type="text/javascript" src="/static/js/meta.js"></script>
+    <script >fetchPageMeta('TdBmSD10u');</script>
     <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
     <script>LA.init({id:"Ji8sNEm09d4f8ZaO",ck:"Ji8sNEm09d4f8ZaO",autoTrack:true,hashMode:true})</script>
     <script defer src="https://cloud.umami.is/script.js" data-website-id="7c9f77f9-6d5e-4f24-b96b-b7290e818989"></script>
-    <script type="text/javascript" src="/go/js/jump.js"></script>
-    <script type="text/javascript" src="/static/js/meta.js"></script>
 </head>
 
 <body>
@@ -22,10 +23,10 @@
     <center>
         <span id="page-meta"></span>
     </center>
-    <script>
-            (function () {
-                fetchPageMeta('TdBmSD10u');
-                goUrl("/go/e/routes.json", 1000, "redirect-url");
-            })();
-    </script>
 </body>
+
+<script>
+    (function () {
+        goUrl("/go/e/routes.json", 1000, "redirect-url");
+    })();
+</script>
