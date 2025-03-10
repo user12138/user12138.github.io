@@ -1,35 +1,42 @@
 function parseQueryString(queryString) {
-    var params = {}, queries, temp, i, l;
-
-    // Split into key/value pairs
-    queries = queryString.split("&");
-
-    // Convert the array of strings into an object
-    for (i = 0, l = queries.length; i < l; i++) {
-        temp = queries[i].split('=');
-        params[temp[0]] = temp[1];
+    const params = {};
+    const queries = queryString.split("&");
+    for (const query of queries) {
+        const [key, value] = query.split('=');
+        if (key) {
+            params[decodeURIComponent(key)] = value ? decodeURIComponent(value) : '';
+        }
     }
-
     return params;
-};
+}
 
 function goUrl(config, timeoutMs, replaceElement) {
     fetch(config + `?t=${Date.now()}`)
-        .then(response => response.json())
-        .then(routes => {
-            var queries = parseQueryString(location.search.substring(1))
-            var key = queries['r']
-            var url = routes[key];
-            if (!url)
-                url = '/error.html';
-            console.log(`${key} redirecting to ${url}`);
-            if (replaceElement)
-                document.getElementById(replaceElement).innerHTML = url
-            setTimeout(function () {
-                window.location.href = url
-            }, timeoutMs)
+       .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
         })
-        .catch(error => {
-            console.log(error);
+       .then(routes => {
+            const queries = parseQueryString(location.search.substring(1));
+            let key = queries['r'];
+            if (!key) {
+                key = 'def';
+            }
+            const url = routes[key] || '/error.html';
+            console.log(`${key} redirecting to ${url}`);
+            if (replaceElement) {
+                const element = document.getElementById(replaceElement);
+                if (element) {
+                    element.textContent = url;
+                }
+            }
+            setTimeout(() => {
+                window.location.href = url;
+            }, timeoutMs);
+        })
+       .catch(error => {
+            console.error('Error:', error);
         });
 }
