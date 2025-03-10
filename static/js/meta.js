@@ -19,7 +19,6 @@ function fetchPageMeta(appId) {
             })
            .catch(error => {
                 console.error('error fetching page meta info', error);
-                const metaSpan = document.getElementById('page-meta');
             });
     });
 }

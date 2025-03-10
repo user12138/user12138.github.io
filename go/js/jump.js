@@ -28,7 +28,7 @@ function goUrl(config, timeoutMs, replaceElement) {
         console.error('Invalid parameters for goUrl function.');
         return;
     }
-    const urlWithTimestamp = config + `?t=${Date.now()/3600}`;
+    const urlWithTimestamp = config + `?t=${Math.floor(Date.now()/3600)}`;
     fetchAndParseJson(urlWithTimestamp)
       .then(routes => {
             const queries = parseQueryString(location.search.substring(1));
