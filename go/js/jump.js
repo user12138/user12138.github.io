@@ -28,7 +28,7 @@ function goUrl(config, timeoutMs, replaceElement) {
         console.error('Invalid parameters for goUrl function.');
         return;
     }
-    const urlWithTimestamp = config + `?t=${Math.floor(Date.now()/3600)}`;
+    const urlWithTimestamp = config + `?t=${Math.floor(Date.now() / 3600)}`;
     fetchAndParseJson(urlWithTimestamp)
       .then(routes => {
             const queries = parseQueryString(location.search.substring(1));
@@ -39,6 +39,12 @@ function goUrl(config, timeoutMs, replaceElement) {
                 const element = document.getElementById(replaceElement);
                 if (element) {
                     element.textContent = url;
+                }
+            }
+            if (queries['t']!== undefined) {
+                const tValue = parseFloat(queries['t']);
+                if (!isNaN(tValue)) {
+                    timeoutMs = tValue;
                 }
             }
             setTimeout(() => {
