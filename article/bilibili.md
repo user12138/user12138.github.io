@@ -1,6 +1,6 @@
 ---
 layout: article-default
-title: "哔哩哔哩UP主合集 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
+title: "哔哩哔哩UP主合集 v2024.07.13 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
 noindex: false
 ---
 

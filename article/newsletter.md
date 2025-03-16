@@ -1,6 +1,6 @@
 ---
 layout: article-default
-title: "Newsletter 收藏 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
+title: "Newsletter 收藏 v2024.12.11 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
 noindex: false
 ---
 
