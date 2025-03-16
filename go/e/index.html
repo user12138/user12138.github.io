@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex">
     <title>Redirecting</title>
-    <script type="text/javascript" src="/go/js/jump.js"></script>
+    <script type="text/javascript" src="/static/js/jump.js"></script>
     <script type="text/javascript" src="/static/js/meta.js"></script>
     <script >fetchPageMeta('TdBmSD10u');</script>
     <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
@@ -23,10 +23,9 @@
     <center>
         <span id="page-meta"></span>
     </center>
+    <script>
+        (function () {
+            goUrl("/go/e/routes.json", 1000, "redirect-url");
+        })();
+    </script>
 </body>
-
-<script>
-    (function () {
-        goUrl("/go/e/routes.json", 1000, "redirect-url");
-    })();
-</script>
