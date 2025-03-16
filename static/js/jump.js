@@ -65,7 +65,6 @@ if (currentScript && currentScript.hasAttribute('config') && currentScript.hasAt
 
     if (isNaN(timeoutMs)) {
         timeoutMs=0;
-        return;
     }
 
     goUrl(config, timeoutMs, replaceElement);
