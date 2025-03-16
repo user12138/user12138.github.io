@@ -80,7 +80,7 @@ noindex: false
     <!-- <br><a target="_blank" rel="noopener nofollow" href="https://www.nslookuptool.com">Global DNS Propagation Checker - Nslookup Tool</a> -->
     <br><a target="_blank" rel="noopener nofollow" href="https://dnsmid.com/">DNS Checker - Global DNS Propagation Tool</a>
     <br>【其他工具】<br>
-    <a target="_blank" rel="noopener nofollow" href="https://www.privacyguides.org/tools/">PrivacyGuides</a>
+    <a target="_blank" rel="noopener nofollow" href="https://www.privacyguides.org/zh-Hant/tools/">PrivacyGuides</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.privacytools.io/">PrivacyTools</a>
     <a target="_blank" rel="noopener nofollow" href="https://cybermagicsec.github.io/privacytools-zh/">隐私工具</a>
     <a target="_blank" rel="noopener nofollow" href="https://trackthis.link/">Track This</a>
