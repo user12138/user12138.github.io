@@ -23,8 +23,8 @@ function fetchPageMeta(appId) {
     });
 }
 
-const currentScript = document.currentScript;
-if (currentScript && currentScript.hasAttribute('appId')) {
-    const appId = currentScript.getAttribute('appId');
+if (document.currentScript && 
+    document.currentScript.hasAttribute('appId')) {
+    const appId = document.currentScript.getAttribute('appId');
     fetchPageMeta(appId);
 }

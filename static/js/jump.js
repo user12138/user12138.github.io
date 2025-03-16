@@ -56,12 +56,14 @@ function goUrl(config, timeoutMs, replaceElement) {
         });
 }
 
-const currentScript = document.currentScript;
-if (currentScript && currentScript.hasAttribute('config') && currentScript.hasAttribute('timeoutms') && currentScript.hasAttribute('element')) {
-    const config = currentScript.getAttribute('config');
-    const timeoutMsStr = currentScript.getAttribute('timeoutms');
+if (document.currentScript && 
+    document.currentScript.hasAttribute('config') && 
+    document.currentScript.hasAttribute('timeoutms') && 
+    document.currentScript.hasAttribute('element')) {
+    const config = document.currentScript.getAttribute('config');
+    const timeoutMsStr = document.currentScript.getAttribute('timeoutms');
     const timeoutMs = parseInt(timeoutMsStr, 10);
-    const replaceElement = currentScript.getAttribute('element');
+    const replaceElement = document.currentScript.getAttribute('element');
 
     if (isNaN(timeoutMs)) {
         timeoutMs=0;
