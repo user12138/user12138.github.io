@@ -55,3 +55,17 @@ function goUrl(config, timeoutMs, replaceElement) {
             console.error('Error in goUrl:', error);
         });
 }
+
+const currentScript = document.currentScript;
+if (currentScript && currentScript.hasAttribute('config') && currentScript.hasAttribute('timeoutms') && currentScript.hasAttribute('element')) {
+    const config = currentScript.getAttribute('config');
+    const timeoutMsStr = currentScript.getAttribute('timeoutms');
+    const timeoutMs = parseInt(timeoutMsStr, 10);
+    const replaceElement = currentScript.getAttribute('element');
+
+    if (isNaN(timeoutMs)) {
+        return;
+    }
+
+    goUrl(config, timeoutMs, replaceElement);
+}
