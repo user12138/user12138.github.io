@@ -7,23 +7,23 @@ function fetchPageMeta(appId) {
         }
         const url = `https://api.ypingcn.com/worker/ip-geo/v1?appId=${appId}&from=` + btoaSafe(window.location.href);
         fetch(url)
-           .then(response => {
+            .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 return response.json();
             })
-           .then(data => {
+            .then(data => {
                 const metaSpan = document.getElementById('page-meta');
                 metaSpan.textContent = `${data.requestId}##${data.ip}##${data.ua}`;
             })
-           .catch(error => {
+            .catch(error => {
                 console.error('error fetching page meta info', error);
             });
     });
 }
 
-if (document.currentScript && 
+if (document.currentScript &&
     document.currentScript.hasAttribute('appId')) {
     const appId = document.currentScript.getAttribute('appId');
     fetchPageMeta(appId);

@@ -24,13 +24,13 @@ async function fetchAndParseJson(url) {
 }
 
 function goUrl(config, timeoutMs, replaceElement) {
-    if (typeof config!== 'string' || typeof timeoutMs!== 'number') {
+    if (typeof config !== 'string' || typeof timeoutMs !== 'number') {
         console.error('Invalid parameters for goUrl function.');
         return;
     }
     const urlWithTimestamp = config + `?t=${Math.floor(Date.now() / 3600)}`;
     fetchAndParseJson(urlWithTimestamp)
-      .then(routes => {
+        .then(routes => {
             const queries = parseQueryString(location.search.substring(1));
             const key = queries['r'];
             const url = routes[key] || routes['def'] || '/error.html';
@@ -40,7 +40,7 @@ function goUrl(config, timeoutMs, replaceElement) {
                     element.textContent = url;
                 }
             }
-            if (queries['t']!== undefined) {
+            if (queries['t'] !== undefined) {
                 const tValue = parseFloat(queries['t']);
                 if (!isNaN(tValue)) {
                     timeoutMs = tValue;
@@ -51,14 +51,14 @@ function goUrl(config, timeoutMs, replaceElement) {
                 window.location.href = url;
             }, timeoutMs);
         })
-      .catch(error => {
+        .catch(error => {
             console.error('Error in goUrl:', error);
         });
 }
 
-if (document.currentScript && 
-    document.currentScript.hasAttribute('config') && 
-    document.currentScript.hasAttribute('timeoutms') && 
+if (document.currentScript &&
+    document.currentScript.hasAttribute('config') &&
+    document.currentScript.hasAttribute('timeoutms') &&
     document.currentScript.hasAttribute('element')) {
     const config = document.currentScript.getAttribute('config');
     const timeoutMsStr = document.currentScript.getAttribute('timeoutms');
@@ -66,7 +66,7 @@ if (document.currentScript &&
     const replaceElement = document.currentScript.getAttribute('element');
 
     if (isNaN(timeoutMs)) {
-        timeoutMs=0;
+        timeoutMs = 0;
     }
     goUrl(config, timeoutMs, replaceElement);
 }
