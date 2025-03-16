@@ -220,7 +220,6 @@
 !! ## 
 ||10010.cn^$important
 ||10010.net^$important
-||113.200.56.63^$important
 ||10010.com^$important
 ||10010.com.cn^$important
 ||cu5gaia.com^$important
@@ -236,6 +235,19 @@
 ||unicom.net.cn^$important
 ||wo.com.cn^$important
 ||wo.cn^$important
+!! ## 
+!! ## 天翼数字生活科技有限公司
+!! ## 
+||189cube.com^$important
+||189smarthome.com^$important
+||21cn.net^$important
+||21cnentmail.com^$important
+||21cnsales.com^$important
+||cnitv.net^$important
+||dlife.cn^$important
+||id6.me^$important
+||ott4china.com^$important
+||yueme.tv^$important
 !! ## 
 !! ## 中国电信集团有限公司
 !! ## 

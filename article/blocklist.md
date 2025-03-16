@@ -6,7 +6,7 @@ noindex: false
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2023 年 06 月 24 日
+        最后更新时间：2025 年 03 月 16 日
     <h3>屏蔽域名</h3>
         个人使用的屏蔽分析、跟踪请求、不需要功能的相关域名列表，配合其他如 [EasyPrivacy] [WindowsSpyBlocker (Spy)] 等广告过滤规则使用更佳。
         <br>添加前按需添加规则，部分配置会影响功能的正常使用，切勿一键导入。将某个域名拉黑将自动拉黑它所有的子域名。
@@ -14,96 +14,146 @@ noindex: false
         <br>8zhuayu.cc
         <br>a0.app.xiaomi.com
         <br>ab.qq.com
+        <br>ad-sdk.huxiu.com
         <br>ad.mh.163.com
         <br>ad.us.sinaimg.cn
+        <br>adash-emas.cn-hangzhou.aliyuncs.com
         <br>adserver.yidianzixun.com
+        <br>adsmind.gdtimg.com
         <br>adstrategy.biz.weibo.com
         <br>adukwai.com
         <br>advert.58.com
+        <br>aedns.weixin.qq.com
         <br>ai.xiaomi.com
         <br>aispeech.com
+        <br>aloc-control-plus.amap.com
         <br>amonsul.douban.com
         <br>analytics.10010.com
         <br>analytics.srvnw.com
         <br>analyticspixel.microsoft.com
+        <br>apd-pcdnwxnat.teg.tencent-cloud.net
+        <br>apd-pcdnwxstat.teg.tencent-cloud.net
+        <br>api-middle.transfer.sec.miui.com
         <br>api-sensors.yingmi.cn
         <br>api.installer.xiaomi.com
         <br>api.kingdata.ksyun.com
-        <br>api.neixin.cn
+        <br>api.transfer.search.miui.com
+        <br>apmplus.volces.com
         <br>app.cauly.co.kr
         <br>app.link
+        <br>applog-bd.feishu.cn
         <br>auth.wosms.cn
         <br>avast.com
-        <br>b23.tv
         <br>beacon-api.aliyuncs.com
         <br>beacon.cdn.qq.com
+        <br>biligame.com
         <br>biz.weibo.com
+        <br>browser.miui.com
+        <br>card.e.189.cn
+        <br>cdn.exp.xiaomi.com
         <br>centertime.ksyun.com
         <br>checkappexec.microsoft.com
+        <br>cloudcontrol.xiaomixiaoai.com
         <br>cm.bilibili.com
         <br>cmpassport.com
         <br>cn.app.chat.xiaomi.net
         <br>collect.bz.mgtv.com
         <br>connect.rom.miui.com
         <br>content-autofill.googleapis.com
+        <br>content-understand-strategy.sm.cn
         <br>contile.services.mozilla.com
         <br>cpatrk.net
+        <br>ctt-er.hnzkclouds.com
+        <br>cvws.icloud-content.com
+        <br>data-sdk-uuid-log.d.meituan.net
         <br>data.bilibili.com
         <br>data.game.xiaomi.com
+        <br>data.microsoft.com
         <br>data.osdknw.com
         <br>datacollection.uve.weibo.com
         <br>datacollector-drcn.dt.hicloud.com
         <br>dg.k.jd.com
         <br>dgstatic.jd.com
         <br>dns.google
-        <br>dns.pub
+        <br>dns.qq.com
         <br>dns.weixin.qq.com.cn
         <br>dsp-x.jd.com
         <br>edge.microsoft.com
+        <br>etoote.com
+        <br>event-tracking.lbkrs.com
         <br>example.com
         <br>experiment.xiaomi.com
+        <br>feelgood.cn
+        <br>firebaseinstallations.googleapis.com
         <br>firevent.jd.com
         <br>flash.sec.miui.com
+        <br>flowcontroll.dcdn.sandai.net
         <br>fxltsbl.com
         <br>getui.com
+        <br>graph.facebook.com
         <br>grs.dbankcloud.com
         <br>health.comm.miui.com
         <br>hotfix-api.aliyuncs.com
         <br>hpplay.cn
+        <br>htrace.wetvinfo.com
         <br>httpdns.kg.qq.com
         <br>httpdns.meituan.com
+        <br>httpdns.music.163.com
+        <br>httpdns.n.netease.com
+        <br>httpdns.yunxindns.com
         <br>huoyanio.com
+        <br>hyperos.developer.xiaomi.com
         <br>id6.me
         <br>iflysec.com
         <br>ifread.com
         <br>in.appcenter.ms
         <br>infoc2.duba.net
-        <br>io.mi.com
-        <br>iot.mi.com
         <br>janapi.jd.com
+        <br>jiaoliuqu.com
         <br>jr.mi.com
+        <br>js.monitor.azure.com
         <br>jupiter.sys.miui.com
         <br>kadmimage.biz.weibo.com
+        <br>kepler.jd.com
+        <br>knicks.jd.com
         <br>kookong.com
-        <br>lenovo.com
+        <br>kuiniuca.com
         <br>lenovo.com.cn
+        <br>lenovo.com
         <br>lenovomm.com
         <br>lf1-cdn-tos.bytegoofy.com
         <br>liveupdate7.drivergenius.com
         <br>location.services.mozilla.com
+        <br>log.cece.com
         <br>log.iflytek.com
+        <br>log.mmstat.com
+        <br>log.tailscale.io
         <br>logcollection.ronghub.com
         <br>logcollector.haohaozhu.cn
+        <br>mall.bilibili.com
         <br>mapi.m.jd.com
+        <br>mcc.inf.miui.com
+        <br>mediadata.api.weibo.com
+        <br>merino.services.mozilla.com
         <br>metric.gstatic.com
         <br>microsoftedge.microsoft.com
         <br>miui-fxcse.avlyun.com
         <br>miwifi.com
         <br>mob.com
         <br>mobileservice.cn
+        <br>motd.ubuntu.com
+        <br>msedge.api.cdp.microsoft.com
+        <br>msedge.net
+        <br>msv6.wosms.cn
         <br>mum.hzchengdun.com
         <br>nisgd1.10010.com
         <br>norma-external-collect.meizu.com
+        <br>nstool.321fenx.com
+        <br>nstool.haowu.link
+        <br>nstool.laiqukankan.com
+        <br>nstool.netease.com
+        <br>nstool.yqkk.link
+        <br>nstool.zhuanzfx.com
         <br>onethingpcs.com
         <br>open.e.189.cn
         <br>openspeech.cn
@@ -113,30 +163,39 @@ noindex: false
         <br>pangolin-sdk-toutiao-b.com
         <br>pangolin-sdk-toutiao.com
         <br>pangolin-sdk-toutiao1.com
+        <br>pinduoduo.com
         <br>ping.cloud.tencent.com
         <br>port.sec.miui.com
+        <br>push-rest.zui.com
         <br>q-app.market.xiaomi.com
         <br>q-nileapi.market.xiaomi.com
         <br>qsb.browser.miui.srv
+        <br>remoteprovisioning.googleapis.com
         <br>rmonitor.qq.com
         <br>safebrowsing.googleapis.com
-        <br>sandai.net
         <br>sdk.51.la
+        <br>sdkconfig.xiaomi.com
         <br>sensors-focus.yingmi.com
         <br>sensors.cloud.tencent.com
         <br>sensorsdata.cn
         <br>sentry-android.mm.taou.com
+        <br>sentry.io
         <br>sentry.music.163.com
         <br>sentry.xiaoyuzhoufm.com
+        <br>settings-win.data.microsoft.com
         <br>sharetrace.com
         <br>slb-p2p.vcloud.ks-live.com
+        <br>smartscreen.microsoft.com
         <br>snowflake.qq.com
-        <br>splash.unity.cn
-        <br>store.assistant.miui.com
+        <br>splash.unity.cn、
         <br>sysdk.cl2009.com
+        <br>szbdyd.com
         <br>t2.a.market.xiaomi.com
         <br>tbsrecovery.imtt.qq.com
         <br>telemetry-in.battlenet.com.cn
+        <br>tile-service.weather.microsoft.com
+        <br>tmfsdk4.m.qq.com
+        <br>tmfsdktcp.m.qq.com
         <br>tpns.tencent.com
         <br>tpstelemetry.tencent.com
         <br>tr.xiaoyuzhoufm.com
@@ -144,7 +203,11 @@ noindex: false
         <br>tracert.alipay.com
         <br>track-js.kefenxi.com
         <br>track.mm.taou.com
+        <br>tracking.epicgames.com
+        <br>ttxyajs.data.kuiniuca.com
         <br>tz.sec.xiaomi.com
+        <br>uczzd.cn
+        <br>update.miui.com
         <br>update.miui.com
         <br>update.wps.cn
         <br>uplog.qbox.me
@@ -160,5 +223,349 @@ noindex: false
         <br>wostore.cn
         <br>xfinfr.com
         <br>xlog.jd.com
+        <br>xycdn.com
+        <br>yximgs.com
+        <br>zeus.top
+        <br>
+        <br>屏蔽可疑公司网站<br>
+        <br>
+        <br>杭州兑吧网络科技有限公司
+        <br>
+        <br>51huaya.com
+        <br>7hodev.com
+        <br>7hotest.com
+        <br>duiba.cn
+        <br>duiba1.com.cn
+        <br>duiba99.com
+        <br>dui88.com
+        <br>duibagroup.net
+        <br>duibadev.com.cn
+        <br>duibadev.com
+        <br>dbhuodong.com
+        <br>duibagroup.cn
+        <br>dui8test.com
+        <br>duibatest.com.cn
+        <br>duiba.com.cn
+        <br>duibagroup.com
+        <br>d8z.co
+        <br>dui8pre.com
+        <br>duiyanglao.com
+        <br>dulba.com.cn
+        <br>dui8.top
+        <br>dullbus.com.cn
+        <br>jiyiyanglao.com
+        <br>myfunapp.com.cn
+        <br>maila88dev.com
+        <br>maila88.com
+        <br>maila88test.com
+        <br>tuiadev.cn
+        <br>tuia-pre.cn
+        <br>tuiatest.cn
+        <br>
+        <br>成都借宝科技有限公司
+        <br>
+        <br>jiebaotek.cn
+        <br>jiebaotek.com
+        <br>jiebaoltd.com
+        <br>rrxplatform.com
+        <br>rrxplatform.cn
+        <br>rrxplatform.net
+        <br>
+        <br>人人信（天津）科技有限公司
+        <br>
+        <br>51jifenka.com
+        <br>ayihaoping.cn
+        <br>ayihaoping.com
+        <br>fangzudai.com
+        <br>gaigechuo.com
+        <br>gentatou.com
+        <br>jiaaaaa.cn
+        <br>jiaaaaa.com
+        <br>jinjiedao.com
+        <br>jiaaaaa.com.cn
+        <br>mai-rui.com
+        <br>qingtatou.com
+        <br>renrenxin.com.cn
+        <br>renrenxin.com
+        <br>rrx007.com
+        <br>valuevalue.cn
+        <br>yaaa.xin
+        <br>zhidaidai.com
+        <br>zhidaidai.cn
+        <br>zhidaidai.com.cn
+        <br>
+        <br>北京企腾网络技术有限公司
+        <br>
+        <br>hlwguanggao.com
+        <br>lvxinkeji.cn
+        <br>qtwb2b.com
+        <br>
+        <br>天津企腾网络技术有限公司
+        <br>
+        <br>qiteng518.com
+        <br>qiteng518.top
+        <br>qiteng518.vip
+        <br>qiteng518.cn
+        <br>yunzhan518.vip
+        <br>yunzhan518.com
+        <br>yunzhan518.net
+        <br>yunzhan518.cn
+        <br>
+        <br>上海智优擎网络科技有限公司
+        <br>
+        <br>zhiyq.cn
+        <br>zuzn.cc
+        <br>
+        <br>北京优音通信有限公司
+        <br>
+        <br>buin400.com
+        <br>keep400.com
+        <br>telphone400.com
+        <br>trust400.com
+        <br>uincallcenter.com
+        <br>uinchat.com
+        <br>uin400.net
+        <br>uin400.cn
+        <br>uincall400.com
+        <br>uincall.net
+        <br>uincall.com
+        <br>uiny400.com
+        <br>uin400.com
+        <br>
+        <br>沃创云科技（深圳）有限公司
+        <br>
+        <br>gzzyad.com
+        <br>gzzyac.com
+        <br>gzzyab.com
+        <br>wajbing.com
+        <br>zqyj007.com
+        <br>
+        <br>四川淘金你我信息技术有限公司
+        <br>
+        <br>aisjbz.com
+        <br>itaojin.cn
+        <br>qxdsp.com
+        <br>taojinyunkf.com
+        <br>utaojin.cn
+        <br>
+        <br>杭州兑捷网络科技有限公司
+        <br>
+        <br>23nuk57tm5.cn
+        <br>duijie119.cn
+        <br>duijie117.cn
+        <br>duijie666.com
+        <br>duijie118.cn
+        <br>duijie121.cn
+        <br>duijie110.cn
+        <br>duijie112.cn
+        <br>duijie113.cn
+        <br>duijie115.cn
+        <br>q4vpo0pyqs.cn
+        <br>q4vpo0pyqs.cn
+        <br>szrjwl.cn
+        <br>szrgwl.cn
+        <br>szrnwl.cn
+        <br>szrkwl.cn
+        <br>szrfwl.cn
+        <br>upv8q9kykl.cn
+        <br>vkmbxphii7.cn
+        <br>
+        <br>杭州变现猫网络科技有限公司
+        <br>
+        <br>bhzck.club
+        <br>bhzck.top
+        <br>bhzck.xyz
+        <br>bxmurl.cn
+        <br>bixnmt.cn
+        <br>bxmurl.com
+        <br>cashcatads.com
+        <br>hzbxm.com
+        <br>inads.cn
+        <br>inads.com.cn
+        <br>jsfsf.cn
+        <br>mcedxad.cn
+        <br>mcedxa.cn
+        <br>osfsf.cn
+        <br>pangudsp.cn
+        <br>pangudsp.com
+        <br>pangudsp.net
+        <br>zbmwl.top
+        <br>zsfsf.cn
+        <br>zbmwl.club
+        <br>zbmwl.xyz
+        <br>
+        <br>杭州诺禾网络科技有限公司
+        <br>
+        <br>51t.com.cn
+        <br>abact.com.cn
+        <br>act88.cn
+        <br>abact.com.cn
+        <br>cloudseatop.com.cn
+        <br>hxhnla.com.cn
+        <br>hveikxg.cn
+        <br>jszbla.cn
+        <br>lejun.net
+        <br>landnuo.com.cn
+        <br>landst.cn
+        <br>landfa.cn
+        <br>land984.cn
+        <br>landfa.com.cn
+        <br>miaojie.net
+        <br>miaojie.net
+        <br>nuohe.com.cn
+        <br>nuoact.com.cn
+        <br>nuohe.com.cn
+        <br>nuolandact.cn
+        <br>nuoact.top
+        <br>nuost.com.cn
+        <br>suzcloud.com.cn
+        <br>xsscba.com.cn
+        <br>xiaocong.com.cn
+        <br>yinuohao.com.cn
+        <br>ydns.cn
+        <br>yinuohao.com.cn
+        <br>ydns.cn
+        <br>ydns.com.cn
+        <br>zidg.com
+        <br>
+        <br>联通在线信息科技有限公司
+        <br>
+        <br>114credit.cn
+        <br>114credit.com
+        <br>onlineinfotech.cn
+        <br>smartont.net
+        <br>stockes.cn
+        <br>vopmail.cn
+        <br>vpmail.cn
+        <br>wo-adv.cn
+        <br>wo186.tv
+        <br>wojiazongguan.cn
+        <br>wosms.cn
+        <br>
+        <br>中国联合网络通信集团有限公司
+        <br>
+        <br>10010.cn
+        <br>10010.net
+        <br>10010.com
+        <br>10010.com.cn
+        <br>cu5gaia.com
+        <br>chinaunicom.com
+        <br>cupb.cn
+        <br>chinaunicombidding.cn
+        <br>cu5gaia.cn
+        <br>chinaunicom.cn
+        <br>cuecp.cn
+        <br>chinaunicom.com.cn
+        <br>chinaunicom-a.com
+        <br>gnoc.com.cn
+        <br>unicom.net.cn
+        <br>wo.com.cn
+        <br>wo.cn
+        <br>
+        <br>天翼数字生活科技有限公司
+        <br>
+        <br>189cube.com
+        <br>189smarthome.com
+        <br>21cn.net
+        <br>21cnentmail.com
+        <br>21cnsales.com
+        <br>cnitv.net
+        <br>dlife.cn
+        <br>id6.me
+        <br>ott4china.com
+        <br>yueme.tv
+        <br>
+        <br>中国电信集团有限公司
+        <br>
+        <br>189.cn
+        <br>chinatelecom.net.cn
+        <br>chinatelecom.cn
+        <br>chinatelecom.org.cn
+        <br>chntel.com
+        <br>chinatelecom.com.cn
+        <br>vnet.cn
+        <br>
+        <br>每日互动股份有限公司
+        <br>
+        <br>12322app.com
+        <br>abeacon.com
+        <br>acloud.com
+        <br>applk.cn
+        <br>baywest.ac
+        <br>cooltui.com
+        <br>fangyi.cn
+        <br>getui.net
+        <br>getui.cn
+        <br>geseek.com
+        <br>gepush.com
+        <br>geatmap.com
+        <br>ge.cn
+        <br>huadan.in
+        <br>igetui.com
+        <br>igexin.com
+        <br>lmmindex.com
+        <br>pusure.com
+        <br>
+        <br>屏蔽PCDN 派欧云计算（上海）有限公司
+        <br>
+        <br>eeeam.com
+        <br>gncrr.live
+        <br>nexusedgeio.com
+        <br>pai-net.work
+        <br>paicosine.com
+        <br>paisine.com
+        <br>pocedsgslb.com
+        <br>ppgslb.cn
+        <br>ppgslb.com
+        <br>ppinfra.com
+        <br>ppio.cn
+        <br>ppio.work
+        <br>ppiocdn.cn
+        <br>ppiocdn.com
+        <br>ppiocloud.site
+        <br>ppos.com
+        <br>pyedsgslb.com
+        <br>pyrcms.com
+        <br>scwl.cn
+        <br>thefirstchain.com
+        <br>
+        <br>屏蔽PCDN 
+        <br>
+        <br>*p2p.*qq.com
+        <br>*pcdn*.biliapi.net
+        <br>*pcdn.*youku.com
+        <br>bsccdn.net
+        <br>dyp2p-ali.douyucdn.cn
+        <br>dyp2p-hw.douyucdn.cn
+        <br>gjfzpt.cn
+        <br>jomodns.cn
+        <br>kuiniuca.com
+        <br>mcdn.bilivideo.cn
+        <br>mcdn.bilivideo.com
+        <br>onethingpcs.com
+        <br>p2p-ali.douyucdn.cn
+        <br>p2p.huya.com
+        <br>p2p.qq.com
+        <br>p2pchunk-hw.douyucdn.cn
+        <br>p2pchunk-table.douyucdn.cn
+        <br>p2pchunk-ws.douyucdn.cn
+        <br>p2perrorlog.douyucdn.cn
+        <br>p2plive-ali.douyucdn.cn
+        <br>p2plive-ws.douyucdn.cn
+        <br>p2plog.douyucdn.cn
+        <br>p2ptun.qq.com
+        <br>p2pupdate.gamedl.qq.com
+        <br>p2pupgrade.gamedl.qq.com
+        <br>p2pvod-ws.douyucdn.cn
+        <br>pcdn.xmcdn.com
+        <br>pcdn.yximgs.com
+        <br>pkoplink.com
+        <br>saxysec.com
+        <br>stun.douyucdn.cn
+        <br>stun.hitv.com
+        <br>stun1.douyucdn.cn
+        <br>szbdyd.com
+        <br>tpa-hcdn.iqiyi.com
+        <br>uhabo.com
         <br>xycdn.com
 </article>
