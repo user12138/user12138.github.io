@@ -1,4 +1,7 @@
-!!自用过滤屏蔽域名
+!!
+!! ## 自用过滤屏蔽域名 ##
+!! ## 最后更新时间 2025.03.16 ##
+!!
 !!||io.mi.com^$important
 !!||iot.mi.com^$important
 ||10046.mi.com^$important

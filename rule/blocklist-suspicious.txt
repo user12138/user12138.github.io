@@ -1,0 +1,234 @@
+!!
+!! ## 屏蔽可疑公司网站 ##
+!! ## 最后更新时间 2025.03.16 ##
+!!
+!! ## 
+!! ## 杭州兑吧网络科技有限公司
+!! ## 
+||51huaya.com^$important
+||7hodev.com^$important
+||7hotest.com^$important
+||duiba.cn^$important
+||duiba1.com.cn^$important
+||duiba99.com^$important
+||dui88.com^$important
+||duibagroup.net^$important
+||duibadev.com.cn^$important
+||duibadev.com^$important
+||dbhuodong.com^$important
+||duibagroup.cn^$important
+||dui8test.com^$important
+||duibatest.com.cn^$important
+||duiba.com.cn^$important
+||duibagroup.com^$important
+||d8z.co^$important
+||dui8pre.com^$important
+||duiyanglao.com^$important
+||dulba.com.cn^$important
+||dui8.top^$important
+||dullbus.com.cn^$important
+||jiyiyanglao.com^$important
+||myfunapp.com.cn^$important
+||maila88dev.com^$important
+||maila88.com^$important
+||maila88test.com^$important
+||tuiadev.cn^$important
+||tuia-pre.cn^$important
+||tuiatest.cn^$important
+!! ## 
+!! ## 成都借宝科技有限公司
+!! ## 
+||jiebaotek.cn^$important
+||jiebaotek.com^$important
+||jiebaoltd.com^$important
+||rrxplatform.com^$important
+||rrxplatform.cn^$important
+||rrxplatform.net^$important
+!! ## 
+!! ## 人人信（天津）科技有限公司
+!! ## 
+||51jifenka.com^$important
+||ayihaoping.cn^$important
+||ayihaoping.com^$important
+||fangzudai.com^$important
+||gaigechuo.com^$important
+||gentatou.com^$important
+||jiaaaaa.cn^$important
+||jiaaaaa.com^$important
+||jinjiedao.com^$important
+||jiaaaaa.com.cn^$important
+||mai-rui.com^$important
+||qingtatou.com^$important
+||renrenxin.com.cn^$important
+||renrenxin.com^$important
+||rrx007.com^$important
+||valuevalue.cn^$important
+||yaaa.xin^$important
+||zhidaidai.com^$important
+||zhidaidai.cn^$important
+||zhidaidai.com.cn^$important
+!! ## 
+!! ## 北京企腾网络技术有限公司
+!! ## 
+||hlwguanggao.com^$important
+||lvxinkeji.cn^$important
+||qtwb2b.com^$important
+!! ## 
+!! ## 天津企腾网络技术有限公司
+!! ## 
+||qiteng518.com^$important
+||qiteng518.top^$important
+||qiteng518.vip^$important
+||qiteng518.cn^$important
+||yunzhan518.vip^$important
+||yunzhan518.com^$important
+||yunzhan518.net^$important
+||yunzhan518.cn^$important
+!! ## 
+!! ## 上海智优擎网络科技有限公司
+!! ## 
+||zhiyq.cn^$important
+||zuzn.cc^$important
+!! ## 
+!! ## 北京优音通信有限公司
+!! ## 
+||buin400.com^$important
+||keep400.com^$important
+||telphone400.com^$important
+||trust400.com^$important
+||uincallcenter.com^$important
+||uinchat.com^$important
+||uin400.net^$important
+||uin400.cn^$important
+||uincall400.com^$important
+||uincall.net^$important
+||uincall.com^$important
+||uiny400.com^$important
+||uin400.com^$important
+!! ## 
+!! ## 沃创云科技（深圳）有限公司
+!! ## 
+||gzzyad.com^$important
+||gzzyac.com^$important
+||gzzyab.com^$important
+||wajbing.com^$important
+||zqyj007.com^$important
+!! ## 
+!! ## 四川淘金你我信息技术有限公司
+!! ## 
+||aisjbz.com^$important
+||itaojin.cn^$important
+||qxdsp.com^$important
+||taojinyunkf.com^$important
+||utaojin.cn^$important
+!! ## 
+!! ## 杭州兑捷网络科技有限公司
+!! ## 
+||23nuk57tm5.cn^$important
+||duijie119.cn^$important
+||duijie117.cn^$important
+||duijie666.com^$important
+||duijie118.cn^$important
+||duijie121.cn^$important
+||duijie110.cn^$important
+||duijie112.cn^$important
+||duijie113.cn^$important
+||duijie115.cn^$important
+||q4vpo0pyqs.cn^$important
+||q4vpo0pyqs.cn^$important
+||szrjwl.cn^$important
+||szrgwl.cn^$important
+||szrnwl.cn^$important
+||szrkwl.cn^$important
+||szrfwl.cn^$important
+||upv8q9kykl.cn^$important
+||vkmbxphii7.cn^$important
+!! ## 
+!! ## 杭州变现猫网络科技有限公司
+!! ## 
+||bhzck.club^$important
+||bhzck.top^$important
+||bhzck.xyz^$important
+||bxmurl.cn^$important
+||bixnmt.cn^$important
+||bxmurl.com^$important
+||cashcatads.com^$important
+||hzbxm.com^$important
+||inads.cn^$important
+||inads.com.cn^$important
+||jsfsf.cn^$important
+||mcedxad.cn^$important
+||mcedxa.cn^$important
+||osfsf.cn^$important
+||pangudsp.cn^$important
+||pangudsp.com^$important
+||pangudsp.net^$important
+||zbmwl.top^$important
+||zsfsf.cn^$important
+||zbmwl.club^$important
+||zbmwl.xyz^$important
+!! ## 
+!! ## 杭州诺禾网络科技有限公司
+!! ## 
+||51t.com.cn^$important
+||abact.com.cn^$important
+||act88.cn^$important
+||abact.com.cn^$important
+||cloudseatop.com.cn^$important
+||hxhnla.com.cn^$important
+||hveikxg.cn^$important
+||jszbla.cn^$important
+||lejun.net^$important
+||landnuo.com.cn^$important
+||landst.cn^$important
+||landfa.cn^$important
+||land984.cn^$important
+||landfa.com.cn^$important
+||miaojie.net^$important
+||miaojie.net^$important
+||nuohe.com.cn^$important
+||nuoact.com.cn^$important
+||nuohe.com.cn^$important
+||nuolandact.cn^$important
+||nuoact.top^$important
+||nuost.com.cn^$important
+||suzcloud.com.cn^$important
+||xsscba.com.cn^$important
+||xiaocong.com.cn^$important
+||yinuohao.com.cn^$important
+||ydns.cn^$important
+||yinuohao.com.cn^$important
+||ydns.cn^$important
+||ydns.com.cn^$important
+||zidg.com^$important
+!! ## 
+!! ## 中国联合网络通信集团有限公司
+!! ## 
+||10010.cn^$important
+||10010.net^$important
+||113.200.56.63^$important
+||10010.com^$important
+||10010.com.cn^$important
+||cu5gaia.com^$important
+||chinaunicom.com^$important
+||cupb.cn^$important
+||chinaunicombidding.cn^$important
+||cu5gaia.cn^$important
+||chinaunicom.cn^$important
+||cuecp.cn^$important
+||chinaunicom.com.cn^$important
+||chinaunicom-a.com^$important
+||gnoc.com.cn^$important
+||unicom.net.cn^$important
+||wo.com.cn^$important
+||wo.cn^$important
+!! ## 
+!! ## 中国电信集团有限公司
+!! ## 
+||189.cn^$important
+||chinatelecom.net.cn^$important
+||chinatelecom.cn^$important
+||chinatelecom.org.cn^$important
+||chntel.com^$important
+||chinatelecom.com.cn^$important
+||vnet.cn^$important
