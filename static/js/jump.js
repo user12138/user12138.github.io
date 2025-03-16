@@ -64,6 +64,7 @@ if (currentScript && currentScript.hasAttribute('config') && currentScript.hasAt
     const replaceElement = currentScript.getAttribute('element');
 
     if (isNaN(timeoutMs)) {
+        timeoutMs=0;
         return;
     }
 
