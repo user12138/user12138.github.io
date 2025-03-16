@@ -2,18 +2,4 @@
     <center>
         <span id="page-meta"></span>
     </center>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            const url = 'https://api.ypingcn.com/worker/ip-geo/v1?appId=Dzgw7dPki&from=' + btoa(window.location.href)
-            fetch(url)
-                .then(response => response.json())
-                .then(data => {
-                    const metaSpan = document.getElementById('page-meta');
-                    metaSpan.innerHTML = `${data.requestId}##${data.ip}##${data.ua}`;
-                })
-                .catch(error => {
-                    console.error('error fetching ip-geo info', error);
-                });
-        });
-    </script>
 </footer>

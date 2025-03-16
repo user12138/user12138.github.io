@@ -1,17 +1,19 @@
+<script type="text/javascript" src="/static/js/meta.js" appId="nav-Dzgw7dPki"></script>
+
 <script>
     var searchEngineData = new Map(
         [
-            ["bing", {url: "https://www.bing.com/search?form=MOZLBR&pc=MOZR&q=", name: "必应搜索"}],
-            ["google", {url: "https://www.google.com/search?client=firefox-b-d&q=", name: "Google搜索"}],
-            ["baidu", {url: "https://www.baidu.com/baidu?tn=monline_7_dg&ie=utf-8&wd=", name: "百度搜索"}],
-            ["iplark", {url: "https://iplark.com/", name: "IP搜索"}],
-            ["brave", {url: "https://search.brave.com/search?source=web&q=", name: "Brave"}],
-            ["ecosia", {url: "https://www.ecosia.org/search?method=index&q=", name: "Ecosia"}],
-            ["sogou", {url: "https://www.sogou.com/web?query=", name: "搜狗搜索"}],
-            ["ddg", {url: "https://duckduckgo.com/?t=ftsa&q=", name: "DuckDuckGo"}],
-            ["qwant", {url: "https://www.qwant.com/?q=", name: "QWant"}],
+            ["bing", { url: "https://www.bing.com/search?form=MOZLBR&pc=MOZR&q=", name: "必应搜索" }],
+            ["google", { url: "https://www.google.com/search?client=firefox-b-d&q=", name: "Google搜索" }],
+            ["baidu", { url: "https://www.baidu.com/baidu?tn=monline_7_dg&ie=utf-8&wd=", name: "百度搜索" }],
+            ["iplark", { url: "https://iplark.com/", name: "IP搜索" }],
+            ["brave", { url: "https://search.brave.com/search?source=web&q=", name: "Brave" }],
+            ["ecosia", { url: "https://www.ecosia.org/search?method=index&q=", name: "Ecosia" }],
+            ["sogou", { url: "https://www.sogou.com/web?query=", name: "搜狗搜索" }],
+            ["ddg", { url: "https://duckduckgo.com/?t=ftsa&q=", name: "DuckDuckGo" }],
+            ["qwant", { url: "https://www.qwant.com/?q=", name: "QWant" }]
         ]
-    )
+    );
 
     function initSearchEngine() {
         var selectElement = document.getElementById('search-engine');
@@ -28,18 +30,17 @@
     function toSearchPage() {
         var searchEngine = document.getElementById("search-engine").value;
         var searchContent = document.getElementById("search-content").value;
-        if (searchContent == "") {
-            console.log("no search content... ")
+        if (searchContent === "") {
+            console.log("no search content... ");
             return;
         }
-        var searchEnginePrefix = searchEngineData.get(searchEngine);
-        if (searchEnginePrefix == "") {
-            // searchEnginePrefix = searchEngineData.get("baidu");
-            console.log("invaild search engine... ")
+        var searchEngineInfo = searchEngineData.get(searchEngine);
+        if (!searchEngineInfo) {
+            console.log("invalid search engine... ");
             return;
         }
-        var searchEngineUrl = searchEnginePrefix + searchContent;
-        console.log("visiting... ", searchEngineUrl)
+        var searchEngineUrl = searchEngineInfo.url + encodeURIComponent(searchContent);
+        console.log("visiting... ", searchEngineUrl);
         window.open(searchEngineUrl, '_blank');
     }
 </script>
