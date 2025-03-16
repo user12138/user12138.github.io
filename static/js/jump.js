@@ -34,7 +34,6 @@ function goUrl(config, timeoutMs, replaceElement) {
             const queries = parseQueryString(location.search.substring(1));
             const key = queries['r'];
             const url = routes[key] || routes['def'] || '/error.html';
-            console.log(`${key} redirecting to ${url}`);
             if (replaceElement) {
                 const element = document.getElementById(replaceElement);
                 if (element) {
@@ -47,6 +46,7 @@ function goUrl(config, timeoutMs, replaceElement) {
                     timeoutMs = tValue;
                 }
             }
+            console.log(`${key} redirecting to ${url} with timeout ${timeoutMs}ms`);
             setTimeout(() => {
                 window.location.href = url;
             }, timeoutMs);
@@ -68,6 +68,5 @@ if (document.currentScript &&
     if (isNaN(timeoutMs)) {
         timeoutMs=0;
     }
-
     goUrl(config, timeoutMs, replaceElement);
 }
