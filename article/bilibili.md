@@ -1,19 +1,19 @@
 ---
 layout: article-default
-title: "哔哩哔哩UP主合集 v2024.07.13 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
+title: "哔哩哔哩UP主合集 v2025.03.31 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
 noindex: false
 ---
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2024 年 07 月 13 日
+        最后更新时间：2025 年 03 月 31 日
     <h3>UP主空间首页</h3>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/1280537847/video">onIyU-IU李知恩</a>
     <br>【财经】<br>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/10942353/video">路财主</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/1408106571/video">柏年说</a>
-    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/19201320/video">进击的沈帅波</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/1447361032/video">船长说金融</a>
+    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/19201320/video">进击的沈帅波</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/21262795/video">钞能力毛毛</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/23326926/video">柳行长</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/3546638236781247/video">小Lin竖着说</a>
@@ -36,24 +36,25 @@ noindex: false
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/3493108557809994/video">空山猎人</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/351196172/video">猫行长</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/367877/video">笔吧评测室</a>
+    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/385032908/video">李没梗</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/38598226/video">医学科普联盟</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/407054668/video">亿点点不一样</a>
-    <!-- <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/4324529/video">夏冰雹频道</a> -->
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/471303350/video">大狸子切切里</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/477278/video">木羽说科技</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/486287787/video">IC实验室</a>        
-    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/495224316/video">一只萧包子</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/490494088/video">动动枪DongDongGun</a>
+    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/495224316/video">一只萧包子</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/508959410/video">硬核奇点</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/510856133/video">吟游诗人基德</a>
-    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/517937049/video">师兄李一</a>
-    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/598464467/video">苏星河牛通</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/516314798/video">小西设计所</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/51705359/video">亚军频道</a>
+    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/517937049/video">师兄李一</a>
+    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/598464467/video">苏星河牛通</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/90183256/video">36氪</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/94510621/video">梗指南</a>
-    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/385032908/video">李没梗</a>
     <br>【美食】<br>
+    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/179258807/video">盗月社研究所</a>
+    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/18202105/video">绵羊料理</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/1937178992/video">叫我阿准</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/207346018/video">肉肉大搜索</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/29329085/video">二喵的饭</a>
@@ -69,8 +70,6 @@ noindex: false
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/483818625/video">吃货圆圈圈</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/5771902/video">波靖仔</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/99157282/video">盗月社食遇记</a>
-    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/179258807/video">盗月社研究所</a>
-    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/18202105/video">绵羊料理</a>
     <br>【生活】<br>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/1201431179/video">甜一口没</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/12295034/video">偏偏吃饱了</a>
@@ -80,7 +79,6 @@ noindex: false
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/182481858/video">唐尼是个der</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/1966242263/video">可爱的木木吖</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/26139491/video">假美食po主</a>
-    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/410904791/video">浪浪小小号</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/26439953/video">鹿斯白</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/273139194/video">S呐_</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/275016013/video">踢踢小鱼</a>
@@ -93,6 +91,7 @@ noindex: false
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/395936853/video">了不起的八万二饼</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/39915398/video">MrYang杨家成</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/40178995/video">瓜皮猪大王</a>
+    <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/410904791/video">浪浪小小号</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/470962000/video">落九川</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/471367616/video">柠檬檬檬儿vlog</a>
     <a target="_blank" rel="noopener nofollow noreferrer" href="https://space.bilibili.com/472556049/video">新西方校长</a>
