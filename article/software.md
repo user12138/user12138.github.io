@@ -12,23 +12,23 @@ noindex: false
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://www.fluentsearch.net/">Fluent Search</a>
         <sup>
-            Fluent Design设计风格、贴近 Windows 原生效果的设计的第三方启动器
+            [Fluent Design设计风格、贴近 Windows 原生效果的设计的第三方启动器]
         </sup>
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://www.listary.com/">Listary</a>
         <sup>
-            一款革命性的 Windows 搜索工具
+            [一款革命性的 Windows 搜索工具]
         </sup>
     <br><a target="_blank" rel="noopener nofollow" href="https://cryptomator.org/downloads/">Cryptormator</a>
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://zh.snipaste.com/">Snipaste截图</a>
         <sup>
-            老牌简单强大的截图工具，2023年12月30日发布 v2.8.8-Beta2 版本公测支持 Linux 系统，2023年09月20日发布 v2.8.6-Beta 版本公测支持 MacOS 系统。
+            [老牌简单强大的截图工具，2023年12月30日发布 v2.8.8-Beta2 版本公测支持 Linux 系统，2023年09月20日发布 v2.8.6-Beta 版本公测支持 MacOS 系统。]
         </sup>
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://pixpinapp.com/">PixPin截图</a>
         <sup>
-            具备截图、贴图、长截图、OCR文字识别、标注等功能，开发者积极维护更新中
+            [具备截图、贴图、长截图、OCR文字识别、标注等功能，开发者积极维护更新中]
         </sup>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.mintimate.cc/zh/">oh-my-rime 输入法 | 薄荷输入法</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jianguoyun.com/">坚果云网盘</a>
@@ -48,12 +48,12 @@ noindex: false
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://bitwarden.com/">Bitwarden</a>
         <sup>
-            一款开源免费的密码管理器，还支持自建服务器
+            [一款开源免费的密码管理器，还支持自建服务器]
         </sup>
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://github.com/microsoft/PowerToys/releases">PowerToys</a>
         <sup>
-            微软最强工具集，官方“外挂”，让 Windows 系统更好用
+            [微软最强工具集，官方“外挂”，让 Windows 系统更好用]
         </sup>
     <br><a target="_blank" rel="noopener nofollow" href="https://getquicker.net/">Quicker</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://spaceeye.app/">Space Eye</a>
@@ -87,7 +87,7 @@ noindex: false
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://www.bandisoft.com/bandizip/">BindZip</a> #压缩软件
         <sup>
-            <a target="_blank" rel="noopener nofollow" href="https://www.bandisoft.com/bandizip/old/6/">无广告版本 Bandizip 6.xx</a>
+            <a target="_blank" rel="noopener nofollow" href="https://www.bandisoft.com/bandizip/old/6/">[无广告版本 Bandizip 6.xx]</a>
         </sup>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jam-software.com/treesize_free">TreeSizeFree</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.adspower.net/">AdsPower指纹浏览器</a>

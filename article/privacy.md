@@ -65,7 +65,7 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://coveryourtracks.eff.org/">Cover Your Tracks</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://fingerprint.com/demo/">Fingerprint Demo</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://amiunique.org/">Am I unique?</a>
-    <br><a target="_blank" rel="noopener nofollow" href="https://www.nothingprivate.ml/">Are you anonymous?</a>
+    <!-- <br><a target="_blank" rel="noopener nofollow" href="https://www.nothingprivate.ml/">Are you anonymous?</a> -->
     <br>【DNS】<br>
     <a target="_blank" rel="noopener nofollow" href="https://nextdns.io/?from=qyq6n8p5">NextDNS</a>
     <a target="_blank" rel="noopener nofollow" href="https://adguard-dns.io/">AdGuardDNS</a>
