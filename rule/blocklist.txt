@@ -1,4 +1,4 @@
-!! ## 最后更新时间 2025.03.16 ##
+!! ## 最后更新时间 2025.04.20 ##
 !! ## 自用过滤屏蔽域名 ##
 !!@@bytedance.com^$important
 !!@@mcdn.bilivideo.cn^$important
@@ -10,14 +10,16 @@
 !!||iot.mi.com^$important
 @@||2345.cn^$important
 @@||2345.com^$important
-||10046.mi.com^$important
+@@||cdn.staticfile.org^$important
 ||8zhuayu.cc^$important
+||10046.mi.com^$important
 ||a0.app.xiaomi.com^$important
 ||ab.qq.com^$important
 ||ad-sdk.huxiu.com^$important
 ||ad.mh.163.com^$important
 ||ad.us.sinaimg.cn^$important
 ||adash-emas.cn-hangzhou.aliyuncs.com^$important
+||ads.mozilla.org^$important
 ||adserver.yidianzixun.com^$important
 ||adsmind.gdtimg.com^$important
 ||adstrategy.biz.weibo.com^$important
@@ -49,8 +51,10 @@
 ||biligame.com^$important
 ||biz.weibo.com^$important
 ||browser.miui.com^$important
+||bytefcdnrd.com^$important
 ||card.e.189.cn^$important
 ||cdn.exp.xiaomi.com^$important
+||cdp.vivox.com^$important
 ||centertime.ksyun.com^$important
 ||checkappexec.microsoft.com^$important
 ||cloudcontrol.xiaomixiaoai.com^$important
@@ -58,6 +62,7 @@
 ||cmpassport.com^$important
 ||cn.app.chat.xiaomi.net^$important
 ||collect.bz.mgtv.com^$important
+||config-p2p-other.vcloud.ks-live.com^$important
 ||connect.rom.miui.com^$important
 ||content-autofill.googleapis.com^$important
 ||content-understand-strategy.sm.cn^$important
@@ -84,10 +89,13 @@
 ||example.com^$important
 ||experiment.xiaomi.com^$important
 ||feelgood.cn^$important
+||fems.huya.com^$important
 ||firebaseinstallations.googleapis.com^$important
 ||firevent.jd.com^$important
 ||flash.sec.miui.com^$important
 ||flowcontroll.dcdn.sandai.net^$important
+||flysleep.cn^$important
+||fs.microsoft.com^$important
 ||fxltsbl.com^$important
 ||getui.com^$important
 ||graph.facebook.com^$important
@@ -104,10 +112,12 @@
 ||huoyanio.com^$important
 ||hyperos.developer.xiaomi.com^$important
 ||id6.me^$important
+||ietheivaicai.com^$important
 ||iflysec.com^$important
 ||ifread.com^$important
 ||in.appcenter.ms^$important
 ||infoc2.duba.net^$important
+||ip.sb^$important
 ||janapi.jd.com^$important
 ||jiaoliuqu.com^$important
 ||jr.mi.com^$important
@@ -160,19 +170,22 @@
 ||optimizationguide-pa.googleapis.com^$important
 ||p2cdn.com^$important
 ||pandora.xiaomi.com^$important
+||pangolin-sdk-toutiao1.com^$important
 ||pangolin-sdk-toutiao-b.com^$important
 ||pangolin-sdk-toutiao.com^$important
-||pangolin-sdk-toutiao1.com^$important
 ||pinduoduo.com^$important
 ||ping.cloud.tencent.com^$important
 ||port.sec.miui.com^$important
+||portal101.cn^$important
 ||push-rest.zui.com^$important
 ||q-app.market.xiaomi.com^$important
 ||q-nileapi.market.xiaomi.com^$important
+||ql.njmapp.com^$important
 ||qsb.browser.miui.srv^$important
 ||remoteprovisioning.googleapis.com^$important
 ||rmonitor.qq.com^$important
 ||safebrowsing.googleapis.com^$important
+||scc.bytedance.com^$important
 ||sdk.51.la^$important
 ||sdkconfig.xiaomi.com^$important
 ||sensors-focus.yingmi.com^$important
@@ -193,6 +206,7 @@
 ||t2.a.market.xiaomi.com^$important
 ||tbsrecovery.imtt.qq.com^$important
 ||telemetry-in.battlenet.com.cn^$important
+||thclouds.com^$important
 ||tile-service.weather.microsoft.com^$important
 ||tmfsdk4.m.qq.com^$important
 ||tmfsdktcp.m.qq.com^$important
@@ -226,3 +240,4 @@
 ||xycdn.com^$important
 ||yximgs.com^$important
 ||zeus.top^$important
+||zztfly.com^$important
