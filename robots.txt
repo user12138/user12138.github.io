@@ -1,6 +1,11 @@
 User-agent: *
-Disallow: /go/
 Disallow: /assets/
+Disallow: /cgi-bin/
+Disallow: /go/
+Disallow: /rule/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
 
 User-agent: ia_archiver
 Disallow: /
