@@ -97,6 +97,7 @@
 ||flysleep.cn^$important
 ||fs.microsoft.com^$important
 ||fxltsbl.com^$important
+||galileotelemetry.tencent.com^$important
 ||getui.com^$important
 ||graph.facebook.com^$important
 ||grs.dbankcloud.com^$important

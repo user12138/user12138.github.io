@@ -10,7 +10,6 @@ noindex: false
     <h3>软件列表</h3>
     网络安全工具合集
     <br><a target="_blank" rel="noopener nofollow" href="https://www.kaspersky.com.cn/free-antivirus">卡巴斯基杀毒</a>
-    <!-- <br><a target="_blank" rel="noopener nofollow" href="https://www.huorong.cn/">火绒安全</a> -->
     <br><a target="_blank" rel="noopener nofollow" href="https://www.netify.ai/resources/applications">应用排名</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.netify.ai/resources/platforms">云平台排名</a>
     <br>【密码生成器】<br>
@@ -68,7 +67,6 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://privacytests.org/">浏览器保护功能对比</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.browserscan.net/zh/">BrowserScan</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.ghxi.com/llq">果核浏览器检测</a>
-    <!-- <a target="_blank" rel="noopener nofollow" href="https://www.nothingprivate.ml/">[Are you anonymous?]</a> -->
     <br>【DNS】<br>
     <a target="_blank" rel="noopener nofollow" href="https://adguard-dns.io/">AdGuardDNS</a>
     <a target="_blank" rel="noopener nofollow" href="https://console.dnspod.cn/publicdns/config">Dnspod公共DNS</a>
