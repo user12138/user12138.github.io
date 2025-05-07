@@ -5,8 +5,8 @@ var searchEngineData = new Map(
         ["bing", { url: "https://www.bing.com/search?form=MOZLBR&pc=MOZR&q=", name: "必应搜索" }],
         ["google", { url: "https://www.google.com/search?client=firefox-b-d&q=", name: "Google搜索" }],
         ["baidu", { url: "https://www.baidu.com/baidu?tn=monline_7_dg&ie=utf-8&wd=", name: "百度搜索" }],
-        ["iplark", { url: "https://iplark.com/", name: "IP搜索(iplark)" }],
-        ["ping0", { url: "https://ip.ping0.cc/ip/", name: "IP搜索(ping0)" }],
+        ["iplark", { url: "https://iplark.com/", name: "IP搜索[iplark]" }],
+        ["ping0", { url: "https://ip.ping0.cc/ip/", name: "IP搜索[ping0]" }],
         ["brave", { url: "https://search.brave.com/search?source=web&q=", name: "Brave" }],
         ["ecosia", { url: "https://www.ecosia.org/search?method=index&q=", name: "Ecosia" }],
         ["sogou", { url: "https://www.sogou.com/web?query=", name: "搜狗搜索" }],
@@ -29,7 +29,7 @@ window.onload = initSearchEngine;
 
 function toSearchPage() {
     var searchEngine = document.getElementById("search-engine").value;
-    var searchContent = document.getElementById("search-content").value;
+    var searchContent = document.getElementById("search-content").value.trim();
     if (searchContent === "") {
         console.log("no search content... ");
         return;
