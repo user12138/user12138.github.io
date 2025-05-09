@@ -63,6 +63,7 @@
 ||cn.app.chat.xiaomi.net^$important
 ||collect.bz.mgtv.com^$important
 ||config-p2p-other.vcloud.ks-live.com^$important
+||config.edge.skype.com^$important
 ||connect.rom.miui.com^$important
 ||content-autofill.googleapis.com^$important
 ||content-understand-strategy.sm.cn^$important
@@ -95,6 +96,7 @@
 ||flash.sec.miui.com^$important
 ||flowcontroll.dcdn.sandai.net^$important
 ||flysleep.cn^$important
+||fp-it.portal101.cn^$important
 ||fs.microsoft.com^$important
 ||fxltsbl.com^$important
 ||galileotelemetry.tencent.com^$important
@@ -201,6 +203,7 @@
 ||slb-p2p.vcloud.ks-live.com^$important
 ||smartscreen.microsoft.com^$important
 ||snowflake.qq.com^$important
+||softwareupdate.vmware.com^$important
 ||splash.unity.cn^$important、
 ||sysdk.cl2009.com^$important
 ||szbdyd.com^$important
@@ -231,7 +234,6 @@
 ||voicecloud.cn^$important
 ||volceapplog.com^$important
 ||wanproxy-hz.127.net^$important
-||weatherapi.market.xiaomi.com^$important
 ||whoami.adguard-vpn.online^$important
 ||whoami.akamai.net^$important
 ||wlog.gifshow.com^$important
@@ -240,5 +242,6 @@
 ||xlog.jd.com^$important
 ||xycdn.com^$important
 ||yximgs.com^$important
+||zconfig.alibabausercontent.com^$important
 ||zeus.top^$important
 ||zztfly.com^$important

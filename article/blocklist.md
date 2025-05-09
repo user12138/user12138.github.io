@@ -216,7 +216,6 @@ noindex: false
         <br>voicecloud.cn
         <br>volceapplog.com
         <br>wanproxy-hz.127.net
-        <br>weatherapi.market.xiaomi.com
         <br>whoami.adguard-vpn.online
         <br>whoami.akamai.net
         <br>wlog.gifshow.com
