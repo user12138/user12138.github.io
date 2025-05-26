@@ -1,4 +1,4 @@
-!! ## 最后更新时间 2025.04.20 ##
+!! ## 最后更新时间 2025.05.26 ##
 !! ## 自用过滤屏蔽域名 ##
 !!@@bytedance.com^$important
 !!@@mcdn.bilivideo.cn^$important
@@ -205,6 +205,7 @@
 ||snowflake.qq.com^$important
 ||softwareupdate.vmware.com^$important
 ||splash.unity.cn^$important、
+||stats.snipaste.com^$important
 ||sysdk.cl2009.com^$important
 ||szbdyd.com^$important
 ||t2.a.market.xiaomi.com^$important
