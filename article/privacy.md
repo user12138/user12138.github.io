@@ -49,6 +49,7 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://www.privacytools.io/windows/">Windows隐私工具</a>
     <br>【IP信息】<br>
     <a target="_blank" rel="noopener nofollow" href="https://ip.ping0.cc/">PING0</a>
+    <a target="_blank" rel="noopener nofollow" href="https://ip.skk.moe/">ip.skk.moe</a>
     <a target="_blank" rel="noopener nofollow" href="https://ipcelou.com/">IP测漏</a>
     <a target="_blank" rel="noopener nofollow" href="https://ipcheck.ing/#/">IPCheck.ing</a>
     <a target="_blank" rel="noopener nofollow" href="https://ipdb.me/">ipdb.me</a>
