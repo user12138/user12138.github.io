@@ -58,7 +58,7 @@ function metaFetch(appId) {
                     metaSpan.appendChild(document.createTextNode(response.asOrganization));
                     if (lastVisitIp != response.ip) {
                         metaSpan.appendChild(document.createTextNode('|'));
-                        metaSpan.appendChild(metaCreateLink("lastVisit", `https://ping0.cc/ip/${lastVisitIp}`));
+                        metaSpan.appendChild(metaCreateLink(lastVisitIp, `https://ping0.cc/ip/${lastVisitIp}`));
                     }
                 }
             })
