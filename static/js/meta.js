@@ -14,7 +14,15 @@ function metaFetch(appId) {
                 return String.fromCharCode('0x' + p1);
             }));
         }
-        const url = `https://api.ypingcn.com/worker/ip-geo/v1?appId=${appId}&from=` + btoaSafe(window.location.href);
+        let metaKey = `meta_info_${appId}`;
+        let metaLocalInfo = [];
+        try {
+            metaLocalInfo = JSON.parse(localStorage.getItem(metaKey)) || [];
+        } catch (e) {
+            console.error('get meta_info failed... ', e);
+        }
+        const lastVisitIp = metaLocalInfo.length > 0 ? metaLocalInfo[0].ip : null;
+        const url = `https://api.ypingcn.com/worker/ip-geo/v1?appId=${appId}&from=` + btoaSafe(window.location.href) + `&lastVisit=` + lastVisitIp;
         fetch(url)
             .then(response => {
                 if (!response.ok) {
@@ -22,19 +30,38 @@ function metaFetch(appId) {
                 }
                 return response.json();
             })
-            .then(data => {
+            .then(response => {
+                if (lastVisitIp != response.ip) {
+                    const metaRecord = {
+                        ip: ip,
+                        requestId: response.requestId,
+                        timestamp: Date.now(),
+                    };
+                    try {
+                        const updatedIps = [metaRecord, ...metaLocalInfo].slice(0, 10);
+                        localStorage.setItem(metaKey, JSON.stringify(updatedIps));
+
+                    } catch (e) {
+                        console.error('save visit info failed... ', e);
+                    }
+                }
+
                 const metaSpan = document.getElementById('page-meta');
                 if (metaSpan) {
-                    metaSpan.textContent = `${data.requestId}##${data.ip}##${data.ua}`;
-                    metaSpan.appendChild(document.createTextNode(data.requestId));
+                    // metaSpan.textContent = `${response.requestId}##${response.ip}##${response.ua}`;
+                    metaSpan.innerHTML = '';
+                    metaSpan.appendChild(document.createTextNode(response.requestId));
                     metaSpan.appendChild(document.createTextNode('|'));
-                    metaSpan.appendChild(createLink(ip, `https://ping0.cc/ip/${data.ip}`));
+                    metaSpan.appendChild(createLink(response.ip, `https://ping0.cc/ip/${response.ip}`));
                     metaSpan.appendChild(document.createTextNode('|'));
-                    metaSpan.appendChild(document.createTextNode(data.ua));
+                    metaSpan.appendChild(document.createTextNode(response.ua));
+                    if (lastVisitIp != response.ip) {
+                        metaSpan.appendChild(createLink(lastVisitIp, `https://ping0.cc/ip/${lastVisitIp}`));
+                    }
                 }
             })
             .catch(error => {
-                console.error('error fetching page meta info', error);
+                console.error('rendering page meta info failed... ', error);
             });
     });
 }
