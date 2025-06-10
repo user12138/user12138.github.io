@@ -51,14 +51,14 @@ function metaFetch(appId) {
                     metaSpan.innerHTML = '';
                     metaSpan.appendChild(document.createTextNode(response.requestId));
                     metaSpan.appendChild(document.createTextNode('|'));
-                    metaSpan.appendChild(createLink(response.ip, `https://ping0.cc/ip/${response.ip}`));
+                    metaSpan.appendChild(metaCreateLink(response.ip, `https://ping0.cc/ip/${response.ip}`));
                     metaSpan.appendChild(document.createTextNode('|'));
                     metaSpan.appendChild(document.createTextNode(response.ua));
                     metaSpan.appendChild(document.createTextNode('|'));
                     metaSpan.appendChild(document.createTextNode(response.asOrganization));
                     if (lastVisitIp != response.ip) {
                         metaSpan.appendChild(document.createTextNode('|'));
-                        metaSpan.appendChild(createLink("lastVisit", `https://ping0.cc/ip/${lastVisitIp}`));
+                        metaSpan.appendChild(metaCreateLink("lastVisit", `https://ping0.cc/ip/${lastVisitIp}`));
                     }
                 }
             })
