@@ -33,14 +33,13 @@ function metaFetch(appId) {
             .then(response => {
                 if (lastVisitIp != response.ip) {
                     const metaRecord = {
-                        ip: ip,
+                        ip: response.ip,
                         requestId: response.requestId,
                         timestamp: Date.now(),
                     };
                     try {
-                        const updatedIps = [metaRecord, ...metaLocalInfo].slice(0, 10);
-                        localStorage.setItem(metaKey, JSON.stringify(updatedIps));
-
+                        const updatedMetas = [metaRecord, ...metaLocalInfo].slice(0, 10);
+                        localStorage.setItem(metaKey, JSON.stringify(updatedMetas));
                     } catch (e) {
                         console.error('save visit info failed... ', e);
                     }
@@ -55,8 +54,11 @@ function metaFetch(appId) {
                     metaSpan.appendChild(createLink(response.ip, `https://ping0.cc/ip/${response.ip}`));
                     metaSpan.appendChild(document.createTextNode('|'));
                     metaSpan.appendChild(document.createTextNode(response.ua));
+                    metaSpan.appendChild(document.createTextNode('|'));
+                    metaSpan.appendChild(document.createTextNode(response.asOrganization));
                     if (lastVisitIp != response.ip) {
-                        metaSpan.appendChild(createLink(lastVisitIp, `https://ping0.cc/ip/${lastVisitIp}`));
+                        metaSpan.appendChild(document.createTextNode('|'));
+                        metaSpan.appendChild(createLink("lastVisit", `https://ping0.cc/ip/${lastVisitIp}`));
                     }
                 }
             })
