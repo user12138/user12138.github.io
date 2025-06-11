@@ -31,7 +31,7 @@ function metaFetch(appId) {
                 return response.json();
             })
             .then(response => {
-                if (lastVisitIp != response.ip) {
+                if (lastVisitIp != null && lastVisitIp != response.ip) {
                     const metaRecord = {
                         ip: response.ip,
                         requestId: response.requestId,
@@ -56,7 +56,7 @@ function metaFetch(appId) {
                     metaSpan.appendChild(document.createTextNode(response.ua));
                     metaSpan.appendChild(document.createTextNode('|'));
                     metaSpan.appendChild(document.createTextNode(response.asOrganization));
-                    if (lastVisitIp != response.ip) {
+                    if (lastVisitIp != null && lastVisitIp != response.ip) {
                         metaSpan.appendChild(document.createTextNode('|'));
                         metaSpan.appendChild(metaCreateLink(lastVisitIp, `https://ping0.cc/ip/${lastVisitIp}`));
                     }
