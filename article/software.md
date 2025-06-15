@@ -1,12 +1,12 @@
 ---
 layout: article-default
-title: "实用工具软件合集 v2024.08.18 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
+title: "实用工具软件合集 v2025.06.15 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
 noindex: false
 ---
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2024 年 08 月 18 日
+        最后更新时间：2025 年 06 月 15 日
     <h3>软件列表</h3>
     列举常用的实用工具软件合集，点击链接跳转到官网页面。
     <br>
@@ -19,7 +19,11 @@ noindex: false
         <sup>
             [一款革命性的 Windows 搜索工具]
         </sup>
-    <br><a target="_blank" rel="noopener nofollow" href="https://cryptomator.org/downloads/">Cryptormator</a>
+    <br>
+        <a target="_blank" rel="noopener nofollow" href="https://cryptomator.org/downloads/">Cryptormator</a>
+        <sup>
+            <a target="_blank" rel="noopener nofollow" href="https://github.com/cryptomator/cryptomator/releases">[Source]</a>
+        </sup>
     <br>
         <a target="_blank" rel="noopener nofollow" href="https://zh.snipaste.com/">Snipaste截图</a>
         <sup>
@@ -39,8 +43,8 @@ noindex: false
         <sup>
             <a target="_blank" rel="noopener nofollow" title="快速下载最新 CentBrowser 浏览器" href="/go/out?r=centbrowser-lastest">[最新版]</a>
         </sup>
-    <!-- <br><a target="_blank" rel="noopener nofollow" href="https://www.catsxp.com/zh-hans">CatsxpBrowser</a> -->
-    <!-- <br><a target="_blank" rel="noopener nofollow" href="https://www.srware.net/iron/">SRWare Iron</a> -->
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.catsxp.com/zh-hans">CatsxpBrowser</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://www.srware.net/iron/">SRWare Iron</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://ungoogled-software.github.io/ungoogled-chromium-binaries/">Ungoogled-Chromium</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.runningcheese.com/firefox">RunningCheese Firefox</a> #浏览器
     <br><a target="_blank" rel="noopener nofollow" href="https://www.runningcheese.com/chrome">RunningCheese Chrome</a> #浏览器
