@@ -22,7 +22,7 @@ function metaFetch(appId) {
             console.error('get meta_info failed... ', e);
         }
         const lastVisitIp = metaLocalInfo.length > 0 ? metaLocalInfo[0].ip : null;
-        const url = `https://api.ypingcn.com/worker/ip-geo/v1?appId=${appId}&from=` + btoaSafe(window.location.href) + `&lastVisit=` + lastVisitIp;
+        const url = `https://eodl.ypingcn.com/worker/ip-geo/v2?appId=${appId}&lastVisit=${lastVisitIp}&from=` + btoaSafe(window.location.href);
         fetch(url)
             .then(response => {
                 if (!response.ok) {
