@@ -7,13 +7,15 @@ function metaCreateLink(text, href) {
     return link;
 }
 
+function btoaSafe(str) {
+    return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function (match, p1) {
+        return String.fromCharCode('0x' + p1);
+    }));
+}
+
 function metaFetch(appId) {
     document.addEventListener('DOMContentLoaded', function () {
-        function btoaSafe(str) {
-            return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function (match, p1) {
-                return String.fromCharCode('0x' + p1);
-            }));
-        }
+
         let metaKey = `meta_info_${appId}`;
         let metaLocalInfo = [];
         try {
