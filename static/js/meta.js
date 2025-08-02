@@ -25,7 +25,10 @@ function metaFetch(appId) {
         const lastVisitIp = metaLocalInfo.length > 0 ? metaLocalInfo[0].ip : null;
         const url = `https://eodl.ypingcn.com/worker/ip-geo/v2?appId=${appId}&lastVisit=${lastVisitIp}&from=` + btoaSafe(window.location.href);
         const fetchData = async () => {
-            fetch(url)
+            fetch(url, {
+                method: 'GET',
+                credentials: 'include'
+            })
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
