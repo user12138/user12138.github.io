@@ -14,8 +14,7 @@ function btoaSafe(str) {
 }
 
 function metaFetch(appId) {
-    document.addEventListener('DOMContentLoaded', function () {
-
+    document.addEventListener('DOMContentLoaded', async () => {
         let metaKey = `meta_info_${appId}`;
         let metaLocalInfo = [];
         try {
@@ -25,7 +24,8 @@ function metaFetch(appId) {
         }
         const lastVisitIp = metaLocalInfo.length > 0 ? metaLocalInfo[0].ip : null;
         const url = `https://eodl.ypingcn.com/worker/ip-geo/v2?appId=${appId}&lastVisit=${lastVisitIp}&from=` + btoaSafe(window.location.href);
-        fetch(url)
+        const fetchData = async () => {
+            fetch(url)
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
@@ -49,8 +49,8 @@ function metaFetch(appId) {
 
                 const metaSpan = document.getElementById('page-meta');
                 if (metaSpan) {
-                    // metaSpan.textContent = `${response.requestId}##${response.ip}##${response.ua}`;
                     metaSpan.innerHTML = '';
+                    metaSpan.appendChild(document.createTextNode(`[${response.elapsed}ms]|`));
                     metaSpan.appendChild(document.createTextNode(response.requestId));
                     metaSpan.appendChild(document.createTextNode('|'));
                     metaSpan.appendChild(metaCreateLink(response.ip, `https://ping0.cc/ip/${response.ip}`));
@@ -67,6 +67,9 @@ function metaFetch(appId) {
             .catch(error => {
                 console.error('rendering page meta info failed... ', error);
             });
+        };
+        await fetchData();
+        setInterval(fetchData, 5000);
     });
 }
 
