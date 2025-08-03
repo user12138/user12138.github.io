@@ -72,7 +72,7 @@ function metaFetch(appId) {
             });
         };
         await fetchData();
-        setInterval(fetchData, 10000);
+        // setInterval(fetchData, 10000);
     });
 }
 
