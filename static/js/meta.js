@@ -78,7 +78,7 @@ function metaAction(appId) {
             link.addEventListener('click', async function (e) {
                 try {
                     const reportUrl = `https://eodl.ypingcn.com/worker/ip-geo/v2?appId=${appId}&from=` + btoaSafe(window.location.href) + `&to=` + btoaSafe(link.href);
-                    fetch(url, {
+                    fetch(reportUrl, {
                         method: 'GET',
                         credentials: 'include'
                     })
