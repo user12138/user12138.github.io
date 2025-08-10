@@ -13,7 +13,7 @@ function btoaSafe(str) {
     }));
 }
 
-function metaFetch(appId) {
+function metaAction(appId) {
     document.addEventListener('DOMContentLoaded', async () => {
         let metaKey = `meta_info_${appId}`;
         let metaLocalInfo = [];
@@ -72,22 +72,26 @@ function metaFetch(appId) {
             });
         };
         await fetchData();
-        // setInterval(fetchData, 10000);
-    });
-}
 
-function metaReport(appId) {
-    document.addEventListener('click', e => {
-        const a = e.target.closest('a');
-        if (!a) return;
-        const url = `https://eodl.ypingcn.com/worker/ip-geo/v2?appId=${appId}&from=` + btoaSafe(window.location.href) + `&to=` + btoaSafe(a.href);
-        fetch(url, { method: 'GET', keepalive: true });
+        const links = document.querySelectorAll('a');
+        links.forEach(link => {
+            link.addEventListener('click', async function (e) {
+                try {
+                    const reportUrl = `https://eodl.ypingcn.com/worker/ip-geo/v2?appId=${appId}&from=` + btoaSafe(window.location.href) + `&to=` + btoaSafe(link.href);
+                    fetch(url, {
+                        method: 'GET',
+                        credentials: 'include'
+                    })
+                } catch (error) {
+                    console.error('report click failed... ', error);
+                }
+            });
+        });
     });
 }
 
 if (document.currentScript &&
     document.currentScript.hasAttribute('appId')) {
     const appId = document.currentScript.getAttribute('appId');
-    metaFetch(appId);
-    metaReport(appId);
+    metaAction(appId);
 }
