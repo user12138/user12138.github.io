@@ -80,11 +80,4 @@ if (document.currentScript &&
     document.currentScript.hasAttribute('appId')) {
     const appId = document.currentScript.getAttribute('appId');
     metaFetch(appId);
-
-    document.addEventListener('click', e => {
-        const a = e.target.closest('a');
-        if (!a) return;
-        const url = `https://eodl.ypingcn.com/worker/ip-geo/v2?appId=${appId}&from=` + btoaSafe(window.location.href)+`&to=`+ btoaSafe(a.href);
-        fetch(url, {method:'GET', keepalive:true});
-    });
 }
