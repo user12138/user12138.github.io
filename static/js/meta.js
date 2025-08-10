@@ -87,8 +87,26 @@ function metaAction(appId) {
                         })
                     } else {
                         const img = new Image();
-                        img.src = trackUrl;
-                        img.onerror = () => console.error('report click failed... ');
+                        img.src = `${reportUrl}&_=${Date.now()}`;
+                        img.onerror = () => {
+                            console.error('[1]report click failed... ');
+                            try {
+                                const xhr = new XMLHttpRequest();
+                                xhr.open('GET', `${reportUrl}&_=${Date.now()}`, false); // 同步请求确保发送
+                                xhr.send();
+                            } catch (e) {
+                                console.error('[2]report click failed... ', error);
+                            }
+                        };
+                        img.onload = () => console.log('[1]report click success... ');
+
+                        const href = this.href;
+                        if (href && !href.startsWith('#')) { // 排除锚点链接
+                            e.preventDefault();
+                            setTimeout(() => {
+                                window.location.href = href;
+                            }, 50); // 50ms延迟用户几乎无感知
+                        }
                     }
                 } catch (error) {
                     console.error('report click failed... ', error);
