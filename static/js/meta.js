@@ -82,8 +82,8 @@ function metaAction(appId) {
                     // const isNewTab = this.target === '_blank' || e.ctrlKey || e.metaKey || e.shiftKey;
                     fetch(reportUrl, {
                         method: 'GET',
-                        credentials: 'include',
-                        keepalive: true
+                        credentials: 'include'
+                        // keepalive: true
                     })
                 } catch (error) {
                     console.error('report click failed... ', error);
