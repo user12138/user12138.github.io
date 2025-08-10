@@ -15,6 +15,7 @@ function btoaSafe(str) {
 
 function metaAction(appId) {
     document.addEventListener('DOMContentLoaded', async () => {
+        const statServerUrl = `https://eodl.ypingcn.com/worker/ip-geo/v2`
         let metaKey = `meta_info_${appId}`;
         let metaLocalInfo = [];
         try {
@@ -23,7 +24,7 @@ function metaAction(appId) {
             console.error('get meta_info failed... ', e);
         }
         const lastVisitIp = metaLocalInfo.length > 0 ? metaLocalInfo[0].ip : null;
-        const url = `https://eodl.ypingcn.com/worker/ip-geo/v2?appId=${appId}&lastVisit=${lastVisitIp}&from=` + btoaSafe(window.location.href);
+        const url = `${statServerUrl}?appId=${appId}&lastVisit=${lastVisitIp}&from=` + btoaSafe(window.location.href);
         const fetchData = async () => {
             fetch(url, {
                 method: 'GET',
@@ -77,10 +78,8 @@ function metaAction(appId) {
         links.forEach(link => {
             link.addEventListener('click', async function (e) {
                 try {
-                    const reportUrl = `https://eodl.ypingcn.com/worker/ip-geo/v2?appId=${appId}&from=` + btoaSafe(window.location.href) + `&to=` + btoaSafe(link.href);
-
+                    const reportUrl = `${statServerUrl}?appId=${appId}&from=` + btoaSafe(window.location.href) + `&to=` + btoaSafe(link.href);
                     const isNewTab = this.target === '_blank' || e.ctrlKey || e.metaKey || e.shiftKey;
-
                     if (isNewTab) {
                         fetch(reportUrl, {
                             method: 'GET',
@@ -89,7 +88,7 @@ function metaAction(appId) {
                     } else {
                         const img = new Image();
                         img.src = trackUrl;
-                        img.onerror = () => console.error('sendBeacon report click failed... ');
+                        img.onerror = () => console.error('report click failed... ');
                     }
                 } catch (error) {
                     console.error('report click failed... ', error);
