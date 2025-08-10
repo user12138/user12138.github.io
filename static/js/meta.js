@@ -87,11 +87,9 @@ function metaAction(appId) {
                             credentials: 'include'
                         })
                     } else {
-                        const formData = new FormData();
-                        const success = navigator.sendBeacon(reportUrl, formData);
-                        if (!success) {
-                            console.error('sendBeacon report click failed... ', error);
-                        }
+                        const img = new Image();
+                        img.src = trackUrl;
+                        img.onerror = () => console.error('sendBeacon report click failed... ');
                     }
                 } catch (error) {
                     console.error('report click failed... ', error);
