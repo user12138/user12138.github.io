@@ -78,10 +78,21 @@ function metaAction(appId) {
             link.addEventListener('click', async function (e) {
                 try {
                     const reportUrl = `https://eodl.ypingcn.com/worker/ip-geo/v2?appId=${appId}&from=` + btoaSafe(window.location.href) + `&to=` + btoaSafe(link.href);
-                    fetch(reportUrl, {
-                        method: 'GET',
-                        credentials: 'include'
-                    })
+
+                    const isNewTab = this.target === '_blank' || e.ctrlKey || e.metaKey || e.shiftKey;
+
+                    if (isNewTab) {
+                        fetch(reportUrl, {
+                            method: 'GET',
+                            credentials: 'include'
+                        })
+                    } else {
+                        const formData = new FormData();
+                        const success = navigator.sendBeacon(reportUrl, formData);
+                        if (!success) {
+                            console.error('sendBeacon report click failed... ', error);
+                        }
+                    }
                 } catch (error) {
                     console.error('report click failed... ', error);
                 }
