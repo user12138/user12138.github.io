@@ -17,13 +17,25 @@ function metaAction(appId) {
     document.addEventListener('DOMContentLoaded', async () => {
         const statServerUrl = `https://eodl.ypingcn.com/worker/ip-geo/v2`
         let metaKey = `meta_info_${appId}`;
+        let metaCurKey = `meta_cur_info_${appId}`;
         let metaLocalInfo = [];
+        let metaCurInfo = [];
         try {
             metaLocalInfo = JSON.parse(localStorage.getItem(metaKey)) || [];
+            metaCurInfo = JSON.parse(localStorage.getItem(metaCurKey)) || [];
         } catch (e) {
             console.error('get meta_info failed... ', e);
         }
-        const lastVisitIp = metaLocalInfo.length > 0 ? metaLocalInfo[0].ip : null;
+
+        let lastVisitIp = null;
+        if (metaLocalInfo.length > 0) {
+            const latestLocalIp = metaLocalInfo[0].ip;
+            if (metaCurInfo.length > 0 && metaCurInfo[0].ip === latestLocalIp) {
+                lastVisitIp = metaLocalInfo.length > 1 ? metaLocalInfo[1].ip : null;
+            } else {
+                lastVisitIp = latestLocalIp;
+            }
+        }
         const url = `${statServerUrl}?appId=${appId}&lastVisit=${lastVisitIp}&from=` + btoaSafe(window.location.href);
         const fetchData = async () => {
             fetch(url, {
@@ -37,12 +49,19 @@ function metaAction(appId) {
                 return response.json();
             })
             .then(response => {
+                const metaRecord = {
+                    ip: response.ip,
+                    requestId: response.requestId,
+                    timestamp: Date.now(),
+                };
+                try {
+                    const updatedCurMetas = [metaRecord, ...metaCurInfo].slice(0, 10);
+                    localStorage.setItem(metaCurKey, JSON.stringify(updatedCurMetas));
+                } catch (e) {
+                    console.error('save current visit info failed... ', e);
+                }
+
                 if (lastVisitIp != null && lastVisitIp != response.ip) {
-                    const metaRecord = {
-                        ip: response.ip,
-                        requestId: response.requestId,
-                        timestamp: Date.now(),
-                    };
                     try {
                         const updatedMetas = [metaRecord, ...metaLocalInfo].slice(0, 10);
                         localStorage.setItem(metaKey, JSON.stringify(updatedMetas));
