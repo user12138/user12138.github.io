@@ -13,7 +13,7 @@ function encodeToBase64Safe(str) {
             return String.fromCharCode('0x' + hexCode);
         }));
     } catch (error) {
-        console.error('[Meta] Base64编码失败:', error);
+        console.error('[Meta] Base64 encode failed:', error);
         return '';
     }
 }
@@ -32,7 +32,7 @@ function initializePageMeta(appId) {
             historyRecords = JSON.parse(localStorage.getItem(STORAGE_KEY_HISTORY)) || [];
             currentRecord = JSON.parse(localStorage.getItem(STORAGE_KEY_CURRENT)) || null;
         } catch (error) {
-            console.error('[Meta] 加载本地存储记录失败:', error);
+            console.error('[Meta] load records failed:', error);
         }
 
 
@@ -64,7 +64,7 @@ function initializePageMeta(appId) {
             renderPageMetaInfo(responseData, lastVisitIp);
 
         } catch (error) {
-            console.error('[Meta] 请求失败:', error);
+            console.error('[Meta] request failed:', error);
         }
 
         initializeLinkStat(STAT_SERVER_URL, appId);
@@ -107,7 +107,7 @@ async function handleVisitRecords(
         return;
     }
 
-    console.log(`[Meta] IP变化检测到(${currentRecordIp || '无'} -> ${nowVisitIp})，开始保存记录`);
+    console.log(`[Meta] detect changed, (${currentRecordIp || 'NULL'} -> ${nowVisitIp})，ready to save.`);
 
     const visitRecord = {
         ip: nowVisitIp,
@@ -117,7 +117,7 @@ async function handleVisitRecords(
     try {
         localStorage.setItem(currentKey, JSON.stringify(visitRecord));
     } catch (error) {
-        console.error('[Meta] 保存当前访问记录失败:', error);
+        console.error('[Meta] save current record failed:', error);
     }
 
     if (lastVisitIp == null || (lastVisitIp !== null && lastVisitIp !== nowVisitIp)) {
@@ -125,7 +125,7 @@ async function handleVisitRecords(
             const updatedHistoryRecords = [visitRecord, ...historyRecords].slice(0, maxRecords);
             localStorage.setItem(historyKey, JSON.stringify(updatedHistoryRecords));
         } catch (error) {
-            console.error('[Meta] 保存历史访问记录失败:', error);
+            console.error('[Meta] save history record failed:', error);
         }
     }
 }
@@ -133,7 +133,7 @@ async function handleVisitRecords(
 function renderPageMetaInfo(responseData, lastVisitIp) {
     const metaElement = document.getElementById('page-meta');
     if (!metaElement) {
-        console.warn('[Meta] 未找到page-meta元素，跳过渲染');
+        console.warn('[Meta] page-meta element not found.');
         return;
     }
 
@@ -179,11 +179,11 @@ function initializeLinkStat(baseUrl, appId) {
                     method: 'GET',
                     credentials: 'include'
                 }).catch(error => {
-                    console.error('[Meta] 点击统计发送失败:', error);
+                    console.error('[Meta] stat request failed:', error);
                 });
 
             } catch (error) {
-                console.error('[Meta] 点击统计处理失败:', error);
+                console.error('[Meta] stat failed:', error);
             }
         });
     });
