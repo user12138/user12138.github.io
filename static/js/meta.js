@@ -27,34 +27,34 @@ function initializePageMeta(appId) {
 
         let historyRecords = [];
         let currentRecord = null;
-        
+
         try {
             historyRecords = JSON.parse(localStorage.getItem(STORAGE_KEY_HISTORY)) || [];
             currentRecord = JSON.parse(localStorage.getItem(STORAGE_KEY_CURRENT)) || null;
         } catch (error) {
             console.error('[Meta] 加载本地存储记录失败:', error);
         }
-        
+
 
         const lastVisitIp = determineLastVisitIp(historyRecords, currentRecord);
         const requestUrl = buildStatUrl(STAT_SERVER_URL, appId, lastVisitIp);
-        
+
         try {
             const response = await fetch(requestUrl, {
                 method: 'GET',
                 credentials: 'include'
             });
-            
+
             if (!response.ok) {
                 throw new Error(`HTTP请求失败: ${response.status}`);
             }
-            
+
             const responseData = await response.json();
-            
+
             await handleVisitRecords(
-                responseData.ip, 
-                lastVisitIp, 
-                currentRecord, 
+                responseData.ip,
+                lastVisitIp,
+                currentRecord,
                 historyRecords,
                 STORAGE_KEY_CURRENT,
                 STORAGE_KEY_HISTORY,
@@ -62,11 +62,11 @@ function initializePageMeta(appId) {
             );
 
             renderPageMetaInfo(responseData, lastVisitIp);
-            
+
         } catch (error) {
             console.error('[Meta] 请求失败:', error);
         }
-        
+
         initializeLinkStat(STAT_SERVER_URL, appId);
     });
 }
@@ -92,35 +92,35 @@ function buildStatUrl(baseUrl, appId, lastVisitIp) {
 }
 
 async function handleVisitRecords(
-    nowVisitIp, 
-    lastVisitIp, 
-    currentRecord, 
+    nowVisitIp,
+    lastVisitIp,
+    currentRecord,
     historyRecords,
     currentKey,
     historyKey,
     maxRecords
 ) {
-    const currentIp = currentRecord ? currentRecord.ip : null;
-    const shouldSaveRecord = currentIp !== nowVisitIp;
-    
+    const currentRecordIp = currentRecord ? currentRecord.ip : null;
+    const shouldSaveRecord = currentRecordIp !== nowVisitIp;
+
     if (!shouldSaveRecord) {
         return;
     }
-    
-    console.log(`[Meta] IP变化检测到(${currentIp || '无'} -> ${nowVisitIp})，开始保存记录`);
-    
+
+    console.log(`[Meta] IP变化检测到(${currentRecordIp || '无'} -> ${nowVisitIp})，开始保存记录`);
+
     const visitRecord = {
         ip: nowVisitIp,
         timestamp: Date.now(),
     };
-    
+
     try {
         localStorage.setItem(currentKey, JSON.stringify(visitRecord));
     } catch (error) {
         console.error('[Meta] 保存当前访问记录失败:', error);
     }
-    
-    if (lastVisitIp !== null && lastVisitIp !== nowVisitIp) {
+
+    if (lastVisitIp == null || (lastVisitIp !== null && lastVisitIp !== nowVisitIp)) {
         try {
             const updatedHistoryRecords = [visitRecord, ...historyRecords].slice(0, maxRecords);
             localStorage.setItem(historyKey, JSON.stringify(updatedHistoryRecords));
@@ -152,7 +152,7 @@ function renderPageMetaInfo(responseData, lastVisitIp) {
         if (index > 0) {
             metaElement.appendChild(document.createTextNode('|'));
         }
-        
+
         if (typeof item === 'string') {
             metaElement.appendChild(document.createTextNode(item));
         } else {
@@ -163,7 +163,7 @@ function renderPageMetaInfo(responseData, lastVisitIp) {
 
 function initializeLinkStat(baseUrl, appId) {
     const links = document.querySelectorAll('a');
-    
+
     links.forEach(link => {
         link.addEventListener('click', async (event) => {
             try {
@@ -172,16 +172,16 @@ function initializeLinkStat(baseUrl, appId) {
                     from: encodeToBase64Safe(window.location.href),
                     to: encodeToBase64Safe(link.href)
                 });
-                
+
                 const reportUrl = `${baseUrl}?${reportParams.toString()}`;
-                
+
                 fetch(reportUrl, {
                     method: 'GET',
                     credentials: 'include'
                 }).catch(error => {
                     console.error('[Meta] 点击统计发送失败:', error);
                 });
-                
+
             } catch (error) {
                 console.error('[Meta] 点击统计处理失败:', error);
             }
