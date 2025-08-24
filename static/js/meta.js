@@ -21,8 +21,8 @@ function encodeToBase64Safe(str) {
 function initializePageMeta(appId) {
     document.addEventListener('DOMContentLoaded', async () => {
         const STAT_SERVER_URL = 'https://eodl.ypingcn.com/worker/ip-geo/v2';
-        const STORAGE_KEY_HISTORY = `${appId}_meta_info`;
-        const STORAGE_KEY_CURRENT = `${appId}_meta_cur_info`;
+        const STORAGE_KEY_HISTORY = `${appId}-meta-his-info`;
+        const STORAGE_KEY_CURRENT = `${appId}-meta-cur-info`;
         const MAX_RECORDS = 10;
 
         let historyRecords = [];
