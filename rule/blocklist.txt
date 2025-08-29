@@ -1,4 +1,4 @@
-!! ## 最后更新时间 2025.05.26 ##
+!! ## 最后更新时间 2025.08.30 ##
 !! ## 自用过滤屏蔽域名 ##
 !!@@bytedance.com^$important
 !!@@mcdn.bilivideo.cn^$important
@@ -15,6 +15,7 @@
 ||10046.mi.com^$important
 ||a0.app.xiaomi.com^$important
 ||ab.qq.com^$important
+||abtest.10jqka.com.cn^$important
 ||ad-sdk.huxiu.com^$important
 ||ad.mh.163.com^$important
 ||ad.us.sinaimg.cn^$important
@@ -26,6 +27,7 @@
 ||adukwai.com^$important
 ||advert.58.com^$important
 ||aedns.weixin.qq.com^$important
+||ahdohpiechei.com^$important
 ||ai.xiaomi.com^$important
 ||aispeech.com^$important
 ||aloc-control-plus.amap.com^$important
@@ -40,6 +42,7 @@
 ||api.installer.xiaomi.com^$important
 ||api.kingdata.ksyun.com^$important
 ||api.transfer.search.miui.com^$important
+||apm.hexin.cn^$important
 ||apmplus.volces.com^$important
 ||app.cauly.co.kr^$important
 ||app.link^$important
@@ -58,6 +61,7 @@
 ||centertime.ksyun.com^$important
 ||checkappexec.microsoft.com^$important
 ||cloudcontrol.xiaomixiaoai.com^$important
+||cloudflare-dns.com^$important
 ||cm.bilibili.com^$important
 ||cmpassport.com^$important
 ||cn.app.chat.xiaomi.net^$important
@@ -65,6 +69,7 @@
 ||config-p2p-other.vcloud.ks-live.com^$important
 ||config.edge.skype.com^$important
 ||connect.rom.miui.com^$important
+||consent.config.office.com^$important
 ||content-autofill.googleapis.com^$important
 ||content-understand-strategy.sm.cn^$important
 ||contile.services.mozilla.com^$important
@@ -101,6 +106,7 @@
 ||fxltsbl.com^$important
 ||galileotelemetry.tencent.com^$important
 ||getui.com^$important
+||goho.co^$important
 ||graph.facebook.com^$important
 ||grs.dbankcloud.com^$important
 ||health.comm.miui.com^$important
@@ -112,6 +118,9 @@
 ||httpdns.music.163.com^$important
 ||httpdns.n.netease.com^$important
 ||httpdns.yunxindns.com^$important
+||httpdns.zhihu.com^$important
+||httpdnsmultiapi.meituan.com^$important
+||httpdnsmultiapivip.meituan.com^$important
 ||huoyanio.com^$important
 ||hyperos.developer.xiaomi.com^$important
 ||id6.me^$important
@@ -176,6 +185,7 @@
 ||pangolin-sdk-toutiao1.com^$important
 ||pangolin-sdk-toutiao-b.com^$important
 ||pangolin-sdk-toutiao.com^$important
+||paydns.wechatpay.cn^$important
 ||pinduoduo.com^$important
 ||ping.cloud.tencent.com^$important
 ||port.sec.miui.com^$important
@@ -189,17 +199,23 @@
 ||rmonitor.qq.com^$important
 ||safebrowsing.googleapis.com^$important
 ||scc.bytedance.com^$important
+||sdk-config.tanx.com^$important
 ||sdk.51.la^$important
 ||sdkconfig.xiaomi.com^$important
+||security.snssdk.com^$important
 ||sensors-focus.yingmi.com^$important
 ||sensors.cloud.tencent.com^$important
 ||sensorsdata.cn^$important
 ||sentry-android.mm.taou.com^$important
+||sentry.in.zhihu.com^$important
 ||sentry.io^$important
+||sentry.maimemo.com^$important
+||sentry.midway.run^$important
 ||sentry.music.163.com^$important
 ||sentry.xiaoyuzhoufm.com^$important
 ||settings-win.data.microsoft.com^$important
 ||sharetrace.com^$important
+||slavedns.123ths.com^$important
 ||slb-p2p.vcloud.ks-live.com^$important
 ||smartscreen.microsoft.com^$important
 ||snowflake.qq.com^$important
@@ -213,17 +229,21 @@
 ||telemetry-in.battlenet.com.cn^$important
 ||thclouds.com^$important
 ||tile-service.weather.microsoft.com^$important
+||tlog-emas.aliyuncs.com^$important
 ||tmfsdk4.m.qq.com^$important
 ||tmfsdktcp.m.qq.com^$important
 ||tpns.tencent.com^$important
 ||tpstelemetry.tencent.com^$important
+||tr.byteurl.cn^$important
 ||tr.xiaoyuzhoufm.com^$important
 ||trace.youzhiyouxing.cn^$important
 ||tracert.alipay.com^$important
 ||track-js.kefenxi.com^$important
 ||track.mm.taou.com^$important
 ||tracking.epicgames.com^$important
+||ttnet-doh.feishu.cn^$important
 ||ttxyajs.data.kuiniuca.com^$important
+||tux.qq.com^$important
 ||tz.sec.xiaomi.com^$important
 ||uczzd.cn^$important
 ||update.miui.com^$important
@@ -232,6 +252,7 @@
 ||uplog.qbox.me^$important
 ||userlink.alicdn.com^$important
 ||uve.weibo.com^$important
+||virus-engine.sec.miui.com^$important
 ||voicecloud.cn^$important
 ||volceapplog.com^$important
 ||wanproxy-hz.127.net^$important
@@ -245,4 +266,5 @@
 ||yximgs.com^$important
 ||zconfig.alibabausercontent.com^$important
 ||zeus.top^$important
+||zlink.ugsdk.cn^$important
 ||zztfly.com^$important
