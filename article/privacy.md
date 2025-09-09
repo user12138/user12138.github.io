@@ -81,6 +81,7 @@ noindex: false
     <br>【DNS记录查询】<br>
     <a target="_blank" rel="noopener nofollow" href="https://dns.fish/">DNS.fish</a>
     <a target="_blank" rel="noopener nofollow" href="https://dnsmid.com/">[DNS Checker]</a>
+    <a target="_blank" rel="noopener nofollow" href="https://antping.com/dns">[DNS@Ant Ping]</a>
     <br>【其他工具】<br>
     <a target="_blank" rel="noopener nofollow" href="https://cybermagicsec.github.io/privacytools-zh/">隐私工具</a>
     <a target="_blank" rel="noopener nofollow" href="https://spyware.neocities.org/articles/librewolf.html">Spyware Article</a>
