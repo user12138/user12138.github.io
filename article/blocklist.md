@@ -181,7 +181,6 @@ noindex: false
         <br>sentry-android.mm.taou.com
         <br>sentry.io
         <br>sentry.music.163.com
-        <br>sentry.xiaoyuzhoufm.com
         <br>settings-win.data.microsoft.com
         <br>sharetrace.com
         <br>slb-p2p.vcloud.ks-live.com
@@ -198,7 +197,6 @@ noindex: false
         <br>tmfsdktcp.m.qq.com
         <br>tpns.tencent.com
         <br>tpstelemetry.tencent.com
-        <br>tr.xiaoyuzhoufm.com
         <br>trace.youzhiyouxing.cn
         <br>tracert.alipay.com
         <br>track-js.kefenxi.com

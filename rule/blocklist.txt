@@ -1,4 +1,4 @@
-!! ## 最后更新时间 2025.08.30 ##
+!! ## 最后更新时间 2025.09.10 ##
 !! ## 自用过滤屏蔽域名 ##
 !!@@bytedance.com^$important
 !!@@mcdn.bilivideo.cn^$important
@@ -212,7 +212,6 @@
 ||sentry.maimemo.com^$important
 ||sentry.midway.run^$important
 ||sentry.music.163.com^$important
-||sentry.xiaoyuzhoufm.com^$important
 ||settings-win.data.microsoft.com^$important
 ||sharetrace.com^$important
 ||slavedns.123ths.com^$important
@@ -235,7 +234,6 @@
 ||tpns.tencent.com^$important
 ||tpstelemetry.tencent.com^$important
 ||tr.byteurl.cn^$important
-||tr.xiaoyuzhoufm.com^$important
 ||trace.youzhiyouxing.cn^$important
 ||tracert.alipay.com^$important
 ||track-js.kefenxi.com^$important

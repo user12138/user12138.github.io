@@ -264,34 +264,8 @@
                 transform: translateY(0);
             }
         }
-
+        
         .card {
             animation: fadeIn 0.6s ease-out;
-        }
-
-        /* =================== 高对比度模式支持 =================== */
-        @media (prefers-contrast: high) {
-            :root {
-                --primary-color: #0056b3;
-                --primary-hover: #003d82;
-                --border-form: #666666;
-                --shadow-card: 3px 3px 8px 0px rgba(0, 0, 0, 0.5);
-            }
-        }
-
-        /* =================== 暗色模式支持 =================== */
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --bg-primary: #1a1a1a;
-                --bg-secondary: #2d2d2d;
-                --bg-card: #242424;
-                --text-primary: #ffffff;
-                --text-secondary: #cccccc;
-                --text-tertiary: #aaaaaa;
-                --border-light: #333333;
-                --border-medium: #404040;
-                --border-form: #555555;
-                --shadow-card: 2px 2px 6px 0px rgba(0, 0, 0, 0.8);
-            }
         }
     </style>
