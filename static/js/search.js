@@ -4,6 +4,7 @@ var searchEngineData = new Map(
         ["google", { url: "https://www.google.com/search?client=firefox-b-d&q=", name: "Google搜索" }],
         ["baidu", { url: "https://www.baidu.com/baidu?tn=monline_7_dg&ie=utf-8&wd=", name: "百度搜索" }],
         ["sogou", { url: "https://www.sogou.com/web?query=", name: "搜狗搜索" }],
+        ["xueqiu", { url: "https://xueqiu.com/k?q=", name: "股票【雪球】" }],
         ["eastmoney", { url: "https://fund.eastmoney.com/data/fundsearch.html#key", name: "基金【天天】" }],
         ["qieman", { url: "https://qieman.com/search/", name: "基金【且慢】" }],
         ["funddb", { url: "https://funddb.cn/search/index/", name: "基金【韭圈儿】" }],
