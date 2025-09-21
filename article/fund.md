@@ -48,7 +48,6 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/012323.html">华宝医疗ETF联接C</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/014424.html">博时恒生医疗保健ETF发起式联接(QDII)A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/017937.html">易方达中证医疗ETF联接发起式A</a>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/017937.html">易方达中证医疗ETF联接发起式A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/018557.html">易方达港股通医药ETF联接A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/100032.html">富国中证红利指数增强A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/110020.html">易方达沪深300ETF联接A</a>
@@ -81,4 +80,6 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/011584.html">大成港股精选混合(QDII)C</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/017750.html">国投瑞银景气驱动混合C</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/022154.html">华泰柏瑞红利精选混合C</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/012866.html">易方达标普生物科技人民币C</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/018460.html">大成新锐产业混合C</a>
 </article>
