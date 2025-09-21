@@ -1,12 +1,12 @@
 ---
 layout: article-default
-title: "基金观察池 v2023.08.22 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
+title: "基金观察池 v2025.09.21 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
 noindex: false
 ---
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2023 年 08 月 22 日
+    最后更新时间：2025 年 09 月 21 日
     <hr>
     <h3>基金观察池</h3>
     <br>个人用基金观察池，不构成投资建议。投资有风险，入市需谨慎。
@@ -68,7 +68,7 @@ noindex: false
     <br><del><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/519704.html">交银先进制造混合A</a></del>
     <br>====2302观察====
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/014330.html">中融优势产业混合C</a>
-    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/920923.html">中金新锐股票C</a>
+    <br><del><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/920923.html">中金新锐股票C</a></del>
     <br><del><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/970185.html">招商资管核心优势混合C</a></del>
     <br>====2302观察====
     <br><del><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/011145.html">华安汇宏精选混合C</a></del>
@@ -76,4 +76,9 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/004075.html">交银医药创新股票A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/008923.html">建信医疗健康行业股票A</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/012159.html">财通资管健康产业混合A</a>
+    <br>====2509观察====
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/017978.html">信澳优享生活混合C</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/011584.html">大成港股精选混合(QDII)C</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/017750.html">国投瑞银景气驱动混合C</a>
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/022154.html">华泰柏瑞红利精选混合C</a>
 </article>
