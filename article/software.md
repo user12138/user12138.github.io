@@ -61,6 +61,7 @@ noindex: false
         </sup>
     <br><a target="_blank" rel="noopener nofollow" href="https://getquicker.net/">Quicker</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://spaceeye.app/">Space Eye</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://sniffnet.net/download/">Sniffnet</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://logseq.com/">Logseq</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://obsidian.md/">Obsidian</a> #笔记软件
     <br>
@@ -95,6 +96,8 @@ noindex: false
         </sup>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.jam-software.com/treesize_free">TreeSizeFree</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.adspower.net/">AdsPower指纹浏览器</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://trustsing.com/idefender/">冰盾 · 主动防御系统</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://trustsing.com/irecorder/">冰鉴 · 软件使用分析系统</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.xsecantivirus.com/product.aspx">X-Sec Malware Scanner</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe">Kaspersky® Virus Removal Tool</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.kaspersky.com/anti-ransomware-tool">Kaspersky® Anti-Ransomware Tool</a>
