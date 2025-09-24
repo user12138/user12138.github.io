@@ -1,16 +1,16 @@
-!! ## 最后更新时间 2025.09.10 ##
+
+!! ## 最后更新时间 2025.09.24 ##
 !! ## 自用过滤屏蔽域名 ##
 !!@@bytedance.com^$important
 !!@@mcdn.bilivideo.cn^$important
 !!@@passport.biligame.com^$important
-!!@@||snssdk.com^$important
 !!@@||umami.is^$important
 !!@@||zijieapi.com^$important
 !!||io.mi.com^$important
 !!||iot.mi.com^$important
+@@||123.sogou.com^$important
 @@||2345.cn^$important
 @@||2345.com^$important
-@@||cdn.staticfile.org^$important
 ||8zhuayu.cc^$important
 ||10046.mi.com^$important
 ||a0.app.xiaomi.com^$important
@@ -158,6 +158,7 @@
 ||mediadata.api.weibo.com^$important
 ||merino.services.mozilla.com^$important
 ||metric.gstatic.com^$important
+||metrics1-drcn.dt.dbankcloud.cn^$important
 ||microsoftedge.microsoft.com^$important
 ||miui-fxcse.avlyun.com^$important
 ||miwifi.com^$important
@@ -168,6 +169,7 @@
 ||msedge.net^$important
 ||msv6.wosms.cn^$important
 ||mum.hzchengdun.com^$important
+||net-assistant.10046.xiaomimobile.com^$important
 ||nisgd1.10010.com^$important
 ||norma-external-collect.meizu.com^$important
 ||nstool.321fenx.com^$important
@@ -199,6 +201,7 @@
 ||rmonitor.qq.com^$important
 ||safebrowsing.googleapis.com^$important
 ||scc.bytedance.com^$important
+||screentime.comm.miui.com^$important
 ||sdk-config.tanx.com^$important
 ||sdk.51.la^$important
 ||sdkconfig.xiaomi.com^$important
