@@ -23,7 +23,7 @@ function initializePageMeta(appId) {
         const STAT_SERVER_URL = 'https://eodl.ypingcn.com/worker/ip-geo/v2';
         const STORAGE_KEY_HISTORY = `${appId}-meta-his-info`;
         const STORAGE_KEY_CURRENT = `${appId}-meta-cur-info`;
-        const MAX_RECORDS = 10;
+        const MAX_RECORDS = 50;
 
         let historyRecords = [];
         let currentRecord = null;
