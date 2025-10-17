@@ -1,12 +1,12 @@
 ---
 layout: article-default
-title: "基金观察池 v2025.09.21 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
+title: "基金观察池 v2025.10.17 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
 noindex: false
 ---
 
 <article>
     <h3>说明</h3>
-    最后更新时间：2025 年 09 月 21 日
+    最后更新时间：2025 年 10 月 17 日
     <hr>
     <h3>基金观察池</h3>
     <br>个人用基金观察池，不构成投资建议。投资有风险，入市需谨慎。
@@ -82,4 +82,6 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/022154.html">华泰柏瑞红利精选混合C</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/012866.html">易方达标普生物科技人民币C</a>
     <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/018460.html">大成新锐产业混合C</a>
+    <br>====2510观察====
+    <br><a target="_blank" rel="noopener nofollow noreferrer" href="https://fund.eastmoney.com/501060.html">中金中证优选300指数(LOF)A</a>
 </article>
