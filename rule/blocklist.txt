@@ -1,5 +1,4 @@
-
-!! ## 最后更新时间 2025.09.24 ##
+!! ## 最后更新时间 2025.10.26 ##
 !! ## 自用过滤屏蔽域名 ##
 !!@@bytedance.com^$important
 !!@@mcdn.bilivideo.cn^$important
@@ -11,8 +10,8 @@
 @@||123.sogou.com^$important
 @@||2345.cn^$important
 @@||2345.com^$important
-||8zhuayu.cc^$important
 ||10046.mi.com^$important
+||8zhuayu.cc^$important
 ||a0.app.xiaomi.com^$important
 ||ab.qq.com^$important
 ||abtest.10jqka.com.cn^$important
@@ -109,6 +108,7 @@
 ||goho.co^$important
 ||graph.facebook.com^$important
 ||grs.dbankcloud.com^$important
+||hagfish.yingt.fun^$important
 ||health.comm.miui.com^$important
 ||hotfix-api.aliyuncs.com^$important
 ||hpplay.cn^$important
@@ -184,9 +184,9 @@
 ||optimizationguide-pa.googleapis.com^$important
 ||p2cdn.com^$important
 ||pandora.xiaomi.com^$important
-||pangolin-sdk-toutiao1.com^$important
 ||pangolin-sdk-toutiao-b.com^$important
 ||pangolin-sdk-toutiao.com^$important
+||pangolin-sdk-toutiao1.com^$important
 ||paydns.wechatpay.cn^$important
 ||pinduoduo.com^$important
 ||ping.cloud.tencent.com^$important
