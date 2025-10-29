@@ -87,6 +87,8 @@ noindex: false
     <br><a target="_blank" rel="noopener nofollow" href="https://cosbrowser.cloud.tencent.com/">CosBrowser - COS 客户端</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://wpd.app/">WPD | Privacy dashboard for Windows</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://astrofox.io/">Astrofox</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://rustdesk.com/">Rustdesk</a>
+    <br><a target="_blank" rel="noopener nofollow" href="https://rancherdesktop.io">Rancher Desktop</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.netlimiter.com/">NetLimiter</a>
     <br><a target="_blank" rel="noopener nofollow" href="https://www.ventoy.net/cn/index.html">Ventoy</a>
     <br>
