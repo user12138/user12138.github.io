@@ -6,23 +6,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex">
-    <title>Redirecting</title>
+    <title>页面跳转中...</title>
     <script defer type="text/javascript" src="/static/js/meta.js" appId="go-aff-FOHPHDJ"></script>
     <script defer type="text/javascript" src="/static/js/jump.js" config="/go/affiliate/routes.json" timeoutms="3000" element="redirect-url"></script>
     <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
     <script>LA.init({id:"Ji8sNEm09d4f8ZaO",ck:"Ji8sNEm09d4f8ZaO",autoTrack:true,hashMode:true,screenRecord:true})</script>
     <script defer src="https://cloud.umami.is/script.js" data-website-id="7c9f77f9-6d5e-4f24-b96b-b7290e818989"></script>
+    {% include nav/static/css.html %}
 </head>
-
 <body>
-    <h1>Redirecting to your requested page ... </h1>
-    <h4>
-        <p id='redirect-url'></p>
-    </h4>
-    <br>
-    <br>
-    <br>
-    <center>
-        <span id="page-meta"></span>
-    </center>
+    <div class="container">
+        <h1>正在跳转到目标页面...</h1>
+        <div class="loader"></div>
+        <div class="countdown" id="countdown">3秒后自动跳转</div>
+        <div class="redirect-info">
+            <strong>即将跳转至：</strong>
+            <p id='redirect-url'>加载中...</p>
+        </div>
+        <div class="warning">
+            <strong>安全提醒：</strong>请确认本页面是您主动触发打开的。如果这不是您预期的页面，请立即关闭浏览器窗口。
+        </div>
+        <div class="meta-info">
+            <span id="page-meta"></span>
+        </div>
+    </div>
 </body>
+</html>

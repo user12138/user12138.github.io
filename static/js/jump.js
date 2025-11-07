@@ -23,7 +23,25 @@ async function fetchAndParseJson(url) {
     }
 }
 
-function goUrl(config, timeoutMs, replaceElement) {
+// 倒计时显示函数
+function updateCountdownTips(elementId, seconds) {
+    const countdownElement = document.getElementById(elementId);
+    if (!countdownElement) return;
+
+    countdownElement.textContent = seconds + '秒后自动跳转';
+
+    const countdownInterval = setInterval(function () {
+        seconds--;
+        if (seconds >= 0) {
+            countdownElement.textContent = seconds + '秒后自动跳转';
+        } else {
+            clearInterval(countdownInterval);
+            countdownElement.textContent = '正在跳转...';
+        }
+    }, 1000);
+}
+
+function goUrl(config, timeoutMs, replaceElement, countdownElement) {
     if (typeof config !== 'string' || typeof timeoutMs !== 'number') {
         console.error('Invalid parameters for goUrl function.');
         return;
@@ -47,6 +65,10 @@ function goUrl(config, timeoutMs, replaceElement) {
                 }
             }
             console.log(`${key} redirecting to ${url} with timeout ${timeoutMs}ms`);
+            // 启动倒计时显示
+            if (countdownElement) {
+                updateCountdownTips(countdownElement, Math.floor(timeoutMs / 1000));
+            }
             setTimeout(() => {
                 window.location.href = url;
             }, timeoutMs);
@@ -64,9 +86,10 @@ if (document.currentScript &&
     const timeoutMsStr = document.currentScript.getAttribute('timeoutms');
     const timeoutMs = parseInt(timeoutMsStr, 10);
     const replaceElement = document.currentScript.getAttribute('element');
+    const countdownElement = document.currentScript.getAttribute('countdown');
 
     if (isNaN(timeoutMs)) {
         timeoutMs = 0;
     }
-    goUrl(config, timeoutMs, replaceElement);
+    goUrl(config, timeoutMs, replaceElement, countdownElement);
 }
