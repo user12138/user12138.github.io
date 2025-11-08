@@ -3,6 +3,12 @@
 {% include nav/head.html %}
 <body ontouchstart="">
 {{ content }}
+{% if page.promotion %}
+{% include nav/content/promotion.html %}
+{% endif %}
+{% if page.bottom-banner-ads %}
+{% include nav/content/horizontal-ads.html %}
+{% endif %}
 {% if page.copyright %}
 {% include nav/content/copyright.html %}
 {% endif %}

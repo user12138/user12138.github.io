@@ -1,8 +1,9 @@
 ---
 layout: nav-default
 title: "API接口调试工具 | 混沌书签导航"
-ads: false
 copyright: true
+promotion: false
+bottom-banner-ads: true
 ---
 
 <link rel="stylesheet" href="./style.css">

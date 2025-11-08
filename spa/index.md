@@ -1,8 +1,9 @@
 ---
 layout: nav-default
 title: "在线工具集 | 混沌书签导航"
-ads: false
 copyright: true
+promotion: false
+bottom-banner-ads: true
 ---
 
 <link rel="stylesheet" href="./style.css">
