@@ -1,0 +1,252 @@
+.api-explorer-container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background: var(--bg-card);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+}
+
+.explorer-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.explorer-header h1 {
+  color: var(--primary-color);
+  margin-bottom: 10px;
+}
+
+.input-section {
+  margin-bottom: 25px;
+}
+
+/* 新增的选项区域样式 */
+.options-section {
+  display: flex;
+  gap: 30px;
+}
+
+.input-label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: var(--text-primary);
+}
+
+.text-input {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid var(--border-form);
+  border-radius: var(--radius-md);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  font-size: 14px;
+  transition: var(--transition-base);
+  box-sizing: border-box;
+}
+
+/* 为普通输入框设置固定高度 */
+#secret {
+  height: 38px;
+}
+
+.text-input:focus {
+  border-color: var(--primary-color);
+  box-shadow: var(--shadow-focus);
+  outline: none;
+}
+
+.textarea-container .text-input {
+  min-height: 150px;
+  resize: vertical;
+}
+
+.timestamp-container {
+  display: flex;
+  gap: 10px;
+}
+
+.timestamp-input {
+  flex: 1;
+  height: 38px;
+  box-sizing: border-box;
+}
+
+.refresh-button {
+  height: 38px;
+  padding: 0 15px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-form);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-size: 13px;
+  transition: var(--transition-base);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.refresh-button:hover {
+  background: var(--border-medium);
+}
+
+/* 新增的复选框样式 */
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
+.checkbox-container input {
+  margin-right: 10px;
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.checkmark {
+  color: var(--text-primary);
+  font-weight: normal;
+}
+
+/* 新增的样式用于水平排列 */
+.input-row {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 25px;
+}
+
+.flex-1 {
+  flex: 1;
+  margin-bottom: 0;
+}
+
+.controls-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 25px;
+  padding: 15px;
+  background: var(--bg-secondary);
+  border-radius: var(--radius-md);
+}
+
+.generate-button {
+  height: 38px;
+  padding: 0 25px;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-weight: bold;
+  transition: var(--transition-base);
+}
+
+.generate-button:hover {
+  background: var(--primary-hover);
+  transform: translateY(-1px);
+}
+
+.result-section {
+  margin-top: 25px;
+}
+
+.result-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.result-title {
+  font-weight: bold;
+  color: var(--text-primary);
+}
+
+.copy-button {
+  height: 32px;
+  padding: 0 15px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-form);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-size: 13px;
+  transition: var(--transition-base);
+}
+
+.copy-button:hover {
+  background: var(--border-medium);
+}
+
+.result-content {
+  border: 1px solid var(--border-medium);
+  border-radius: var(--radius-md);
+  padding: 15px;
+  background: var(--bg-primary);
+  min-height: 60px;
+}
+
+/* 新增的密钥信息样式 */
+.key-info {
+  padding: 10px 0;
+  margin-bottom: 15px;
+  border-bottom: 1px dashed var(--border-medium);
+  font-family: monospace;
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.signature-result {
+  word-break: break-all;
+  font-family: monospace;
+  font-size: 14px;
+  color: var(--text-primary);
+}
+
+.empty-result {
+  text-align: center;
+  padding: 20px;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.success-result {
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+.error-message {
+  color: #d32f2f;
+  background: #ffebee;
+  padding: 12px 15px;
+  border-radius: var(--radius-md);
+  margin-bottom: 20px;
+  border-left: 4px solid #d32f2f;
+}
+
+@media screen and (max-width: 767px) {
+  .api-explorer-container {
+    padding: 15px;
+    margin: 10px;
+  }
+
+  .controls-section {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .timestamp-container {
+    flex-direction: column;
+  }
+  
+  /* 响应式调整 */
+  .input-row {
+    flex-direction: column;
+    gap: 25px;
+  }
+}

@@ -1,0 +1,96 @@
+.tools-container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.tools-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.tools-header h1 {
+  color: var(--primary-color);
+  margin-bottom: 15px;
+}
+
+.tools-header p {
+  color: var(--text-secondary);
+  font-size: 16px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.tool-card {
+  background: var(--bg-card);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+  transition: var(--transition-base);
+  border: 1px solid var(--border-medium);
+}
+
+.tool-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 2px 4px 12px 0px rgba(0, 0, 0, 0.2);
+}
+
+.tool-image {
+  height: 160px;
+  background-color: var(--primary-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--primary-color);
+  font-size: 48px;
+}
+
+.tool-content {
+  padding: 25px;
+}
+
+.tool-content h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: var(--text-primary);
+}
+
+.tool-content p {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.tool-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background: var(--primary-color);
+  color: #ffffff !important; /* 提高优先级确保白色文字 */
+  text-decoration: none;
+  border-radius: var(--radius-md);
+  font-weight: bold;
+  transition: var(--transition-base);
+}
+
+.tool-link:hover {
+  background: var(--primary-hover);
+  color: #ffffff !important; /* 悬停时也保持白色 */
+  transform: translateY(-1px);
+}
+
+@media screen and (max-width: 767px) {
+  .tools-container {
+    padding: 15px;
+    margin: 10px;
+  }
+
+  .tools-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,68 @@
+---
+layout: nav-default
+title: "API接口调试工具 | 混沌书签导航"
+ads: false
+copyright: true
+---
+
+<link rel="stylesheet" href="./style.css">
+<script src="./script.js"></script>
+<!-- 引入 CryptoJS 库用于 HMAC-SHA256 计算 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+
+<div class="api-explorer-container">
+    <div class="explorer-header">
+        <h1>API接口调试工具</h1>
+        <p>浏览器本地计算，支持HMAC-SHA256算法生成 API 接口签名</p>
+    </div>
+
+    <div class="input-section">
+        <label class="input-label" for="postParams">POST参数 (JSON格式):</label>
+        <div class="textarea-container">
+            <textarea class="text-input" id="postParams" placeholder='{"name": "test", "value": 123}'>{"name": "test", "value": 123}</textarea>
+        </div>
+    </div>
+
+    <div class="input-row">
+        <div class="input-section flex-1">
+            <label class="input-label" for="secret">Secret:</label>
+            <input class="text-input" type="text" id="secret" placeholder="请输入secret" value="test">
+        </div>
+
+        <div class="input-section flex-1">
+            <label class="input-label" for="timestamp">时间戳:</label>
+            <div class="timestamp-container">
+                <input class="text-input timestamp-input" type="text" id="timestamp" placeholder="请输入秒级时间戳">
+                <button class="refresh-button" id="refreshTimestamp">刷新</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="input-section options-section">
+        <label class="checkbox-container">
+            <input type="checkbox" id="useTimestamp" checked>
+            <span class="checkmark">使用时间戳</span>
+        </label>
+        <label class="checkbox-container">
+            <input type="checkbox" id="uppercaseSignature">
+            <span class="checkmark">转换为大写</span>
+        </label>
+    </div>
+
+    <div class="controls-section">
+        <button class="generate-button" id="generateSignature">生成签名</button>
+    </div>
+
+    <div class="result-section">
+        <div class="result-header">
+            <div class="result-title">签名结果:</div>
+            <button class="copy-button" id="copySignature" style="display: none;">复制签名</button>
+        </div>
+        <div class="result-content">
+            <div id="keyInfo" class="key-info" style="display: none;"></div>
+            <div id="signatureResult" class="signature-result">
+                <div class="empty-result">点击"生成签名"按钮生成签名结果</div>
+            </div>
+        </div>
+    </div>
+</div>

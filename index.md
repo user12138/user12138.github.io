@@ -22,3 +22,6 @@ copyright: true
 {% if page.ads %}
 {% include nav/content/promotion.html %}
 {% endif %}
+
+<!-- 搜索框功能 -->
+<script defer type="text/javascript" src="/static/js/search.js" appId="nav-FOHPHDJ"></script>

@@ -81,8 +81,18 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://ypingcn.com/spa/</loc>
+  <lastmod>2025-11-08T03:30:00+00:00</lastmod>
+  <priority>1</priority>
+</url>
+<url>
+  <loc>https://ypingcn.com/spa/api-explorer/</loc>
+  <lastmod>2025-11-08T03:30:00+00:00</lastmod>
+  <priority>1</priority>
+</url>
+<url>
   <loc>https://ypingcn.com/spa/text-to-table/</loc>
-  <lastmod>2025-11-07T10:00:00+00:00</lastmod>
+  <lastmod>2025-11-08T03:30:00+00:00</lastmod>
   <priority>1</priority>
 </url>
 </urlset>
