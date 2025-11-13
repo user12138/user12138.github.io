@@ -7,9 +7,9 @@ bottom-banner-ads: true
 ---
 
 <link rel="stylesheet" href="./style.css">
-<script src="./script.js"></script>
 <!-- 引入 CryptoJS 库用于 HMAC-SHA256 计算 -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+<script src="./script.js"></script>
 
 <div class="api-explorer-container">
     <div class="explorer-header">

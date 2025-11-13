@@ -1,0 +1,364 @@
+.hash-container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background: var(--bg-card);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+}
+
+.hash-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.hash-header h1 {
+  color: var(--primary-color);
+  margin-bottom: 10px;
+}
+
+.drop-area {
+  border: 2px dashed var(--border-form);
+  border-radius: var(--radius-md);
+  padding: 40px 20px;
+  text-align: center;
+  background-color: var(--bg-secondary);
+  transition: var(--transition-base);
+  margin-bottom: 25px;
+  cursor: pointer;
+}
+
+.drop-area:hover,
+.drop-area.dragover {
+  border-color: var(--primary-color);
+  background-color: var(--primary-light);
+}
+
+.drop-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.drop-icon {
+  font-size: 48px;
+  margin-bottom: 15px;
+}
+
+.drop-area p {
+  margin-bottom: 20px;
+  color: var(--text-secondary);
+}
+
+.file-input {
+  display: none;
+}
+
+.browse-button {
+  height: 38px;
+  padding: 0 25px;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-weight: bold;
+  transition: var(--transition-base);
+}
+
+.browse-button:hover {
+  background: var(--primary-hover);
+  transform: translateY(-1px);
+}
+
+.file-info {
+  background: var(--bg-secondary);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+.file-info h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: var(--text-primary);
+}
+
+.file-details {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+}
+
+.file-name,
+.file-size,
+.file-type {
+  color: var(--text-primary);
+}
+
+.file-name span,
+.file-size span,
+.file-type span {
+  color: var(--text-secondary);
+  font-family: monospace;
+}
+
+.controls-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 25px;
+  padding: 20px;
+  background: var(--bg-secondary);
+  border-radius: var(--radius-md);
+}
+
+.algorithm-options {
+  flex: 1;
+}
+
+.algorithm-options .input-label {
+  margin-bottom: 15px;
+}
+
+.checkbox-group {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
+.checkbox-container input {
+  margin-right: 10px;
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.checkmark {
+  color: var(--text-primary);
+  font-weight: normal;
+}
+
+.calculate-button {
+  height: 38px;
+  padding: 0 25px;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-weight: bold;
+  transition: var(--transition-base);
+}
+
+.calculate-button:hover {
+  background: var(--primary-hover);
+  transform: translateY(-1px);
+}
+
+.calculate-button:disabled {
+  background: var(--border-medium);
+  cursor: not-allowed;
+  transform: none;
+}
+
+.result-section {
+  margin-top: 25px;
+}
+
+.result-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.result-title {
+  font-weight: bold;
+  color: var(--text-primary);
+}
+
+.copy-button {
+  height: 32px;
+  padding: 0 15px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-form);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-size: 13px;
+  transition: var(--transition-base);
+}
+
+.copy-button:hover {
+  background: var(--border-medium);
+}
+
+.result-content {
+  /* 移除边框和背景色 */
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  background: transparent;
+  min-height: 200px;
+}
+
+.hash-result {
+  white-space: pre-wrap;
+  font-family: monospace;
+  font-size: 14px;
+  color: var(--text-primary);
+  line-height: 1.8;
+}
+
+.hash-result-table {
+  width: 100%; /* 与容器一样宽 */
+  border-collapse: collapse;
+  margin-top: 10px;
+  /* 移除固定最大宽度，使其与容器一致 */
+}
+
+.hash-result-table th,
+.hash-result-table td {
+  padding: px 12px; /* 进一步减小垂直内边距 */
+  text-align: left;
+  border-bottom: 1px solid var(--border-medium);
+}
+
+.hash-result-table th {
+  background: var(--primary-light);
+  font-weight: bold;
+  color: var(--text-primary);
+  /* 减小表头高度 */
+  padding: 6px 12px;
+}
+
+.hash-result-table tr:last-child td {
+  border-bottom: none;
+}
+
+.hash-result-table td:last-child {
+  text-align: right;
+}
+
+.hash-result-table tr:nth-child(even) {
+  background: var(--bg-secondary);
+}
+
+.algorithm-name {
+  font-weight: bold;
+  color: var(--text-primary);
+  /* 减小字体大小 */
+  font-size: 13px;
+}
+
+.hash-value {
+  font-family: monospace;
+  word-break: break-all;
+  font-size: 12px; /* 减小字体大小 */
+  line-height: 1.3; /* 减小行高 */
+}
+
+.copy-cell {
+  width: 100px;
+  text-align: center;
+}
+
+.copy-row-button {
+  height: 24px; /* 减小按钮高度 */
+  padding: 0 12px; /* 减小按钮内边距 */
+  min-width: 80px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-form);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-size: 11px; /* 减小按钮字体大小 */
+  transition: var(--transition-base);
+}
+
+.copy-row-button:hover {
+  background: var(--border-medium);
+}
+
+.copy-row-button.copied {
+  background: var(--primary-color);
+  color: white;
+}
+
+.empty-result {
+  text-align: center;
+  padding: 40px;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.success-result {
+  color: var(--text-primary);
+}
+
+.error-message {
+  color: #d32f2f;
+  background: #ffebee;
+  padding: 12px 15px;
+  border-radius: var(--radius-md);
+  margin-bottom: 20px;
+  border-left: 4px solid #d32f2f;
+}
+
+.progress-container {
+  margin: 20px 0;
+}
+
+.progress-bar {
+  height: 20px;
+  background-color: var(--border-medium);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: var(--primary-color);
+  width: 0%;
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  text-align: center;
+  margin-top: 10px;
+  color: var(--text-secondary);
+  font-size: 14px;
+}
+
+@media screen and (max-width: 767px) {
+  .hash-container {
+    padding: 15px;
+    margin: 10px;
+  }
+
+  .controls-section {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .checkbox-group {
+    grid-template-columns: 1fr;
+  }
+
+  .file-details {
+    grid-template-columns: 1fr;
+  }
+
+  .drop-area {
+    padding: 20px 10px;
+  }
+}
