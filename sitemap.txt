@@ -19,6 +19,7 @@ https://ypingcn.com/article/backup/20240330-douban-ywORR5.html
 https://ypingcn.com/article/backup/20240330-douban-IGJgm7.html
 https://ypingcn.com/spa/
 https://ypingcn.com/spa/api-explorer/
+https://ypingcn.com/spa/base64/
 https://ypingcn.com/spa/file-hash/
 https://ypingcn.com/spa/sort-text/
 https://ypingcn.com/spa/text-to-table/

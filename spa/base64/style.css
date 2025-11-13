@@ -1,0 +1,111 @@
+.base64-container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background: var(--bg-card);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+}
+
+.base64-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.base64-header h1 {
+  color: var(--primary-color);
+  margin-bottom: 10px;
+}
+
+.converter-layout {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.input-section {
+  flex: 1;
+}
+
+.input-label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: var(--text-primary);
+}
+
+.textarea-container {
+  position: relative;
+}
+
+.text-input {
+  width: 100%;
+  min-height: 200px;
+  padding: 15px;
+  border: 1px solid var(--border-form);
+  border-radius: var(--radius-md);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  font-size: 14px;
+  resize: vertical;
+  transition: var(--transition-base);
+  box-sizing: border-box;
+}
+
+.text-input:focus {
+  border-color: var(--primary-color);
+  box-shadow: var(--shadow-focus);
+  outline: none;
+}
+
+.button-section {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+}
+
+.convert-button {
+  height: 38px;
+  padding: 0 25px;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-weight: bold;
+  transition: var(--transition-base);
+}
+
+.convert-button:hover {
+  background: var(--primary-hover);
+  transform: translateY(-1px);
+}
+
+.error-message {
+  color: #d32f2f;
+  background: #ffebee;
+  padding: 12px 15px;
+  border-radius: var(--radius-md);
+  margin-top: 10px;
+  border-left: 4px solid #d32f2f;
+}
+
+@media screen and (max-width: 767px) {
+  .base64-container {
+    padding: 15px;
+    margin: 10px;
+  }
+
+  .converter-layout {
+    flex-direction: column;
+  }
+
+  .button-section {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .text-input {
+    min-height: 150px;
+  }
+}
