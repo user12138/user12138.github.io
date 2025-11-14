@@ -7,7 +7,7 @@ bottom-banner-ads: false
 ---
 
 <!-- 搜索框功能 -->
-<script defer type="text/javascript" src="/static/js/search.js" appId="nav-FOHPHDJ"></script>
+<script defer type="text/javascript" src="/static/js/search.js" appId="nav-IBNSROE"></script>
 
 {% include nav/content/horizontal-ads.html %}
 {% include nav/content/search-bar.html %}

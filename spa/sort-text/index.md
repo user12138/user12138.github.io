@@ -1,5 +1,5 @@
 ---
-layout: nav-default
+layout: spa-default
 title: "文本排序工具 | 混沌书签导航"
 copyright: true
 promotion: false
@@ -18,7 +18,7 @@ bottom-banner-ads: true
     <div class="input-section">
         <label class="input-label" for="textInput">请输入要排序的文本（每行一个项目）：</label>
         <div class="textarea-container">
-            <textarea class="text-input" id="textInput" placeholder="在此输入您的文本&#10;&#10;示例：&#10;香蕉&#10;苹果&#10;橙子&#10;葡萄&#10;草莓"></textarea>
+            <textarea class="text-input" id="textInput" placeholder="在此输入您的文本,如：&#10;&#10;香蕉&#10;苹果&#10;橙子&#10;葡萄&#10;草莓"></textarea>
         </div>
     </div>
 
@@ -46,17 +46,4 @@ bottom-banner-ads: true
         </div>
         <button class="sort-button" id="sortButton">排序文本</button>
     </div>
-
-    <div class="result-section">
-        <div class="result-header">
-            <div class="result-title">排序结果：</div>
-            <button class="copy-button" id="copyButton" style="display: none;">复制结果</button>
-        </div>
-        <div class="result-content">
-            <div id="sortResult" class="sort-result">
-                <div class="empty-result">排序后的文本将显示在这里</div>
-            </div>
-        </div>
-    </div>
 </div>
-

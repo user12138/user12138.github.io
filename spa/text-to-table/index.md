@@ -1,5 +1,5 @@
 ---
-layout: nav-default
+layout: spa-default
 title: "在线文本转表格工具 | 混沌书签导航"
 copyright: true
 promotion: false
@@ -18,7 +18,7 @@ bottom-banner-ads: true
         <label class="input-label" for="textInput">请输入要转换的文本：</label>
         <div class="textarea-container">
             <textarea class="text-input" id="textInput"
-                placeholder="在此输入您的文本数据&#10;&#10;示例：&#10;姓名,年龄,城市&#10;张三,25,北京&#10;李四,30,上海"></textarea>
+                placeholder="在此输入您的文本数据,如:&#10;&#10;姓名,年龄,城市&#10;张三,25,北京&#10;李四,30,上海"></textarea>
         </div>
     </div>
     <div class="controls-section">

@@ -1,5 +1,5 @@
 ---
-layout: nav-default
+layout: spa-default
 title: "浏览器在线实用工具集合 | 混沌书签导航"
 copyright: true
 promotion: false

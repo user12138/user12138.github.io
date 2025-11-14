@@ -1,5 +1,5 @@
 ---
-layout: nav-default
+layout: spa-default
 title: "API接口调试工具 | 混沌书签导航"
 copyright: true
 promotion: false

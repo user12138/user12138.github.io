@@ -1,5 +1,5 @@
 ---
-layout: nav-default
+layout: spa-default
 title: "Base64编码解码工具 | 混沌书签导航"
 copyright: true
 promotion: false
@@ -36,4 +36,3 @@ bottom-banner-ads: true
         </div>
     </div>
 </div>
-

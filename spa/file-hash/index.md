@@ -1,5 +1,5 @@
 ---
-layout: nav-default
+layout: spa-default
 title: "文件哈希计算工具 | 混沌书签导航"
 copyright: true
 promotion: false
@@ -43,23 +43,23 @@ bottom-banner-ads: true
                     <span class="checkmark">MD5</span>
                 </label>
                 <label class="checkbox-container">
-                    <input type="checkbox" name="algorithms" value="SHA1" checked>
+                    <input type="checkbox" name="algorithms" value="SHA1">
                     <span class="checkmark">SHA1</span>
                 </label>
                 <label class="checkbox-container">
-                    <input type="checkbox" name="algorithms" value="SHA256" checked>
+                    <input type="checkbox" name="algorithms" value="SHA256">
                     <span class="checkmark">SHA256</span>
                 </label>
                 <label class="checkbox-container">
-                    <input type="checkbox" name="algorithms" value="SHA512" checked>
+                    <input type="checkbox" name="algorithms" value="SHA512">
                     <span class="checkmark">SHA512</span>
                 </label>
                 <label class="checkbox-container">
-                    <input type="checkbox" name="algorithms" value="SHA3-256" checked>
+                    <input type="checkbox" name="algorithms" value="SHA3-256">
                     <span class="checkmark">SHA3-256</span>
                 </label>
                 <label class="checkbox-container">
-                    <input type="checkbox" name="algorithms" value="SHA3-512" checked>
+                    <input type="checkbox" name="algorithms" value="SHA3-512">
                     <span class="checkmark">SHA3-512</span>
                 </label>
             </div>
@@ -76,4 +76,3 @@ bottom-banner-ads: true
         </div>
     </div>
 </div>
-

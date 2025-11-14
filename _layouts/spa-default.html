@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+{% include spa/header.html %}
+<body ontouchstart="">
+{% include spa/spa-nav-header.html %}
+{{ content }}
+{% if page.promotion %}
+{% include nav/content/promotion.html %}
+{% endif %}
+{% if page.bottom-banner-ads %}
+{% include nav/content/horizontal-ads.html %}
+{% endif %}
+{% if page.copyright %}
+{% include nav/content/copyright.html %}
+{% endif %}
+{% include spa/footer.html %}
+</body>
+</html>
