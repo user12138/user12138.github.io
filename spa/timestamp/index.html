@@ -1,0 +1,57 @@
+---
+layout: nav-default
+title: "时间戳转换工具 | 混沌书签导航"
+ads: false
+copyright: true
+---
+
+<link rel="stylesheet" href="./style.css">
+<script src="./script.js"></script>
+
+<div class="timestamp-container">
+    <div class="timestamp-header">
+        <h1>时间戳转换工具</h1>
+        <p>支持时间与时间戳之间的相互转换</p>
+    </div>
+    <div class="converter-layout">
+        <div class="input-section">
+            <label class="input-label" for="dateInput">日期时间：</label>
+            <div class="input-container">
+                <input type="date" class="datetime-input" id="dateInput">
+                <input type="time" class="datetime-input" id="timeInput" value="00:00">
+            </div>
+            <button class="convert-button" id="toTimestampButton">转换为时间戳 →</button>
+        </div>
+
+        <div class="input-section">
+            <label class="input-label" for="timestampInput">时间戳：</label>
+            <div class="input-container">
+                <input type="number" class="text-input" id="timestampInput" placeholder="请输入时间戳">
+            </div>
+            <div class="button-group">
+                <button class="convert-button" id="toDatetimeButton">← 转换为日期时间</button>
+                <button class="convert-button" id="toDatetimeMsButton">← 转换为日期时间(毫秒)</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="current-time-section">
+        <div class="time-info">
+            <div class="time-item">
+                <span class="time-label">当前日期时间：</span>
+                <span class="time-value" id="currentDatetime"></span>
+                <button class="refresh-button" id="refreshTimeButton">刷新</button>
+            </div>
+            <div class="time-item">
+                <span class="time-label">秒级时间戳：</span>
+                <span class="time-value" id="currentTimestamp"></span>
+                <button class="action-button" id="copyTimestampButton">复制</button>
+            </div>
+            <div class="time-item">
+                <span class="time-label">毫秒级时间戳：</span>
+                <span class="time-value" id="currentMsTimestamp"></span>
+                <button class="action-button" id="copyMsTimestampButton">复制</button>
+            </div>
+        </div>
+    </div>
+</div>

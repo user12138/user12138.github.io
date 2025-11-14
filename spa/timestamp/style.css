@@ -1,0 +1,230 @@
+.timestamp-container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: var(--bg-card);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-card);
+}
+
+.timestamp-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.timestamp-header h1 {
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+.converter-layout {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+
+.input-section {
+    flex: 1;
+}
+
+.input-label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: var(--text-primary);
+}
+
+.input-container {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.datetime-input,
+.text-input {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid var(--border-form);
+    border-radius: var(--radius-md);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+    font-size: 14px;
+    transition: var(--transition-base);
+    box-sizing: border-box;
+}
+
+.datetime-input:focus,
+.text-input:focus {
+    border-color: var(--primary-color);
+    box-shadow: var(--shadow-focus);
+    outline: none;
+}
+
+.datetime-input {
+    min-height: auto;
+}
+
+.input-container {
+    display: flex;
+    gap: 10px;
+}
+
+.input-container .datetime-input {
+    flex: 1;
+}
+
+.convert-button {
+    height: 38px;
+    padding: 0 25px;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    font-weight: bold;
+    transition: var(--transition-base);
+    margin-top: 10px;
+}
+
+.convert-button:hover {
+    background: var(--primary-hover);
+    transform: translateY(-1px);
+}
+
+.button-group {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.time-item {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.time-label {
+    font-weight: bold;
+    color: var(--text-primary);
+    min-width: 120px;
+}
+
+.time-value {
+    color: var(--text-secondary);
+    font-family: monospace;
+    flex: 1;
+}
+
+.action-button {
+    height: 32px;
+    padding: 0 15px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-form);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    font-size: 13px;
+    transition: var(--transition-base);
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    min-width: 60px;
+}
+
+.action-button:hover {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.action-button:active {
+    transform: translateY(0);
+}
+
+.action-button.copied {
+    background: var(--success-color);
+    color: white;
+    border-color: var(--success-color);
+}
+
+.refresh-button {
+    height: 32px;
+    padding: 0 15px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-form);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    font-size: 13px;
+    transition: var(--transition-base);
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    min-width: 60px;
+}
+
+.refresh-button:hover {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.refresh-button:active {
+    transform: translateY(0);
+}
+
+.current-time-section {
+    background: var(--bg-secondary);
+    border-radius: var(--radius-md);
+    padding: 20px;
+}
+
+.current-time-section h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: var(--text-primary);
+}
+
+.time-info {
+    margin-bottom: 15px;
+}
+
+.error-message {
+    color: #d32f2f;
+    background: #ffebee;
+    padding: 12px 15px;
+    border-radius: var(--radius-md);
+    margin-top: 10px;
+    border-left: 4px solid #d32f2f;
+}
+
+@media screen and (max-width: 767px) {
+    .timestamp-container {
+        padding: 15px;
+        margin: 10px;
+    }
+
+    .converter-layout {
+        flex-direction: column;
+    }
+
+    .time-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .time-label {
+        min-width: auto;
+        margin-bottom: 5px;
+    }
+
+    .action-button {
+        margin-left: 0;
+        margin-top: 5px;
+    }
+}

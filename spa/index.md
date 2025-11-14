@@ -68,5 +68,15 @@ bottom-banner-ads: true
         <a href="/spa/base64/" class="tool-link">立即使用</a>
       </div>
     </div>
+    <div class="tool-card">
+      <div class="tool-image">
+        <span>⏰</span>
+      </div>
+      <div class="tool-content">
+        <h3>时间戳转换工具</h3>
+        <p>支持日期时间与时间戳之间的相互转换，自动识别秒级和毫秒级时间戳。</p>
+        <a href="/spa/timestamp/" class="tool-link">立即使用</a>
+      </div>
+    </div>
   </div>
 </div>
