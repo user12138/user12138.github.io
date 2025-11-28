@@ -1,12 +1,12 @@
 ---
 layout: article-default
-title: "网络安全工具合集 v2025.06.15 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
+title: "网络安全工具合集 v2025.11.28 | 混沌书签导航 | 提升效率/分享优质信息/资源收藏"
 noindex: false
 ---
 
 <article>
     <h3>说明</h3>
-        最后更新时间：2025 年 06 月 15 日
+        最后更新时间：2025 年 11 月 28 日
     <h3>软件列表</h3>
     网络安全工具合集
     <br><a target="_blank" rel="noopener nofollow" href="https://www.kaspersky.com.cn/free-antivirus">卡巴斯基杀毒</a>
@@ -60,16 +60,18 @@ noindex: false
     <a target="_blank" rel="noopener nofollow" href="https://ipdb.me/">ipdb.me</a>
     <a target="_blank" rel="noopener nofollow" href="https://iplark.com/">IPLark</a>
     <a target="_blank" rel="noopener nofollow" href="https://ipuu.net/">IPUU</a>
+    <a target="_blank" rel="noopener nofollow" href="https://www.ipipseek.com/">IPIPseek</a>
     <a target="_blank" rel="noopener nofollow" href="https://radar.cloudflare.com/ip">[Cloudflare Radar IP]</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.cloudflare.com/cdn-cgi/trace">[Cloudflare CGI IP]</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.ip.network/">IP.network</a>
     <br>【浏览器指纹检测】<br>
-    <a target="_blank" rel="noopener nofollow" href="https://amiunique.org/">[Am I unique?]</a>
+    <a target="_blank" rel="noopener nofollow" href="https://amiunique.org/fingerprint">[Am I unique?]</a>
     <a target="_blank" rel="noopener nofollow" href="https://browseraudit.com">BrowserAudit</a>
     <a target="_blank" rel="noopener nofollow" href="https://browserleaks.com/">BrowserLeaks</a>
     <a target="_blank" rel="noopener nofollow" href="https://coveryourtracks.eff.org/">[Cover Your Tracks]</a>
     <a target="_blank" rel="noopener nofollow" href="https://fingerprint.com/demo/">[Fingerprint Demo]</a>
     <a target="_blank" rel="noopener nofollow" href="https://pixelscan.net/">PixelScan</a>
+    <a target="_blank" rel="noopener nofollow" href="https://abrahamjuliot.github.io/creepjs/">CreepJS</a>
     <a target="_blank" rel="noopener nofollow" href="https://privacytests.org/">浏览器保护功能对比</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.browserscan.net/zh/">BrowserScan</a>
     <a target="_blank" rel="noopener nofollow" href="https://www.ghxi.com/llq">果核浏览器检测</a>
