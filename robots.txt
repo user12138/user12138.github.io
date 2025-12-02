@@ -3,6 +3,7 @@ Disallow: /assets/
 Disallow: /cgi-bin/
 Disallow: /go/
 Disallow: /rule/
+Disallow: /static/
 Disallow: /wp-admin/
 Disallow: /wp-content/
 Disallow: /wp-includes/
