@@ -20,7 +20,7 @@ var searchEngineData = new Map(
 );
 
 function initSearchEngine() {
-    var selectElement = document.getElementById('search-engine');
+    var selectElement = document.getElementById('data-search-engine');
     searchEngineData.forEach((value, key) => {
         var option = document.createElement('option');
         option.value = key;
@@ -32,8 +32,8 @@ function initSearchEngine() {
 window.onload = initSearchEngine;
 
 function toSearchPage() {
-    var searchEngine = document.getElementById("search-engine").value;
-    var searchContent = document.getElementById("search-content").value.trim();
+    var searchEngine = document.getElementById("data-search-engine").value;
+    var searchContent = document.getElementById("data-search-content").value.trim();
     if (searchContent === "") {
         console.log("no search content... ");
         return;

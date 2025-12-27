@@ -46,7 +46,7 @@ function initializePageMeta(appId) {
             });
 
             if (!response.ok) {
-                throw new Error(`HTTP请求失败: ${response.status}`);
+                throw new Error(`[Meta] http request failed: ${response.status}`);
             }
 
             const responseData = await response.json();
@@ -107,7 +107,7 @@ async function handleVisitRecords(
         return;
     }
 
-    console.log(`[Meta] detect changed, (${currentRecordIp || 'NULL'} -> ${nowVisitIp})，ready to save.`);
+    console.log(`[Meta] detect changed, (${currentRecordIp || 'NULL'} -> ${nowVisitIp}), ready to save.`);
 
     const visitRecord = {
         ip: nowVisitIp,
@@ -189,7 +189,7 @@ function initializeLinkStat(baseUrl, appId) {
     });
 }
 
-if (document.currentScript && document.currentScript.hasAttribute('appId')) {
-    const appId = document.currentScript.getAttribute('appId');
+if (document.currentScript && document.currentScript.hasAttribute('data-app-id')) {
+    const appId = document.currentScript.getAttribute('data-app-id');
     initializePageMeta(appId);
 }
