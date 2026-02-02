@@ -314,6 +314,23 @@
 		margin-bottom: 10px;
 	}
 
+	.action-button {
+		height: 38px;
+		padding: 0 25px;
+		background: var(--primary-color);
+		color: white;
+		border: none;
+		border-radius: var(--radius-md);
+		cursor: pointer;
+		font-weight: bold;
+		transition: var(--transition-base);
+	}
+
+	.action-button:hover {
+		background: var(--primary-hover);
+		transform: translateY(-1px);
+	}
+
 	/* 响应式设计 */
 	@media screen and (max-width: 767px) {
 		.spa-navbar-container {

@@ -24,8 +24,8 @@ bottom-banner-ads: true
         </div>
 
         <div class="button-section">
-            <button class="convert-button" id="encodeButton">编码为Base64 →</button>
-            <button class="convert-button" id="decodeButton">← 解码为文本</button>
+            <button class="action-button" id="encodeButton">编码为Base64 →</button>
+            <button class="action-button" id="decodeButton">← 解码为文本</button>
         </div>
 
         <div class="input-section">

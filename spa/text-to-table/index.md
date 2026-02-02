@@ -35,7 +35,7 @@ bottom-banner-ads: true
             <input class="custom-delimiter" type="text" id="customDelimiter" placeholder="输入字符" maxlength="5"
                 style="display: none;">
         </div>
-        <button class="convert-button" id="convertButton">转换为表格</button>
+        <button class="action-button" id="convertButton">转换为表格</button>
     </div>
 
     <div class="result-section">

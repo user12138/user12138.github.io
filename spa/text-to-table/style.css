@@ -68,23 +68,6 @@
   font-size: 14px;
 }
 
-.convert-button {
-  height: 38px;
-  padding: 0 25px;
-  background: var(--primary-color);
-  color: white;
-  border: none;
-  border-radius: var(--radius-md);
-  cursor: pointer;
-  font-weight: bold;
-  transition: var(--transition-base);
-}
-
-.convert-button:hover {
-  background: var(--primary-hover);
-  transform: translateY(-1px);
-}
-
 .result-section {
   margin-top: 25px;
 }
