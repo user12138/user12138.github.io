@@ -2,15 +2,13 @@ document.addEventListener('DOMContentLoaded', function () {
   const dropArea = document.getElementById('dropArea');
   const fileInput = document.getElementById('fileInput');
   const browseButton = document.getElementById('browseButton');
-  const fileInfo = document.getElementById('fileInfo');
-  const fileName = document.getElementById('fileName');
-  const fileSize = document.getElementById('fileSize');
-  const fileType = document.getElementById('fileType');
+  const fileList = document.getElementById('fileList');
+  const fileDetailsContainer = document.getElementById('fileDetailsContainer');
   const calculateButton = document.getElementById('calculateButton');
   const hashResult = document.getElementById('hashResult');
   const algorithmCheckboxes = document.querySelectorAll('input[name="algorithms"]');
 
-  let selectedFile = null;
+  let selectedFiles = [];
 
   // 事件监听器
   browseButton.addEventListener('click', () => fileInput.click());
@@ -61,17 +59,39 @@ document.addEventListener('DOMContentLoaded', function () {
   // 处理文件
   function handleFiles(files) {
     if (files.length > 0) {
-      selectedFile = files[0];
-      displayFileInfo(selectedFile);
+      selectedFiles = Array.from(files);
+      displayFileInfos(selectedFiles);
     }
   }
 
   // 显示文件信息
-  function displayFileInfo(file) {
-    fileName.textContent = file.name;
-    fileSize.textContent = formatFileSize(file.size);
-    fileType.textContent = file.type || '未知';
-    fileInfo.style.display = 'block';
+  function displayFileInfos(files) {
+    fileDetailsContainer.innerHTML = ''; // 清空现有内容
+
+    files.forEach((file, index) => {
+      const fileDetailDiv = document.createElement('div');
+      fileDetailDiv.className = 'file-details-item';
+      fileDetailDiv.innerHTML = `
+        <div class="file-item">
+          <div class="file-name">文件${index + 1}: <span>${file.name}</span></div>
+          <div class="file-size">大小: <span>${formatFileSize(file.size)}</span></div>
+          <div class="file-type">类型: <span>${file.type || '未知'}</span></div>
+          <button class="remove-file-btn" data-index="${index}">×</button>
+        </div>
+      `;
+      fileDetailsContainer.appendChild(fileDetailDiv);
+    });
+
+    // 为删除按钮添加事件监听器
+    const removeButtons = document.querySelectorAll('.remove-file-btn');
+    removeButtons.forEach(button => {
+      button.addEventListener('click', function () {
+        const fileIndex = parseInt(this.getAttribute('data-index'));
+        removeFile(fileIndex);
+      });
+    });
+
+    fileList.style.display = files.length > 0 ? 'block' : 'none';
   }
 
   // 格式化文件大小
@@ -81,6 +101,15 @@ document.addEventListener('DOMContentLoaded', function () {
     const sizes = ['Bytes', 'KB', 'MB', 'GB'];
     const i = Math.floor(Math.log(bytes) / Math.log(k));
     return parseFloat((bytes / Math.pow(k, i)).toFixed(2)) + ' ' + sizes[i];
+  }
+
+  // 删除指定索引的文件
+  function removeFile(index) {
+    if (index >= 0 && index < selectedFiles.length) {
+      selectedFiles.splice(index, 1);
+      // 重新显示文件列表
+      displayFileInfos(selectedFiles);
+    }
   }
 
   // 获取选中的算法
@@ -96,8 +125,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // 计算哈希值
   async function calculateHashes() {
-    if (!selectedFile) {
-      showError('请先选择一个文件');
+    if (selectedFiles.length === 0) {
+      showError('请先选择至少一个文件');
       return;
     }
 
@@ -118,27 +147,37 @@ document.addEventListener('DOMContentLoaded', function () {
       calculateButton.disabled = true;
       calculateButton.textContent = '计算中...';
 
-      // 计算每个算法的哈希值
-      const results = {};
-      for (let i = 0; i < algorithms.length; i++) {
-        const algorithm = algorithms[i];
-        const hash = await calculateHash(selectedFile, algorithm);
-        results[algorithm] = hash;
-        
-        // 更新进度
-        const progress = ((i + 1) / algorithms.length) * 100;
-        showProgress(progress);
+      // 为每个文件计算每种算法的哈希值
+      const allResults = {};
+      let totalOperations = selectedFiles.length * algorithms.length;
+      let completedOperations = 0;
+
+      for (let fileIndex = 0; fileIndex < selectedFiles.length; fileIndex++) {
+        const file = selectedFiles[fileIndex];
+        const fileName = file.name;
+        allResults[fileName] = {};
+
+        for (let algoIndex = 0; algoIndex < algorithms.length; algoIndex++) {
+          const algorithm = algorithms[algoIndex];
+          const hash = await calculateHash(file, algorithm);
+          allResults[fileName][algorithm] = hash;
+
+          // 更新进度
+          completedOperations++;
+          const progress = (completedOperations / totalOperations) * 100;
+          showProgress(progress);
+        }
       }
 
       // 显示结果
-      showResults(results);
+      showResults(allResults);
     } catch (error) {
       showError('计算哈希值时出错：' + error.message);
     } finally {
       // 启用计算按钮
       calculateButton.disabled = false;
       calculateButton.textContent = '计算哈希';
-      
+
       // 隐藏进度条
       hideProgress();
     }
@@ -148,12 +187,12 @@ document.addEventListener('DOMContentLoaded', function () {
   function calculateHash(file, algorithm) {
     return new Promise((resolve, reject) => {
       const reader = new FileReader();
-      
-      reader.onload = function(e) {
+
+      reader.onload = function (e) {
         try {
           const wordArray = CryptoJS.lib.WordArray.create(e.target.result);
           let hash;
-          
+
           switch (algorithm) {
             case 'MD5':
               hash = CryptoJS.MD5(wordArray).toString();
@@ -177,17 +216,17 @@ document.addEventListener('DOMContentLoaded', function () {
               reject(new Error('不支持的算法：' + algorithm));
               return;
           }
-          
+
           resolve(hash);
         } catch (error) {
           reject(error);
         }
       };
-      
-      reader.onerror = function() {
+
+      reader.onerror = function () {
         reject(new Error('读取文件时出错'));
       };
-      
+
       reader.readAsArrayBuffer(file);
     });
   }
@@ -200,7 +239,7 @@ document.addEventListener('DOMContentLoaded', function () {
       progressContainer.className = 'progress-container';
       hashResult.parentNode.insertBefore(progressContainer, hashResult);
     }
-    
+
     progressContainer.innerHTML = `
       <div class="progress-bar">
         <div class="progress-fill" style="width: ${percent}%"></div>
@@ -219,10 +258,22 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // 显示结果
   function showResults(results) {
-    let tableHtml = `
+    let html = '';
+
+    // 将结果转换为行数组，按文件分组
+    const rows = [];
+    for (const [fileName, fileResults] of Object.entries(results)) {
+      for (const [algorithm, hash] of Object.entries(fileResults)) {
+        rows.push({ fileName, algorithm, hash });
+      }
+    }
+
+    // 构建表格
+    html += `
       <table class="hash-result-table">
         <thead>
           <tr>
+            <th>文件名</th>
             <th>算法</th>
             <th>哈希值</th>
             <th>操作</th>
@@ -230,26 +281,30 @@ document.addEventListener('DOMContentLoaded', function () {
         </thead>
         <tbody>
     `;
-    
-    for (const [algorithm, hash] of Object.entries(results)) {
-      tableHtml += `
+
+    // 生成表格行，每个结果一行
+    for (let i = 0; i < rows.length; i++) {
+      const row = rows[i];
+
+      html += `
         <tr>
-          <td class="algorithm-name">${algorithm}</td>
-          <td class="hash-value">${hash}</td>
+          <td class="file-name-cell">${row.fileName}</td>
+          <td class="algorithm-name">${row.algorithm}</td>
+          <td class="hash-value">${row.hash}</td>
           <td class="copy-cell">
-            <button class="copy-button" data-algorithm="${algorithm}" data-hash="${hash}">复制</button>
+            <button class="copy-button" data-algorithm="${row.algorithm}" data-hash="${row.hash}" data-filename="${row.fileName}">复制</button>
           </td>
         </tr>
       `;
     }
-    
-    tableHtml += `
+
+    html += `
         </tbody>
       </table>
     `;
-    
-    hashResult.innerHTML = tableHtml;
-    
+
+    hashResult.innerHTML = html;
+
     // 为复制按钮添加事件监听器
     const copyButtons = document.querySelectorAll('.copy-button');
     copyButtons.forEach(button => {
@@ -261,7 +316,7 @@ document.addEventListener('DOMContentLoaded', function () {
   function copyRowToClipboard(event) {
     const button = event.target;
     const hash = button.getAttribute('data-hash');
-    
+
     try {
       // 使用现代Clipboard API
       if (navigator.clipboard) {
@@ -313,7 +368,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const originalText = button.textContent;
     button.textContent = '已复制!';
     button.classList.add('copied');
-    
+
     setTimeout(() => {
       button.textContent = originalText;
       button.classList.remove('copied');

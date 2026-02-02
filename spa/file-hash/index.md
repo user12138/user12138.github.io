@@ -19,18 +19,15 @@ bottom-banner-ads: true
 
     <div class="drop-area" id="dropArea">
         <div class="drop-content">
-            <div class="drop-icon">📁</div>
             <p>将文件拖拽到此处或点击选择文件</p>
             <input type="file" id="fileInput" class="file-input" multiple>
             <button class="action-button" id="browseButton">浏览文件</button>
         </div>
-    </div>
-
-    <div class="file-info" id="fileInfo" style="display: none;">
-        <div class="file-details">
-            <div class="file-name">文件名：<span id="fileName"></span></div>
-            <div class="file-size">文件大小：<span id="fileSize"></span></div>
-            <div class="file-type">文件类型：<span id="fileType"></span></div>
+        <div class="file-list" id="fileList" style="display: none;">
+            <h3>已选择的文件列表</h3>
+            <div class="file-details-container" id="fileDetailsContainer">
+                <!-- 文件信息将动态插入到这里 -->
+            </div>
         </div>
     </div>
 
