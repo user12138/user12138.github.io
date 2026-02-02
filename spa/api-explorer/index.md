@@ -34,7 +34,7 @@ bottom-banner-ads: true
             <label class="input-label" for="timestamp">时间戳:</label>
             <div class="timestamp-container">
                 <input class="text-input timestamp-input" type="text" id="timestamp" placeholder="请输入秒级时间戳">
-                <button class="refresh-button" id="refreshTimestamp">刷新</button>
+                <button class="action-button" id="refreshTimestamp">刷新</button>
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@ bottom-banner-ads: true
     </div>
 
     <div class="controls-section">
-        <button class="generate-button" id="generateSignature">生成签名</button>
+        <button class="action-button" id="generateSignature">生成签名</button>
     </div>
 
     <div class="result-section">

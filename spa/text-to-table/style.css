@@ -84,21 +84,6 @@
   color: var(--text-primary);
 }
 
-.copy-button {
-  height: 32px;
-  padding: 0 15px;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-form);
-  border-radius: var(--radius-md);
-  cursor: pointer;
-  font-size: 13px;
-  transition: var(--transition-base);
-}
-
-.copy-button:hover {
-  background: var(--border-medium);
-}
-
 .table-container {
   overflow-x: auto;
   border: 1px solid var(--border-medium);

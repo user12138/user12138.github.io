@@ -199,8 +199,11 @@ document.addEventListener('DOMContentLoaded', function () {
   function showCopySuccess() {
     const originalText = copySignature.textContent;
     copySignature.textContent = '已复制!';
+    copySignature.classList.add('copied');
+    
     setTimeout(() => {
       copySignature.textContent = originalText;
-    }, 2000);
+      copySignature.classList.remove('copied');
+    }, 3000); // 保持3秒
   }
 });

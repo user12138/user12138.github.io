@@ -204,15 +204,23 @@ document.addEventListener('DOMContentLoaded', function () {
       document.execCommand('copy');
       document.body.removeChild(tempTextarea);
       
-      // 显示提示信息
-      const originalText = copyButton.textContent;
-      copyButton.textContent = '已复制!';
-      setTimeout(() => {
-        copyButton.textContent = originalText;
-      }, 2000);
+      // 显示复制成功提示
+      showCopySuccess(copyButton);
     } catch (error) {
       alert('复制失败，请手动选择表格内容进行复制');
     }
+  }
+
+  // 显示复制成功提示
+  function showCopySuccess(button) {
+    const originalText = button.textContent;
+    button.textContent = '已复制!';
+    button.classList.add('copied');
+    
+    setTimeout(() => {
+      button.textContent = originalText;
+      button.classList.remove('copied');
+    }, 3000); // 保持3秒
   }
 
   // 将表格转换为文本格式

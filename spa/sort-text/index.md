@@ -44,6 +44,6 @@ bottom-banner-ads: true
                 </label>
             </div>
         </div>
-        <button class="sort-button" id="sortButton">排序文本</button>
+        <button class="action-button" id="sortButton">排序文本</button>
     </div>
 </div>

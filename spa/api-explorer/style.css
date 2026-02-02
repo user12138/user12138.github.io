@@ -53,24 +53,6 @@
   box-sizing: border-box;
 }
 
-.refresh-button {
-  height: 38px;
-  padding: 0 15px;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-form);
-  border-radius: var(--radius-md);
-  cursor: pointer;
-  font-size: 13px;
-  transition: var(--transition-base);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.refresh-button:hover {
-  background: var(--border-medium);
-}
-
 /* 新增的复选框样式 */
 .checkbox-container {
   display: flex;
@@ -149,20 +131,7 @@
   color: var(--text-primary);
 }
 
-.copy-button {
-  height: 32px;
-  padding: 0 15px;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-form);
-  border-radius: var(--radius-md);
-  cursor: pointer;
-  font-size: 13px;
-  transition: var(--transition-base);
-}
 
-.copy-button:hover {
-  background: var(--border-medium);
-}
 
 .result-content {
   border: 1px solid var(--border-medium);

@@ -22,7 +22,7 @@ bottom-banner-ads: true
             <div class="drop-icon">📁</div>
             <p>将文件拖拽到此处或点击选择文件</p>
             <input type="file" id="fileInput" class="file-input" multiple>
-            <button class="browse-button" id="browseButton">浏览文件</button>
+            <button class="action-button" id="browseButton">浏览文件</button>
         </div>
     </div>
 
@@ -65,7 +65,7 @@ bottom-banner-ads: true
             </div>
         </div>
         
-        <button class="calculate-button" id="calculateButton">计算哈希</button>
+        <button class="action-button" id="calculateButton">计算哈希</button>
     </div>
 
     <div class="result-section">

@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', function () {
           <td class="algorithm-name">${algorithm}</td>
           <td class="hash-value">${hash}</td>
           <td class="copy-cell">
-            <button class="copy-row-button" data-algorithm="${algorithm}" data-hash="${hash}">复制</button>
+            <button class="copy-button" data-algorithm="${algorithm}" data-hash="${hash}">复制</button>
           </td>
         </tr>
       `;
@@ -251,7 +251,7 @@ document.addEventListener('DOMContentLoaded', function () {
     hashResult.innerHTML = tableHtml;
     
     // 为复制按钮添加事件监听器
-    const copyButtons = document.querySelectorAll('.copy-row-button');
+    const copyButtons = document.querySelectorAll('.copy-button');
     copyButtons.forEach(button => {
       button.addEventListener('click', copyRowToClipboard);
     });

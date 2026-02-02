@@ -25,7 +25,10 @@ document.addEventListener('DOMContentLoaded', function () {
   toDatetimeMsButton.addEventListener('click', convertToDatetimeMs);
 
   // 刷新时间按钮点击事件
-  refreshTimeButton.addEventListener('click', updateCurrentTime);
+  refreshTimeButton.addEventListener('click', function() {
+    updateCurrentTime();
+    showRefreshSuccess(refreshTimeButton);
+  });
 
   // 复制秒级时间戳按钮点击事件
   copyTimestampButton.addEventListener('click', function() {
@@ -240,7 +243,19 @@ document.addEventListener('DOMContentLoaded', function () {
     setTimeout(() => {
       button.textContent = originalText;
       button.classList.remove('copied');
-    }, 2000);
+    }, 3000); // 延长到3秒
+  }
+
+  // 显示刷新成功提示
+  function showRefreshSuccess(button) {
+    const originalText = button.textContent;
+    button.textContent = '已刷新!';
+    button.classList.add('refreshed');
+    
+    setTimeout(() => {
+      button.textContent = originalText;
+      button.classList.remove('refreshed');
+    }, 3000); // 保持3秒
   }
 
   // 显示错误信息
