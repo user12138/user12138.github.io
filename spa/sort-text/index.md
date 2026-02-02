@@ -10,7 +10,7 @@ bottom-banner-ads: true
 <script src="./script.js"></script>
 
 <div class="spa-page-container">
-    <div class="sort-header">
+    <div class="spa-page-header">
         <h1>文本排序工具</h1>
         <p>浏览器本地处理，支持按字母顺序正序/倒序、文字长度等多种方式对文本进行排序</p>
     </div>

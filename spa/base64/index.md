@@ -10,7 +10,7 @@ bottom-banner-ads: true
 <script src="./script.js"></script>
 
 <div class="spa-page-container">
-    <div class="base64-header">
+    <div class="spa-page-header">
         <h1>Base64编码解码工具</h1>
         <p>支持文本与Base64格式之间的相互转换</p>
     </div>

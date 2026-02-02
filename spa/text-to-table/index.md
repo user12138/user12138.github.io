@@ -10,7 +10,7 @@ bottom-banner-ads: true
 <script src="./script.js"></script>
 
 <div class="spa-page-container">
-    <div class="converter-header">
+    <div class="spa-page-header">
         <h1>在线文本转表格工具</h1>
         <p>浏览器本地处理，将文本数据快速转换为清晰易读的表格格式</p>
     </div>

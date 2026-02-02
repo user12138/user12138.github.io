@@ -12,7 +12,7 @@ bottom-banner-ads: true
 <script src="./script.js"></script>
 
 <div class="spa-page-container">
-    <div class="explorer-header">
+    <div class="spa-page-header">
         <h1>API接口调试工具</h1>
         <p>浏览器本地计算，支持HMAC-SHA256算法生成 API 接口签名</p>
     </div>
