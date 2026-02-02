@@ -1,12 +1,3 @@
-.sort-container {
-  max-width: 1200px;
-  margin: 20px auto;
-  padding: 20px;
-  background: var(--bg-card);
-  border-radius: var(--radius-md);
-  box-shadow: var(--shadow-card);
-}
-
 .sort-header {
   text-align: center;
   margin-bottom: 30px;
@@ -115,11 +106,6 @@
 }
 
 @media screen and (max-width: 767px) {
-  .sort-container {
-    padding: 15px;
-    margin: 10px;
-  }
-
   .controls-section {
     flex-direction: column;
     align-items: stretch;

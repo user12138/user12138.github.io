@@ -11,7 +11,7 @@ bottom-banner-ads: true
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
 <script src="./script.js"></script>
 
-<div class="api-explorer-container">
+<div class="spa-page-container">
     <div class="explorer-header">
         <h1>API接口调试工具</h1>
         <p>浏览器本地计算，支持HMAC-SHA256算法生成 API 接口签名</p>

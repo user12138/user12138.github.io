@@ -11,7 +11,7 @@ bottom-banner-ads: true
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
 <script src="./script.js"></script>
 
-<div class="hash-container">
+<div class="spa-page-container">
     <div class="hash-header">
         <h1>文件哈希计算工具</h1>
         <p>浏览器本地处理，支持拖拽文件并使用多种算法计算文件摘要</p>

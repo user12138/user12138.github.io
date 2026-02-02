@@ -9,7 +9,7 @@ bottom-banner-ads: true
 <link rel="stylesheet" href="./style.css">
 <script src="./script.js"></script>
 
-<div class="sort-container">
+<div class="spa-page-container">
     <div class="sort-header">
         <h1>文本排序工具</h1>
         <p>浏览器本地处理，支持按字母顺序正序/倒序、文字长度等多种方式对文本进行排序</p>
