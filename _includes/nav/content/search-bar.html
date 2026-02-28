@@ -1,11 +1,23 @@
 <div class="search-bar">
-    <br>
-    <div style="text-align: center;">
-        <form action="" onsubmit="return false">
-            <select class="search-select" id="data-search-engine"></select>
-            <input class="search-input" type="text" id="data-search-content" placeholder="输入搜索内容" onkeydown="if(event.keyCode==13){toSearchPage()}">
-            <button class="search-button" onclick="toSearchPage()" type="button"> 搜索 </button>
+    <div class="search-container">
+        <form action="" onsubmit="return false" class="search-form">
+            <div class="search-input-group">
+                <select class="search-select" id="data-search-engine">
+                    <option value="baidu">百度</option>
+                    <option value="google">Google</option>
+                    <option value="bing">必应</option>
+                </select>
+                <div class="search-divider"></div>
+                <input class="search-input" type="text" id="data-search-content" placeholder="输入搜索内容..."
+                    onkeydown="if(event.keyCode==13){toSearchPage()}">
+            </div>
+            <button class="search-button" onclick="toSearchPage()" type="button">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+                <span>搜索</span>
+            </button>
         </form>
     </div>
-    <br>
 </div>
